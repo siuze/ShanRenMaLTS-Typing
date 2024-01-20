@@ -2,11 +2,11 @@
   "build": {
     "beforeBuildCommand": "yarn build",
     "beforeDevCommand": "yarn run dev",
-    "devPath": "http://localhost:3000",
+    "devPath": "http://localhost:3000/ShanRenMaLTS-Typing",
     "distDir": "../build"
   },
   "package": {
-    "productName": "qwerty-learner",
+    "productName": "ShanRenMaLTS-Typing",
     "version": "0.1.0"
   },
   "tauri": {
@@ -51,7 +51,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "qwerty-learner",
+        "title": "ShanRenMaLTS-Typing",
         "width": 800
       }
     ]

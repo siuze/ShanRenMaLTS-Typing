@@ -81,7 +81,7 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
     const { saveAs } = await import('file-saver')
 
     if (imageURL) {
-      saveAs(imageURL, 'Qwerty-learner.png')
+      saveAs(imageURL, 'ShanRenMaLTS-Typing.png')
       recordShareAction('download')
     }
   }, [imageURL])
