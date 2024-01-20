@@ -52,8 +52,8 @@ export const hintSoundsConfigAtom = atomForConfig('hintSoundsConfig', {
 export const pronunciationConfigAtom = atomForConfig('pronunciation', {
   isOpen: true,
   volume: 1,
-  type: 'us' as PronunciationType,
-  name: '美音',
+  type: 'zh' as PronunciationType,
+  name: '普通话',
   isLoop: false,
   isTransRead: false,
   transVolume: 1,
