@@ -79,7 +79,9 @@ export default function AdvancedSetting() {
           </div>
           <div className={styles.section}>
             <span className={styles.sectionLabel}>是否忽略大小写</span>
-            <span className={styles.sectionDescription}>开启后，输入时不区分大小写，如输入“hello”和“Hello”都会被认为是正确的</span>
+            <span className={styles.sectionDescription}>
+              开启后，输入时不区分大小写，如输入“hello”和“Hello”都会被认为是正确的。因为山人码LTS的编码规定不区分大小写，但是实际使用中会对主码、小码进行大小写区分显示，使用【山人码·悟道】时务必开启
+            </span>
             <div className={styles.switchBlock}>
               <Switch checked={isIgnoreCase} onChange={onToggleIgnoreCase} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />

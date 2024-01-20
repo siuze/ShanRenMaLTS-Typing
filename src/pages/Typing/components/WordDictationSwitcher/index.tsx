@@ -14,17 +14,25 @@ const wordDictationTypeList: { name: string; type: WordDictationType }[] = [
     name: '全部隐藏',
     type: 'hideAll',
   },
+  //   {
+  //     name: '隐藏元音',
+  //     type: 'hideVowel',
+  //   },
+  //   {
+  //     name: '隐藏辅音',
+  //     type: 'hideConsonant',
+  //   },
+  //   {
+  //     name: '随机隐藏',
+  //     type: 'randomHide',
+  //   },
   {
-    name: '隐藏元音',
-    type: 'hideVowel',
+    name: '隐藏拆分',
+    type: 'hideSplit',
   },
   {
-    name: '隐藏辅音',
-    type: 'hideConsonant',
-  },
-  {
-    name: '随机隐藏',
-    type: 'randomHide',
+    name: '隐藏编码',
+    type: 'hideCode',
   },
 ]
 
@@ -67,14 +75,14 @@ export default function WordDictationSwitcher() {
         <>
           <Popover.Button
             className={`flex items-center justify-center rounded p-[2px] text-lg ${
-              wordDictationConfig.isOpen ? 'text-indigo-500' : 'text-gray-500'
-            } outline-none transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white  ${
-              open ? 'bg-indigo-500 text-white' : ''
+              wordDictationConfig.isOpen ? 'text-emerald-500' : 'text-gray-500'
+            } outline-none transition-colors duration-300 ease-in-out hover:bg-emerald-400 hover:text-white  ${
+              open ? 'bg-emerald-500 text-white' : ''
             }`}
             type="button"
             aria-label="开关默写模式"
           >
-            {wordDictationConfig.isOpen ? <IconEye className="icon" /> : <IconEyeSlash className="icon" />}
+            {wordDictationConfig.isOpen ? <IconEyeSlash className="icon" /> : <IconEye className="icon" />}
           </Popover.Button>
           <Transition
             as={Fragment}

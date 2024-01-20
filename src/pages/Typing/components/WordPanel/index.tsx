@@ -137,8 +137,11 @@ export default function WordPanel() {
             {!state.isTyping && (
               <div className="absolute flex h-full w-full justify-center">
                 <div className="z-10 flex w-full items-center backdrop-blur-sm">
-                  <p className="w-full select-none text-center text-xl text-gray-600 dark:text-gray-50">
-                    按任意键{state.timerData.time ? '继续' : '开始'}
+                  <p
+                    className="w-full select-none text-center text-xl text-emerald-500 dark:text-emerald-50"
+                    style={{ fontSize: 'x-large', fontWeight: 600, letterSpacing: '2px', textShadow: '0 0 0.4em white' }}
+                  >
+                    ▶ 按下任意按键以{state.timerData.time ? '继续' : '开始'}…
                   </p>
                 </div>
               </div>
@@ -151,7 +154,7 @@ export default function WordPanel() {
           </div>
         )}
       </div>
-      <Progress className={`mb-10 mt-auto ${state.isTyping ? 'opacity-100' : 'opacity-0'}`} />
+      <Progress className={`mt-auto ${state.isTyping ? 'opacity-100' : 'opacity-0'}`} />
     </div>
   )
 }

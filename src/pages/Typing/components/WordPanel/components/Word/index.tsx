@@ -139,7 +139,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
       if (wordState.letterStates[index] === 'correct' || (isShowAnswerOnHover && isHoveringWord)) return true
 
       if (wordDictationConfig.isOpen) {
-        if (wordDictationConfig.type === 'hideAll') return false
+        if (wordDictationConfig.type === 'hideAll' || wordDictationConfig.type === 'hideCode') return false
 
         const letter = wordState.displayWord[index]
         if (wordDictationConfig.type === 'hideVowel') {
@@ -287,7 +287,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
         lang={currentLanguageCategory !== 'code' ? currentLanguageCategory : 'en'}
         className="flex flex-col items-center justify-center pb-1 pt-4"
       >
-        {currentLanguage === 'romaji' && word.notation && <Notation notation={word.notation} />}
+        {(currentLanguage === 'romaji' || currentLanguage === 'zh') && word.notation && <Notation notation={word.notation} />}
         <div
           className={`tooltip-info relative w-fit bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
             wordDictationConfig.isOpen ? 'tooltip' : ''
@@ -306,7 +306,20 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
           {pronunciationIsOpen && (
             <div className="absolute -right-12 top-1/2 h-9 w-9 -translate-y-1/2 transform ">
               <Tooltip content={`快捷键${CTRL} + J`}>
-                <WordPronunciationIcon word={word.name} ref={wordPronunciationIconRef} className="h-full w-full" />
+                <WordPronunciationIcon
+                  word={
+                    wordDictationConfig.isOpen
+                      ? word.pronunciation
+                        ? word.pronunciation
+                        : word.notation
+                        ? word.notation
+                        : word.name
+                      : word.name.toUpperCase().split('').join(' ') +
+                        (word.pronunciation ? word.pronunciation : word.notation ? word.notation : '')
+                  }
+                  ref={wordPronunciationIconRef}
+                  className="h-full w-full"
+                />
               </Tooltip>
             </div>
           )}

@@ -13,16 +13,22 @@ export default function WordCard({ word, isActive }: { word: Word; isActive: boo
   return (
     <div
       className={`mb-2 flex cursor-pointer select-text items-center rounded-xl p-4 shadow focus:outline-none ${
-        isActive ? 'bg-indigo-50 dark:bg-indigo-800 dark:bg-opacity-20' : 'bg-white dark:bg-gray-700 dark:bg-opacity-20'
+        isActive ? 'bg-emerald-50 dark:bg-emerald-800 dark:bg-opacity-20' : 'bg-white dark:bg-gray-700 dark:bg-opacity-20'
       }   `}
       key={word.name}
       onClick={handlePlay}
     >
       <div className="flex-1">
-        <p className="select-all font-mono text-xl font-normal leading-6 dark:text-gray-50">{word.name}</p>
+        <p className="select-all font-mono text-xl font-normal leading-6 dark:text-gray-50">
+          {word.name} {word.notation ? word.notation : ''} {word.split ? '〔' + word.split + '〕' : ''}
+        </p>
         <div className="mt-2 max-w-sm font-sans text-sm text-gray-400">{word.trans}</div>
       </div>
-      <WordPronunciationIcon word={word.name} className="h-8 w-8" ref={wordPronunciationIconRef} />
+      <WordPronunciationIcon
+        word={word.name.toUpperCase().split('').join(' ') + (word.pronunciation ? word.pronunciation : word.notation ? word.notation : '')}
+        className="h-8 w-8"
+        ref={wordPronunciationIconRef}
+      />
     </div>
   )
 }

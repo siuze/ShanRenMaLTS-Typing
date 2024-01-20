@@ -5,6 +5,7 @@ import HandPositionIllustration from '../HandPositionIllustration'
 import LoopWordSwitcher from '../LoopWordSwitcher'
 import Setting from '../Setting'
 import SoundSwitcher from '../SoundSwitcher'
+import TranslateSwitcher from '../TranslateSwitcher'
 import WordDictationSwitcher from '../WordDictationSwitcher'
 import Tooltip from '@/components/Tooltip'
 import { isOpenDarkModeAtom } from '@/store'
@@ -42,20 +43,22 @@ export default function Switcher() {
 
   return (
     <div className="flex items-center justify-center gap-2">
-      <Tooltip content="音效设置">
-        <SoundSwitcher />
+      <Tooltip className="h-7 w-7" content={`开关默写模式（${CTRL} + V）`}>
+        <WordDictationSwitcher />
       </Tooltip>
-
       <Tooltip className="h-7 w-7" content="设置单个单词循环">
         <LoopWordSwitcher />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content={`开关默写模式（${CTRL} + V）`}>
-        <WordDictationSwitcher />
+      <Tooltip content="朗读和音效">
+        <SoundSwitcher />
       </Tooltip>
-      <Tooltip className="h-7 w-7" content={`开关释义显示（${CTRL} + Shift + V）`}>
+      <Tooltip content="拆分和翻译">
+        <TranslateSwitcher />
+      </Tooltip>
+      {/* <Tooltip className="h-7 w-7" content={`开关释义显示（${CTRL} + Shift + V）`}>
         <button
-          className={`p-[2px] ${state?.isTransVisible ? 'text-indigo-500' : 'text-gray-500'} text-lg focus:outline-none`}
+          className={`p-[2px] ${state?.isTransVisible ? 'text-emerald-500' : 'text-gray-500'} text-lg focus:outline-none`}
           type="button"
           onClick={(e) => {
             changeTransVisibleState()
@@ -65,7 +68,7 @@ export default function Switcher() {
         >
           {state?.isTransVisible ? <IconLanguage /> : <IconLanguageOff />}
         </button>
-      </Tooltip>
+      </Tooltip> */}
 
       <Tooltip content="错题本">
         <ErrorBookButton />
@@ -77,7 +80,7 @@ export default function Switcher() {
 
       <Tooltip className="h-7 w-7" content="开关深色模式">
         <button
-          className={`p-[2px] text-lg text-indigo-500 focus:outline-none`}
+          className={`p-[2px] text-lg text-emerald-500 focus:outline-none`}
           type="button"
           onClick={(e) => {
             changeDarkModeState()

@@ -27,7 +27,9 @@ const ErrorRow: FC<IErrorRowProps> = ({ record }) => {
       className="opacity-85 flex w-full cursor-pointer items-center justify-between rounded-lg bg-white px-6 py-3 text-black shadow-md dark:bg-gray-800 dark:text-white"
       onClick={onClick}
     >
-      <span className="basis-2/12 break-normal">{record.word}</span>
+      <span className="basis-2/12 break-normal">
+        {word?.notation ? word.notation : ''} {word?.name}
+      </span>
       <span className="basis-6/12 break-normal">
         {word ? word.trans.join('；') : <LoadingWordUI isLoading={isLoading} hasError={hasError} />}
       </span>

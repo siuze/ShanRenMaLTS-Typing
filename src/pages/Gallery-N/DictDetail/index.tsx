@@ -44,13 +44,15 @@ export default function DictDetail({ dictionary: dict }: { dictionary: Dictionar
   )
 
   return (
-    <div className="flex flex-col rounded-[4rem] px-4 py-3 pl-5 text-gray-800 dark:text-gray-300">
-      <div className="text relative flex h-40 flex-col gap-2">
-        <h3 className="text-2xl font-semibold">{dict.name}</h3>
+    <div className="flex flex-row rounded-[4rem] px-4 py-3 pl-5 text-gray-800 dark:text-gray-300">
+      <div className="text relative flex h-40 flex-col gap-2" style={{ width: '12.8em' }}>
+        <h3 className="text-2xl font-semibold" style={{ width: '8.27em' }}>
+          {dict.name}
+        </h3>
         <p className="mt-1">{dict.chapterCount} 章节</p>
         <p>共 {dict.length} 词</p>
         <p>{dict.description}</p>
-        <div className="absolute bottom-5 right-4">
+        <div className="flex-col">
           <ToggleGroup
             type="single"
             value={curTab}

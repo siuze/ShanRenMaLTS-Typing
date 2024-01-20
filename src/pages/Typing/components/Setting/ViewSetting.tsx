@@ -18,7 +18,15 @@ export default function ViewSetting() {
     },
     [setFontsizeConfig],
   )
-
+  const onChangeNotationFontSize = useCallback(
+    (value: [number]) => {
+      setFontsizeConfig((prev) => ({
+        ...prev,
+        notationFont: value[0],
+      }))
+    },
+    [setFontsizeConfig],
+  )
   const onChangeTranslateFontSize = useCallback(
     (value: [number]) => {
       setFontsizeConfig((prev) => ({
@@ -40,13 +48,13 @@ export default function ViewSetting() {
           <div className={styles.section}>
             <span className={styles.sectionLabel}>字体设置</span>
             <div className={styles.block}>
-              <span className={styles.blockLabel}>外语字体</span>
+              <span className={styles.blockLabel}>词条编码字体大小</span>
               <div className="flex h-5 w-full items-center justify-between">
                 <Slider.Root
                   value={[fontSizeConfig.foreignFont]}
-                  min={40}
-                  max={96}
-                  step={4}
+                  min={20}
+                  max={200}
+                  step={2}
                   className="slider"
                   onValueChange={onChangeForeignFontSize}
                 >
@@ -58,15 +66,33 @@ export default function ViewSetting() {
                 <span className="ml-4 w-10 text-xs font-normal text-gray-600">{fontSizeConfig.foreignFont}px</span>
               </div>
             </div>
-
             <div className={styles.block}>
-              <span className={styles.blockLabel}>中文字体</span>
+              <span className={styles.blockLabel}>词条中文字体大小</span>
+              <div className="flex h-5 w-full items-center justify-between">
+                <Slider.Root
+                  value={[fontSizeConfig.notationFont]}
+                  min={20}
+                  max={200}
+                  step={2}
+                  className="slider"
+                  onValueChange={onChangeNotationFontSize}
+                >
+                  <Slider.Track>
+                    <Slider.Range />
+                  </Slider.Track>
+                  <Slider.Thumb />
+                </Slider.Root>
+                <span className="ml-4 w-10 text-xs font-normal text-gray-600">{fontSizeConfig.notationFont}px</span>
+              </div>
+            </div>
+            <div className={styles.block}>
+              <span className={styles.blockLabel}>释义字体大小</span>
               <div className="flex h-5 w-full items-center justify-between">
                 <Slider.Root
                   value={[fontSizeConfig.translateFont]}
-                  max={60}
-                  min={14}
-                  step={4}
+                  max={100}
+                  min={5}
+                  step={2}
                   className="slider"
                   onValueChange={onChangeTranslateFontSize}
                 >

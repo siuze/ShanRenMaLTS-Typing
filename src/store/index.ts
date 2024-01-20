@@ -22,7 +22,7 @@ export const currentDictInfoAtom = atom<Dictionary>((get) => {
   let dict = idDictionaryMap[id]
   // 如果 dict 不存在，则返回 cet4. Typing 中会检查 DictId 是否存在，如果不存在则会重置为 cet4
   if (!dict) {
-    dict = idDictionaryMap.cet4
+    dict = idDictionaryMap.ShanRenMaLTS001
   }
   return dict
 })
@@ -86,7 +86,7 @@ export const isReviewModeAtom = atom((get) => get(reviewModeInfoAtom).isReviewMo
 
 export const phoneticConfigAtom = atomForConfig('phoneticConfig', {
   isOpen: true,
-  type: 'us' as PhoneticType,
+  type: 'zh' as PhoneticType,
 })
 
 export const isOpenDarkModeAtom = atomWithStorage('isOpenDarkModeAtom', window.matchMedia('(prefers-color-scheme: dark)').matches)

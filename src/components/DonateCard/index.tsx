@@ -26,19 +26,19 @@ export const DonateCard = () => {
   }, [])
 
   const HighlightedText = ({ children, className }: { children: React.ReactNode; className?: string }) => {
-    return <span className={`font-bold  ${className ? className : 'text-indigo-500'}`}>{children}</span>
+    return <span className={`font-bold  ${className ? className : 'text-emerald-500'}`}>{children}</span>
   }
 
   const onClickHasDonated = () => {
-    reportDonateCard({
-      type: 'donate',
-      chapterNumber,
-      wordNumber,
-      sumWrongCount,
-      dayFromFirstWord,
-      dayFromQwerty,
-      amount: amount ?? 0,
-    })
+    // reportDonateCard({
+    //   type: 'donate',
+    //   chapterNumber,
+    //   wordNumber,
+    //   sumWrongCount,
+    //   dayFromFirstWord,
+    //   dayFromQwerty,
+    //   amount: amount ?? 0,
+    // })
 
     setShow(false)
     const now = dayjs()
@@ -121,22 +121,7 @@ export const DonateCard = () => {
                       <IconParty className="inline-block" fontSize={16} />
                       <br />
                     </p>
-                    <p className="mx-auto px-4 indent-4">
-                      Qwerty Learner 已经坚持 <span className="font-medium ">开放源码、无广告、无商业化</span> 运营
-                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText> 天，
-                      我们的目标是为所有学习者提供一个高效、便捷、无干扰的学习环境。我们诚挚地邀请您考虑进行捐赠，捐赠将直接用于维持 Qwerty
-                      的日常运营以及未来发展，让 Qwerty 与您一起成长。
-                    </p>
-                    <p className="mx-auto px-4 indent-4 ">
-                      为了感谢您的慷慨，单次 50 rmb 及以上的捐赠， 我们将回赠 Qwerty 的定制贴纸 5 枚
-                      <span className="text-xs">（仅限大陆地区）</span>，希望您可以跟朋友分享您的快乐
-                    </p>
-                    <div className="flex items-center justify-center">
-                      <StickerButton />
-                    </div>
                   </div>
-
-                  <DonatingCard className="mt-2" onAmountChange={onAmountChange} />
                   <div className="flex w-full justify-between  px-14 pb-3 pt-0">
                     <button
                       type="button"
@@ -145,8 +130,8 @@ export const DonateCard = () => {
                     >
                       我已捐赠
                     </button>
-                    <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickRemindMeLater}>
-                      之后提醒我
+                    <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickHasDonated}>
+                      关闭
                     </button>
                   </div>
                 </div>

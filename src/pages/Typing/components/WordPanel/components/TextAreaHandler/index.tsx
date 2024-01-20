@@ -46,7 +46,7 @@ export default function TextAreaHandler({ updateInput }: { updateInput: (updateO
       onInput={onInput}
       onBlur={onBlur}
       onCompositionStart={() => {
-        alert('您正在使用输入法，请关闭输入法。')
+        alert('您的输入法当前是中文键盘，不能进行打字练习。请现在切换输入法到英文键盘状态（一般是按下Shift↑按键），之后就开始打字了。')
       }}
     ></textarea>
   )

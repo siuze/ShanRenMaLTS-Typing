@@ -75,11 +75,15 @@ const RowDetail: React.FC<RowDetailProps> = ({ currentRowDetail, allRecords }) =
               <Letter key={`${index}-${t}`} letter={t} visible state="normal" />
             ))}
           </div>
+          <div>{word?.notation ? word.notation : ''}</div>
           <div className="relative flex h-8 items-center">
             {word ? <Phonetic word={word} /> : <LoadingWordUI isLoading={isLoading} hasError={hasError} />}
             {word && (
               <WordPronunciationIcon
-                word={word.name}
+                word={
+                  word.name.toUpperCase().split('').join(' ') +
+                  (word.pronunciation ? word.pronunciation : word.notation ? word.notation : '')
+                }
                 className="absolute -right-7 top-1/2 h-5 w-5 -translate-y-1/2 transform "
                 ref={wordPronunciationIconRef}
               />

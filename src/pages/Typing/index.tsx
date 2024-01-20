@@ -42,9 +42,7 @@ const App: React.FC = () => {
     // 检测用户设备
     if (!IsDesktop()) {
       setTimeout(() => {
-        alert(
-          ' Qwerty Learner 目的为提高键盘工作者的英语输入效率，目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。',
-        )
+        alert('目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。')
       }, 500)
     }
   }, [])
@@ -53,7 +51,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const id = currentDictId
     if (!(id in idDictionaryMap)) {
-      setCurrentDictId('cet4')
+      setCurrentDictId('ShanRenMaLTS001')
       setCurrentChapter(0)
       return
     }
@@ -135,7 +133,7 @@ const App: React.FC = () => {
       <Layout>
         <Header>
           <DictChapterButton />
-          <PronunciationSwitcher />
+          {/* <PronunciationSwitcher /> */}
           <Switcher />
           <StartButton isLoading={isLoading} />
           <Tooltip content="跳过该词">
@@ -155,7 +153,7 @@ const App: React.FC = () => {
               {isLoading ? (
                 <div className="flex flex-col items-center justify-center ">
                   <div
-                    className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid  border-indigo-400 border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]"
+                    className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid  border-emerald-400 border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]"
                     role="status"
                   ></div>
                 </div>

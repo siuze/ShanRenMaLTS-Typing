@@ -230,13 +230,13 @@ const ResultScreen = () => {
                 <RemarkRing remark={timeString} caption="章节耗时" />
                 <RemarkRing remark={state.timerData.wpm + ''} caption="WPM" />
               </div>
-              <div className="z-10 ml-6 flex-1 overflow-visible rounded-xl bg-indigo-50 dark:bg-gray-700">
+              <div className="z-10 ml-6 flex-1 overflow-visible rounded-xl bg-emerald-50 dark:bg-gray-700">
                 <div className="customized-scrollbar z-20 ml-8 mr-1 flex h-80 flex-row flex-wrap content-start gap-4 overflow-y-auto overflow-x-hidden pr-7 pt-9">
                   {wrongWords.map((word, index) => (
                     <WordChip key={`${index}-${word.name}`} word={word} />
                   ))}
                 </div>
-                <div className="align-center flex w-full flex-row justify-start rounded-b-xl bg-indigo-200 px-4 dark:bg-indigo-400">
+                <div className="align-center flex w-full flex-row justify-start rounded-b-xl bg-emerald-200 px-4 dark:bg-emerald-400">
                   <ConclusionBar mistakeLevel={mistakeLevel} mistakeCount={wrongWords.length} />
                 </div>
               </div>
@@ -247,16 +247,16 @@ const ResultScreen = () => {
                     <IexportWords fontSize={18} className="cursor-pointer text-gray-500" onClick={exportWords}></IexportWords>
                   </>
                 )}
-                <IconXiaoHongShu
+                {/* <IconXiaoHongShu
                   fontSize={15}
                   className="cursor-pointer text-gray-500 hover:text-red-500 focus:outline-none"
                   onClick={(e) => {
                     handleOpenInfoPanel('redBook')
                     e.currentTarget.blur()
                   }}
-                />
+                /> */}
 
-                <button
+                {/* <button
                   onClick={(e) => {
                     handleOpenInfoPanel('donate')
                     e.currentTarget.blur()
@@ -266,9 +266,9 @@ const ResultScreen = () => {
                   title="捐赠我们的项目"
                 >
                   <IconCoffee fontSize={17} className={`text-gray-500 hover:text-amber-500  focus:outline-none ${styles.imgShake}`} />
-                </button>
+                </button> */}
 
-                <button
+                {/* <button
                   onClick={(e) => {
                     handleOpenInfoPanel('community')
                     e.currentTarget.blur()
@@ -278,9 +278,9 @@ const ResultScreen = () => {
                   title="加入我们的社区"
                 >
                   <IconWechat fontSize={16} className="text-gray-500 hover:text-green-500 focus:outline-none" />
-                </button>
+                </button> */}
 
-                <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" className="leading-[0px]">
+                <a href="https://github.com/siuze/ShanRenMaLTS" target="_blank" rel="noreferrer" className="leading-[0px]">
                   <IconGithub fontSize={16} className="text-gray-500 hover:text-green-800 focus:outline-none" />
                 </a>
               </div>
@@ -290,7 +290,7 @@ const ResultScreen = () => {
                 <>
                   <Tooltip content="快捷键：shift + enter">
                     <button
-                      className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
+                      className="my-btn-primary h-12 text-base font-bold "
                       type="button"
                       onClick={dictationButtonHandler}
                       title="默写本章节"

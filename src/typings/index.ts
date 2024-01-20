@@ -3,7 +3,7 @@ export * from './resource'
 export type PronunciationType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de'
 export type PhoneticType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de'
 export type LanguageType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de'
-export type LanguageCategoryType = 'en' | 'ja' | 'de' | 'code'
+export type LanguageCategoryType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de'
 
 type Pronunciation2PhoneticMap = Record<PronunciationType, PhoneticType>
 
@@ -19,8 +19,10 @@ export const PRONUNCIATION_PHONETIC_MAP: Pronunciation2PhoneticMap = {
 export type Word = {
   name: string
   trans: string[]
-  usphone: string
-  ukphone: string
+  pronunciation?: string
+  split?: string
+  usphone?: string
+  ukphone?: string
   notation?: string
 }
 
@@ -37,7 +39,7 @@ export type InfoPanelState = {
 
 export type LoopWordTimesOption = 1 | 3 | 5 | 8 | typeof Number.MAX_SAFE_INTEGER
 
-export type WordDictationType = 'hideAll' | 'hideVowel' | 'hideConsonant' | 'randomHide'
+export type WordDictationType = 'hideAll' | 'hideVowel' | 'hideConsonant' | 'randomHide' | 'hideCode' | 'hideSplit'
 /**
  * 标记用户是手动打开默写模式，还是通过点击 resultScreen 中的默写本章按钮打开的
  *

@@ -20,33 +20,23 @@ export default function DictRequest() {
           openState={showPanel}
           title="申请词典"
           icon={IconBook2}
-          buttonClassName="bg-indigo-500 hover:bg-indigo-400"
-          iconClassName="text-indigo-500 bg-indigo-100 dark:text-indigo-300 dark:bg-indigo-500"
+          buttonClassName="bg-emerald-500 hover:bg-emerald-400"
+          iconClassName="text-emerald-500 bg-emerald-100 dark:text-emerald-300 dark:bg-emerald-500"
           onClose={onClosePanel}
         >
           <p className="text-sm text-gray-600 dark:text-gray-300">
-            如果您有相关的编程基础，可以参考
-            <a
-              href="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/toBuildDict.md"
-              className="px-2 text-blue-500"
-              target="_blank"
-              rel="noreferrer"
-            >
-              导入词典
-            </a>
-            ，给项目贡献新的词典。
-            <br />
-            <br />
-            如果您没有相关的编程基础，可以将您的字典需求发送邮件到{' '}
-            <a href="mailto:me@kaiyi.cool" className="px-2 text-blue-500" aria-label="发送邮件到 me@kaiyi.cool">
-              me@kaiyi.cool
-            </a>
-            ，或者在网页底部添加我们的用户社群进行反馈。
+            请阅读{' '}
+            <strong>
+              <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group">
+                该页面
+              </a>
+            </strong>{' '}
+            以添加用户社群或在项目讨论区进行反馈。
           </p>
           <br />
         </InfoPanel>
       )}
-      <button className="cursor-pointer pr-6 text-sm text-indigo-500" onClick={onOpenPanel}>
+      <button className="cursor-pointer pr-6 text-sm text-emerald-500" onClick={onOpenPanel}>
         没有找到想要的词典？
       </button>
     </>

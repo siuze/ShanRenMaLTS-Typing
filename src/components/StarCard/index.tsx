@@ -65,18 +65,18 @@ export default function StarCard() {
               </div>
               <div className="flex flex-shrink-0 items-center">
                 <div className="ml-0.5">👈</div>
-                <IconStar className="h-4 w-4 text-indigo-600" />
+                <IconStar className="h-4 w-4 text-emerald-600" />
                 <div className="ml-1 text-gray-600 dark:text-gray-300">点亮它！</div>
               </div>
             </div>
             <span className="w-full text-center text-gray-600 dark:text-gray-300">
-              收藏快捷键<span className="ml-2 text-indigo-600 dark:text-indigo-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
+              收藏快捷键<span className="ml-2 text-emerald-600 dark:text-emerald-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
             </span>
           </div>
         ) : (
           <div className="flex pb-0 pt-6">
             <button
-              className="rounded-lg bg-indigo-600 px-6 py-2 text-lg text-white transition-colors duration-300 focus:outline-none"
+              className="rounded-lg bg-emerald-600 px-6 py-2 text-lg text-white transition-colors duration-300 focus:outline-none"
               type="button"
               onClick={onClickWantStar}
               title="我想收藏"
@@ -105,18 +105,21 @@ export default function StarCard() {
         <div className="absolute right-3 top-3 flex h-5 items-center">
           {isCounting && (
             <span className="mx-1.5 dark:text-gray-100">
-              <span className="text-indigo-600">{countdown}s </span>
+              <span className="text-emerald-600">{countdown}s </span>
               后自动关闭
             </span>
           )}
           <button type="button" onClick={onClickCloseStar} title="关闭提示" aria-label="关闭提示">
-            <IconCircleX className="h-5 w-5 text-indigo-400" />
+            <IconCircleX className="h-8 w-8 text-emerald-400" />
           </button>
         </div>
-        <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">
-          坚持练习，提高语言能力。将 <span className="text-indigo-600">「Qwerty Learner」</span>保存到收藏夹，永不迷失！
+        <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">坚持练习，提高山人码LTS打字速度。</span>
+        <span className="text-l pb-4 text-gray-600 dark:text-gray-50">
+          ▶这里是山人码LTS输入方案的配套打字练习区
+          <br />
+          ▶建议手动开启默写模式以加强记忆训练。
         </span>
-        {content}
+        {/* {content} */}
       </div>
     </Transition>
   )
