@@ -63,13 +63,13 @@ export default function Version() {
               <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
                 1、本网页是
                 <strong>
-                  <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/">
+                  <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
                     【山人码LTS】
                   </a>
                 </strong>
                 的配套打字练习平台，名为
                 <strong>
-                  <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing">
+                  <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing" target="_blank" rel="noreferrer">
                     【山人码LTS·悟道】
                   </a>
                 </strong>
@@ -78,7 +78,7 @@ export default function Version() {
               <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
                 2、本网页使用开源项目
                 <strong>
-                  <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner">
+                  <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner" target="_blank" rel="noreferrer">
                     {' '}
                     Qwerty Learner{' '}
                   </a>
@@ -93,7 +93,7 @@ export default function Version() {
             <span className={styles.sectionDescription}>
               <p className=" text-black-500 text-sm dark:text-gray-300">
                 您可以点击
-                <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group">
+                <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
                   该链接
                 </a>
                 以获取交流社区与问题反馈的方式。
@@ -109,10 +109,10 @@ export default function Version() {
             <span className={styles.sectionDescription}>
               <p className=" text-black-500 text-sm dark:text-gray-300">
                 本项目目前均由本人自行维护，如果您愿意慷慨地
-                <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/donate">
+                <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/donate" target="_blank" rel="noreferrer">
                   赞赏
                 </a>
-                ，将能够给我更多长期维护的动力。
+                ，将给我更多长期维护的动力。
               </p>
             </span>
           </div>

@@ -51,18 +51,18 @@ const Footer: React.FC = () => {
       >
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
           1、本网页是
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/">
+          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
             【山人码LTS】
           </a>
           的配套打字练习平台，名为
-          <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing">
+          <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing" target="_blank" rel="noreferrer">
             【山人码LTS·悟道】
           </a>
           。
         </p>
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
           2、本网页使用开源项目
-          <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner">
+          <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner" target="_blank" rel="noreferrer">
             Qwerty Learner
           </a>
           修改搭建，这是一个纯前端项目网页，用户数据只保存在本地，没有任何数据收集行为，请放心使用。
@@ -73,7 +73,7 @@ const Footer: React.FC = () => {
         <br />
         <p className=" text-m text-black-500 dark:text-gray-300">
           您可以点击
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group">
+          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
             该链接
           </a>
           以获取交流社区与问题反馈的方式
