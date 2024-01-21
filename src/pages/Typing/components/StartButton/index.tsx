@@ -52,11 +52,14 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
           onClick={onToggleIsTyping}
           aria-label={state.isTyping ? '暂停' : '开始'}
         >
-          <span className="font-medium">{state.isTyping ? 'Pause' : 'Start'}</span>
+          <span className="font-semibold" style={{ fontSize: 'medium', paddingLeft: '0', paddingRight: '0' }}>
+            {state.isTyping ? '暂停' : '开始'}
+          </span>
         </button>
         {isShowReStartButton && (
-          <div className="absolute bottom-0 flex w-20 justify-center" ref={refs.setFloating} {...getFloatingProps()}>
+          <div className="absolute  bottom-0 flex w-20 justify-center font-semibold" ref={refs.setFloating} {...getFloatingProps()}>
             <button
+              style={{ fontSize: 'medium', paddingLeft: '0', paddingRight: '0' }}
               className={`${
                 state.isTyping ? 'bg-gray-500 dark:bg-gray-700 dark:hover:bg-gray-500 ' : 'bg-emerald-400 '
               } my-btn-primary mb-1 mt-1 w-18  transition-colors duration-200`}
@@ -64,7 +67,7 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
               onClick={onClickRestart}
               aria-label={'重新开始'}
             >
-              Restart
+              重启
             </button>
           </div>
         )}

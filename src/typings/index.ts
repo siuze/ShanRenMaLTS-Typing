@@ -1,9 +1,9 @@
 export * from './resource'
 
-export type PronunciationType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de'
-export type PhoneticType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de'
-export type LanguageType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de'
-export type LanguageCategoryType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de'
+export type PronunciationType = 'zh' | 'us' | 'uk' | 'romaji' | 'ja' | 'de'
+export type PhoneticType = 'zh' | 'us' | 'uk' | 'romaji' | 'ja' | 'de'
+export type LanguageType = 'zh' | 'en' | 'romaji' | 'ja' | 'code' | 'de'
+export type LanguageCategoryType = 'zh' | 'en' | 'romaji' | 'ja' | 'code' | 'de'
 
 type Pronunciation2PhoneticMap = Record<PronunciationType, PhoneticType>
 

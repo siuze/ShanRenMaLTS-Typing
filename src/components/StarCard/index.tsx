@@ -4,6 +4,7 @@ import { IS_MAC_OS, recordStarAction } from '@/utils'
 import { Transition } from '@headlessui/react'
 import { useSetAtom } from 'jotai'
 import { useCallback, useEffect, useLayoutEffect, useMemo, useState } from 'react'
+import IconEye from '~icons/heroicons/eye-solid'
 import IconStar from '~icons/material-symbols/star'
 import IconStarOutline from '~icons/material-symbols/star-outline'
 import IconCircleX from '~icons/tabler/circle-x'
@@ -115,9 +116,15 @@ export default function StarCard() {
         </div>
         <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">坚持练习，提高山人码LTS打字速度。</span>
         <span className="text-l pb-4 text-gray-600 dark:text-gray-50">
-          ▶这里是山人码LTS输入方案的配套打字练习区
+          ▶这里是山人码LTS输入方案的配套打字练习区。
+          <br />▶
+          <strong>
+            建议在上部导航栏点击图标 <IconEye style={{ display: 'inline' }}></IconEye> 来手动开启默写模式以加强记忆训练。
+          </strong>
+          <br />▶<strong>如果打字过程中需要切换设置，建议先点右上角暂停按钮再修改，</strong>
+          否则可能会因为网页总是自动聚焦到打字区而出现设置下拉框一闪而过的情况。
           <br />
-          ▶建议手动开启默写模式以加强记忆训练。
+          ▶目前《通用规范汉字表》的字义解释是直接从原书图片转文字ORC来的，尚未校对，还有许多识别错误，请自行辨别。
         </span>
         {/* {content} */}
       </div>
