@@ -2,6 +2,7 @@ import type { WordUpdateAction } from '../InputHandler'
 import { TypingContext } from '@/pages/Typing/store'
 import type { FormEvent } from 'react'
 import { useCallback, useContext, useEffect, useRef } from 'react'
+import swal from 'sweetalert'
 
 export default function TextAreaHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {
   const textareaRef = useRef<HTMLTextAreaElement>(null)
@@ -38,16 +39,22 @@ export default function TextAreaHandler({ updateInput }: { updateInput: (updateO
   }, [state.isTyping])
 
   return (
-    <textarea
+    <input
       className="absolute left-0 top-0 m-0 h-0 w-0 appearance-none overflow-hidden border-0 p-0 focus:outline-none"
       ref={textareaRef}
+      type="password"
       autoFocus
       spellCheck="false"
       onInput={onInput}
       onBlur={onBlur}
       onCompositionStart={() => {
-        alert('您的输入法当前是中文键盘，不能进行打字练习。请现在切换输入法到英文键盘状态（一般是按下Shift↑按键），之后就开始打字了。')
+        swal({
+          title: '需要切换输入模式',
+          text: '您当前可能正使用中文输入，请在当前界面切换到英文键盘（一般是按下Shift↑），然后关闭本提示窗',
+          icon: 'error',
+          buttons: ['好的'],
+        })
       }}
-    ></textarea>
+    ></input>
   )
 }

@@ -22,6 +22,7 @@ import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
+import swal from 'sweetalert'
 import { useImmerReducer } from 'use-immer'
 
 const App: React.FC = () => {
@@ -41,9 +42,15 @@ const App: React.FC = () => {
   useEffect(() => {
     // 检测用户设备
     if (!IsDesktop()) {
-      setTimeout(() => {
-        alert('目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。')
-      }, 500)
+      swal({
+        title: '目前暂未适配移动端',
+        text: '希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。',
+        icon: 'info',
+        buttons: ['好的'],
+      })
+      //   setTimeout(() => {
+      //     alert('目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。')
+      //   }, 500)
     }
   }, [])
 
