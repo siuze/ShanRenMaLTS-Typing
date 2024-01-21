@@ -10,15 +10,15 @@ import { useAtom } from 'jotai'
 import type React from 'react'
 import { useCallback } from 'react'
 import IconMail from '~icons/material-symbols/mail'
-import IconCoffee2 from '~icons/mdi/coffee'
+import IconInfoCircle2 from '~icons/mdi/coffee'
 import IconXiaoHongShu from '~icons/my-icons/xiaohongshu'
 import IconTwitter from '~icons/ri/twitter-fill'
 import IconGithub from '~icons/simple-icons/github'
 import IconTelegram from '~icons/simple-icons/telegram'
 import IconVisualstudiocode from '~icons/simple-icons/visualstudiocode'
-import IconWechat from '~icons/tabler/brand-wechat'
-import IconCoffee from '~icons/tabler/coffee'
+import IconInfoCircle from '~icons/tabler/info-circle'
 import IconTerminal2 from '~icons/tabler/terminal-2'
+import IconUsersGroup from '~icons/tabler/users-group'
 import IconFlagChina from '~icons/twemoji/flag-china'
 
 const Footer: React.FC = () => {
@@ -43,50 +43,60 @@ const Footer: React.FC = () => {
     <>
       <InfoPanel
         openState={infoPanelState.donate}
-        title="Buy us a coffee"
-        icon={IconCoffee}
+        title="项目说明"
+        icon={IconInfoCircle}
         buttonClassName="bg-amber-500 hover:bg-amber-400"
         iconClassName="text-amber-500 bg-amber-100 dark:text-amber-300 dark:bg-amber-500"
         onClose={() => handleCloseInfoPanel('donate')}
       >
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
           1、本网页是
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
-            【山人码LTS】
-          </a>
+          <strong>
+            <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
+              【山人码LTS】
+            </a>
+          </strong>
           的配套打字练习平台，名为
-          <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing" target="_blank" rel="noreferrer">
-            【山人码LTS·悟道】
-          </a>
+          <strong>
+            <a className="text-emerald-400" href="https://github.com/siuze/ShanRenMaLTS-Typing" target="_blank" rel="noreferrer">
+              【山人码LTS·悟道】
+            </a>
+          </strong>
           。
         </p>
+        <br />
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
           2、本网页使用开源项目
-          <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner" target="_blank" rel="noreferrer">
-            Qwerty Learner
-          </a>
-          修改搭建，这是一个纯前端项目网页，用户数据只保存在本地，没有任何数据收集行为，请放心使用。
+          <strong>
+            <a className="text-emerald-400" href="https://github.com/RealKai42/qwerty-learner" target="_blank" rel="noreferrer">
+              {' '}
+              Qwerty Learner{' '}
+            </a>
+          </strong>{' '}
+          修改搭建，这是一个纯前端项目网页，用户数据只保存在本地，<strong>没有任何数据收集行为</strong>，请放心使用。
         </p>
+        <br />
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
           3、目前网站的词条语音是通过调用有道API实现的，调用时仅上传词汇发音文本，不包含任何用户个人数据。
         </p>
         <br />
-        <p className=" text-m text-black-500 dark:text-gray-300">
-          您可以点击
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
-            该链接
-          </a>
-          以获取交流社区与问题反馈的方式
+        <p className="text-black-500  indent-4 text-sm dark:text-gray-300">
+          <strong>
+            4、您可以点击
+            <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
+              <strong> 该链接 </strong>
+            </a>
+            以获取交流社区与问题反馈的方式。
+          </strong>
         </p>
         <br />
-        <p className=" text-black-500 text-sm dark:text-gray-300">
-          本项目目前均由本人自行维护，如果您愿意慷慨地
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/donate">
-            赞赏
+        <p className="text-black-500  indent-4 text-sm dark:text-gray-300">
+          5、本项目目前均由本人自行维护，如果您愿意慷慨地
+          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/donate" target="_blank" rel="noreferrer">
+            <strong> 赞赏 </strong>
           </a>
-          ，将能够给我更多长期维护的动力。
+          ，将给我更多长期维护的动力。
         </p>
-        <br />
       </InfoPanel>
 
       {/* <InfoPanel
@@ -114,15 +124,15 @@ const Footer: React.FC = () => {
       <InfoPanel
         openState={infoPanelState.community}
         title="用户反馈社群"
-        icon={IconWechat}
+        icon={IconUsersGroup}
         buttonClassName="bg-green-500 hover:bg-green-400"
         iconClassName="text-green-500 bg-green-100 dark:text-green-300 dark:bg-green-500"
         onClose={() => handleCloseInfoPanel('community')}
       >
         <p className="text-sm text-gray-500 dark:text-gray-400">
           请点击☞
-          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group">
-            该链接
+          <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
+            <strong>该链接</strong>
           </a>
           ☜查看与山人码LTS相关的交流社区和问题反馈方式
         </p>
@@ -194,7 +204,7 @@ const Footer: React.FC = () => {
           }}
           aria-label="考虑捐赠我们"
         >
-          <IconCoffee2 fontSize={16} className="text-gray-500 hover:text-amber-500 dark:text-gray-400 dark:hover:text-amber-500" />
+          <IconInfoCircle2 fontSize={16} className="text-gray-500 hover:text-amber-500 dark:text-gray-400 dark:hover:text-amber-500" />
         </button> */}
 
         {/* <button

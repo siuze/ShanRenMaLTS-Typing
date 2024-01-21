@@ -27,7 +27,7 @@ export default function DictRequest() {
           <p className="text-sm text-gray-600 dark:text-gray-300">
             请阅读{' '}
             <strong>
-              <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group">
+              <a className="text-emerald-400" href="https://siuze.github.io/ShanRenMaLTS/blog/group" target="_blank" rel="noreferrer">
                 该页面
               </a>
             </strong>{' '}

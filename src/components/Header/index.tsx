@@ -13,12 +13,15 @@ const Header: React.FC<PropsWithChildren> = ({ children }) => {
         >
         </NavLink> */}
         <div className="flex items-center text-2xl font-bold text-emerald-500 no-underline hover:no-underline lg:text-3xl">
-          <a href="https://siuze.github.io/ShanRenMaLTS/">
+          <a href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
             <img src={logo} className="mr-3 h-10 w-10" alt="山人码LTS" />
           </a>
 
           <h4 style={{ fontSize: 'smaller' }}>
-            <a href="https://siuze.github.io/ShanRenMaLTS/">山人码LTS</a>&nbsp;·&nbsp;
+            <a href="https://siuze.github.io/ShanRenMaLTS/" target="_blank" rel="noreferrer">
+              山人码LTS
+            </a>
+            &nbsp;·&nbsp;
             <a href="/">悟道</a>
           </h4>
         </div>
