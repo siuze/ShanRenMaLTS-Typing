@@ -1,0 +1,701 @@
+[
+	{
+		"name": "B",
+		"notation":"日",
+		"trans":[ 
+			"大写字母B长得像汉字【日】"
+		], 
+		"split": "日",
+		"pronunciation": "日",
+		"chapterId": 0
+	},
+	{
+		"name": "D",
+		"notation":"月",
+		"trans":[ 
+			"大写字母D长得像一轮上弦月"
+		], 
+		"split": "月",
+		"pronunciation": "月",
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation":"金",
+		"split": "金",
+		"pronunciation": "金",
+		"trans":[ 
+			"金的普通话拼音是【“J”īn】，J长得像一把弯刀利器"
+		], 
+		"chapterId": 0
+	},
+	{
+		"name": "M",
+		"notation":"木",
+		"split": "木",
+		"pronunciation": "木",
+		"trans":[ 
+			"木的普通话拼音是【“M”ù】"
+		], 
+		"chapterId": 0
+	},
+	{
+		"name": "S",
+		"notation":"水",
+		"split": "水",
+		"pronunciation": "水",
+		"trans":[ 
+			"水的普通话拼音是【“S”hǔi】"
+		], 
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation":"火",
+		"split": "火",
+		"pronunciation": "火",
+		"trans":[ 
+			"字母W长得像燃烧的火苗"
+		], 
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation":"土",
+		"split": "土",
+		"pronunciation": "土",
+		"trans":[ 
+			"土的普通话拼音是【“T”ǔ】"
+		], 
+		"chapterId": 0
+	},
+	{
+		"name": "K",
+		"notation":"虫",
+		"split": "虫",
+		"pronunciation": "虫",
+		"trans":[ 
+			"字母K长得像一只站立的动物"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "C",
+		"notation":"艹",
+		"split": "艹",
+		"pronunciation": "草",
+		"trans":[ 
+			"草字头，草的普通话拼音是【“C”ǎo】"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "R",
+		"notation":"人",
+		"split": "人",
+		"pronunciation": "人",
+		"trans":[ 
+			"人的普通话拼音是【“R”én】"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation":"身",
+		"split": "身",
+		"pronunciation": "身",
+		"trans":[ 
+			"E长得像身体器官耳朵，耳朵的普通话拼音是【“E”r】，英文是【“E”ar】"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "F",
+		"notation":"手",
+		"split": "手",
+		"pronunciation": "手",
+		"trans":[ 
+			"F长得像一只侧视的左手"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "O",
+		"notation":"口",
+		"split": "口",
+		"pronunciation": "口",
+		"trans":[ 
+			"字母O长得像张大的嘴巴"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "Q",
+		"notation":"心",
+		"split": "心",
+		"pronunciation": "心",
+		"trans":[ 
+			"大写字母Q长得像心脏"
+		], 
+		"chapterId": 1
+	},
+	{
+		"name": "N",
+		"notation":"民",
+		"split": "民",
+		"pronunciation": "民",
+		"trans":[ 
+			"N是和人伦·身份有关的字根主码，民的普通话拼音是【mí“N”】，女的普通话拼音是【“N”ǚ】"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation":"言",
+		"split": "言",
+		"pronunciation": "言",
+		"trans":[ 
+			"小写字母i的手写体长得像言字旁【讠】"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation":"衣",
+		"split": "衣",
+		"pronunciation": "衣",
+		"trans":[ 
+			"衣的普通话拼音是【“Y”i】"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation":"食",
+		"split": "食",
+		"pronunciation": "食",
+		"trans":[ 
+			"字母U长得像饭碗、容器"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation":"门",
+		"split": "门",
+		"pronunciation": "门",
+		"trans":[ 
+			"主码A包含和房屋有关的字根，A长得像房子的屋顶"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation":"行",
+		"split": "行",
+		"pronunciation": "行",
+		"trans":[ 
+			"主码L包含和出行相关的字根，L长得像一只侧视的脚"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation":"贝",
+		"split": "贝",
+		"pronunciation": "贝",
+		"trans":[ 
+			"主码G包含和财产相关的字根，G长得像鹦鹉螺贝壳"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "X",
+		"notation":"叉",
+		"split": "叉",
+		"pronunciation": "叉",
+		"trans":[ 
+			"X是交叉的形状"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "V",
+		"notation":"八",
+		"split": "八",
+		"pronunciation": "八",
+		"trans":[ 
+			"V的形状具有左右对称的二分特征，也像倒过来的八"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation":"一",
+		"split": "一",
+		"pronunciation": "横",
+		"trans":[ 
+			"横的普通话拼音是【“H”éng】"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "S",
+		"notation":"丨",
+		"split": "丨",
+		"pronunciation": "竖",
+		"trans":[ 
+			"竖的普通话拼音是【“S”hù】，和“水”共用一个主码"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation":"丿",
+		"split": "丿",
+		"pronunciation": "撇",
+		"trans":[ 
+			"撇的普通话拼音是【“P”iě】"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "D",
+		"notation":"⼂",
+		"split": "⼂",
+		"pronunciation": "点",
+		"trans":[ 
+			"点的普通话拼音是【“D”iǎn】，和“月”共用一个主码"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation":"ヿ",
+		"split": "ヿ",
+		"pronunciation": "折",
+		"trans":[ 
+			"折的普通话拼音是【“Z”hé】"
+		], 
+		"chapterId": 3
+	},
+	{
+		"name": "B",
+		"notation":"日",
+		"trans":[ 
+			"大写字母B长得像汉字【日】"
+		], 
+		"split": "日",
+		"pronunciation": "日",
+		"chapterId": 4
+	},
+	{
+		"name": "D",
+		"notation":"月",
+		"trans":[ 
+			"大写字母D长得像一轮上弦月"
+		], 
+		"split": "月",
+		"pronunciation": "月",
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation":"金",
+		"split": "金",
+		"pronunciation": "金",
+		"trans":[ 
+			"金的普通话拼音是【“J”īn】，J长得像一把弯刀利器"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "M",
+		"notation":"木",
+		"split": "木",
+		"pronunciation": "木",
+		"trans":[ 
+			"木的普通话拼音是【“M”ù】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "S",
+		"notation":"水",
+		"split": "水",
+		"pronunciation": "水",
+		"trans":[ 
+			"水的普通话拼音是【“S”hǔi】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "W",
+		"notation":"火",
+		"split": "火",
+		"pronunciation": "火",
+		"trans":[ 
+			"字母W长得像燃烧的火苗"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "T",
+		"notation":"土",
+		"split": "土",
+		"pronunciation": "土",
+		"trans":[ 
+			"土的普通话拼音是【“T”ǔ】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation":"虫",
+		"split": "虫",
+		"pronunciation": "虫",
+		"trans":[ 
+			"字母K长得像一只站立的动物"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "C",
+		"notation":"艹",
+		"split": "艹",
+		"pronunciation": "草",
+		"trans":[ 
+			"草字头，草的普通话拼音是【“C”ǎo】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "R",
+		"notation":"人",
+		"split": "人",
+		"pronunciation": "人",
+		"trans":[ 
+			"人的普通话拼音是【“R”én】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation":"身",
+		"split": "身",
+		"pronunciation": "身",
+		"trans":[ 
+			"E长得像身体器官耳朵，耳朵的普通话拼音是【“E”r】，英文是【“E”ar】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "F",
+		"notation":"手",
+		"split": "手",
+		"pronunciation": "手",
+		"trans":[ 
+			"F长得像一只侧视的左手"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "O",
+		"notation":"口",
+		"split": "口",
+		"pronunciation": "口",
+		"trans":[ 
+			"字母O长得像张大的嘴巴"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "Q",
+		"notation":"心",
+		"split": "心",
+		"pronunciation": "心",
+		"trans":[ 
+			"大写字母Q长得像心脏"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "N",
+		"notation":"民",
+		"split": "民",
+		"pronunciation": "民",
+		"trans":[ 
+			"N是和人伦·身份有关的字根主码，民的普通话拼音是【mí“N”】，女的普通话拼音是【“N”ǚ】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation":"言",
+		"split": "言",
+		"pronunciation": "言",
+		"trans":[ 
+			"小写字母i的手写体长得像言字旁【讠】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation":"衣",
+		"split": "衣",
+		"pronunciation": "衣",
+		"trans":[ 
+			"衣的普通话拼音是【“Y”i】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "U",
+		"notation":"食",
+		"split": "食",
+		"pronunciation": "食",
+		"trans":[ 
+			"字母U长得像饭碗、容器"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "A",
+		"notation":"门",
+		"split": "门",
+		"pronunciation": "门",
+		"trans":[ 
+			"主码A包含和房屋有关的字根，A长得像房子的屋顶"
+		], 
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation":"行",
+		"split": "行",
+		"pronunciation": "行",
+		"trans":[ 
+			"主码L包含和出行相关的字根，L长得像一只侧视的脚"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "G",
+		"notation":"贝",
+		"split": "贝",
+		"pronunciation": "贝",
+		"trans":[ 
+			"主码G包含和财产相关的字根，G长得像鹦鹉螺贝壳"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation":"叉",
+		"split": "叉",
+		"pronunciation": "叉",
+		"trans":[ 
+			"X是交叉的形状"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "V",
+		"notation":"八",
+		"split": "八",
+		"pronunciation": "八",
+		"trans":[ 
+			"V的形状具有左右对称的二分特征，也像倒过来的八"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation":"一",
+		"split": "一",
+		"pronunciation": "横",
+		"trans":[ 
+			"横的普通话拼音是【“H”éng】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "S",
+		"notation":"丨",
+		"split": "丨",
+		"pronunciation": "竖",
+		"trans":[ 
+			"竖的普通话拼音是【“S”hù】，和“水”共用一个主码"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation":"丿",
+		"split": "丿",
+		"pronunciation": "撇",
+		"trans":[ 
+			"撇的普通话拼音是【“P”iě】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "D",
+		"notation":"⼂",
+		"split": "⼂",
+		"pronunciation": "点",
+		"trans":[ 
+			"点的普通话拼音是【“D”iǎn】，和“月”共用一个主码"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "Z",
+		"notation":"ヿ",
+		"split": "ヿ",
+		"pronunciation": "折",
+		"trans":[ 
+			"折的普通话拼音是【“Z”hé】"
+		], 
+		"chapterId": 4
+	},
+	{
+		"name": "BD",
+		"notation":"明",
+		"split": "日月",
+		"pronunciation": "明",
+		"trans":[ 
+			"míng",
+			"8画 日部 1087",
+			"亮（跟“暗”相对）；公开的；朝代名。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "JT",
+		"notation":"钍",
+		"split": "钅土",
+		"pronunciation": "土",
+		"trans":[ 
+			"（釷）",
+			"tǔ",
+			"8画 金部 3939",
+			"一种金属元素。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "SM",
+		"notation":"沐",
+		"split": "氵木",
+		"pronunciation": "",
+		"trans":[ 
+			"mù",
+			"7画 水部 0856",
+			"洗；蒙受（用于褒义）。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "MT",
+		"notation":"杜",
+		"split": "木土",
+		"pronunciation": "杜",
+		"trans":[ 
+			"dù",
+			"7画 木部 0680",
+			"阻塞；防止；用于杜梨dùlí，一种落叶乔木，也说杜树、棠梨。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "WK",
+		"notation":"烛",
+		"split": "火虫",
+		"pronunciation": "烛",
+		"trans":[ 
+			"（燭）",
+			"zhú",
+			"10画 火部 2061",
+			"蜡烛。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "RM",
+		"notation":"休",
+		"split": "亻木",
+		"pronunciation": "休",
+		"trans":[ 
+			"xiū",
+			"6画 人部 0458",
+			"暂时停止活动，使精力得到恢复；停止、完结。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "CQ",
+		"notation":"芯",
+		"split": "艹心",
+		"pronunciation": "心",
+		"trans":[ 
+			"xīn、xìn",
+			"7画 艹部 0673",
+			"①xīn灯心草中的髓；装在某些器物内的东西。②xìn芯子，装在器物中心的捻子；蛇和蜥蜴等动物的舌头。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "IR",
+		"notation":"认",
+		"split": "讠人",
+		"pronunciation": "认",
+		"trans":[ 
+			"（認）",
+			"rèn",
+			"4画 言部 0171",
+			"辨别；承认；愿意接受（不如意的情况）。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "OV",
+		"notation":"只",
+		"split": "口八",
+		"pronunciation": "支、纸",
+		"trans":[ 
+			"（衹隻）［祇秖］",
+			"zhī、zhǐ",
+			"5画 口部 0246",
+			"①只（隻）zhī单个的；特别的；量词，用于成对东西中的一个，也用于飞禽和船等。②只（衹）［祇秖］zhǐ副词，相当于“仅仅”。【提示】“祇”用于表示“地神”义时，读qí。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "FO",
+		"notation":"扣",
+		"split": "扌口",
+		"pronunciation": "扣",
+		"trans":[ 
+			"［釦］",
+			"kòu",
+			"6画 手部 0357",
+			"套住或栓住；纽扣。【提示】用于“纽扣”义时，“釦”是“扣”的异体字。"
+		], 
+		"chapterId": 5
+	},
+	{
+		"name": "RY",
+		"notation":"依",
+		"split": "亻衣",
+		"pronunciation": "",
+		"trans":[ 
+			"yī",
+			"8画 人部 1153",
+			"靠着；依赖；同意。"
+		], 
+		"chapterId": 5
+	}
+	
+
+]
