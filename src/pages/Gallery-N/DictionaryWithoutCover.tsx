@@ -22,7 +22,12 @@ export default function DictionaryComponent({ dictionary }: Props) {
   const entry = useIntersectionObserver(divRef, {})
   const isVisible = !!entry?.isIntersecting
   const dictStats = useDictStats(dictionary.id, isVisible)
-  const chapterCount = useMemo(() => calcChapterCount(dictionary.length), [dictionary.length])
+  const chapterCount = useMemo(() => {
+    if (dictionary.chapterNum) {
+      return calcChapterCount(dictionary.length, dictionary.chapterNum.length)
+    }
+    return calcChapterCount(dictionary.length)
+  }, [dictionary.length, dictionary.chapterNum])
   const isSelected = currentDictID === dictionary.id
   const progress = useMemo(
     () => (dictStats ? Math.ceil((dictStats.exercisedChapterCount / chapterCount) * 100) : 0),
@@ -34,7 +39,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
       <DialogTrigger asChild>
         <div
           ref={divRef}
-          className={`group flex  h-36 w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
+          className={`h-26 group  flex w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
             isSelected ? 'bg-emerald-400' : 'bg-zinc-50 hover:bg-white dark:bg-gray-800 dark:hover:bg-gray-700'
           }`}
           role="button"

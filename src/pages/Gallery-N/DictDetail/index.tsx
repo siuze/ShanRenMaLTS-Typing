@@ -51,7 +51,7 @@ export default function DictDetail({ dictionary: dict }: { dictionary: Dictionar
         </h3>
         <p className="mt-1">{dict.chapterCount} 章节</p>
         <p>共 {dict.length} 词</p>
-        <p>{dict.description}</p>
+        <p style={{ paddingRight: '10px' }}>{dict.description}</p>
         <div className="flex-col">
           <ToggleGroup
             type="single"
@@ -80,14 +80,15 @@ export default function DictDetail({ dictionary: dict }: { dictionary: Dictionar
         </div>
       </div>
       <div className="flex pl-0">
-        <Tabs value={curTab} className="h-[30rem] w-full ">
+        <Tabs value={curTab} className={'h-[30rem] w-full'}>
           <TabsContent value={Tab.Chapters} className="h-full ">
-            <ScrollArea className="h-[30rem] ">
+            <ScrollArea className={'h-[30rem]'}>
               <div className="flex w-full flex-wrap gap-3">
                 {range(0, dict.chapterCount, 1).map((index) => (
                   <Chapter
                     key={`${dict.id}-${index}`}
                     index={index}
+                    name={dict.chapterName ? dict.chapterName[index] : ''}
                     checked={chapter === index}
                     dictID={dict.id}
                     onChange={onChangeChapter}

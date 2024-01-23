@@ -11,6 +11,7 @@ import type {
   PronunciationType,
   WordDictationOpenBy,
   WordDictationType,
+  WordRandomOpenBy,
 } from '@/typings'
 import type { ReviewRecord } from '@/utils/db/record'
 import { atom } from 'jotai'
@@ -68,6 +69,7 @@ export const pronunciationIsTransReadAtom = atom((get) => get(pronunciationConfi
 
 export const randomConfigAtom = atomForConfig('randomConfig', {
   isOpen: false,
+  openBy: 'auto' as WordRandomOpenBy,
 })
 
 export const isShowPrevAndNextWordAtom = atomWithStorage('isShowPrevAndNextWord', true)

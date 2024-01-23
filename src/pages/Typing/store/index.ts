@@ -9,6 +9,7 @@ import { createContext } from 'react'
 export const initialState: TypingState = {
   chapterData: {
     words: [],
+    wordsOrigin: [],
     index: 0,
     wordCount: 0,
     correctCount: 0,
@@ -94,14 +95,15 @@ export const typingReducer = (state: TypingState, action: TypingStateAction) => 
     case TypingStateActionType.SETUP_CHAPTER: {
       const newState = structuredClone(initialState)
       const words = action.payload.shouldShuffle ? shuffle(action.payload.words) : action.payload.words
+      const wordsOrigin = structuredClone(action.payload.words)
       let initialIndex = action.payload.initialIndex ?? 0
       if (initialIndex >= words.length) {
         initialIndex = 0
       }
       newState.chapterData.index = initialIndex
       newState.chapterData.words = words
+      newState.chapterData.wordsOrigin = wordsOrigin
       newState.chapterData.userInputLogs = words.map((_, index) => ({ ...structuredClone(initialUserInputLog), index }))
-
       return newState
     }
     case TypingStateActionType.SET_IS_SKIP:
@@ -174,7 +176,8 @@ export const typingReducer = (state: TypingState, action: TypingStateAction) => 
       const newState = structuredClone(initialState)
       newState.chapterData.userInputLogs = state.chapterData.words.map((_, index) => ({ ...structuredClone(initialUserInputLog), index }))
       newState.isTyping = true
-      newState.chapterData.words = action.shouldShuffle ? shuffle(state.chapterData.words) : state.chapterData.words
+      newState.chapterData.wordsOrigin = state.chapterData.wordsOrigin
+      newState.chapterData.words = action.shouldShuffle ? shuffle(newState.chapterData.wordsOrigin) : newState.chapterData.wordsOrigin
       newState.isTransVisible = state.isTransVisible
       return newState
     }

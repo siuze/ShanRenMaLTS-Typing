@@ -91,7 +91,10 @@ export function getCurrentDate() {
   return `${year}${month}${day}`
 }
 
-export function calcChapterCount(length: number) {
+export function calcChapterCount(length: number, count?: number) {
+  if (count) {
+    return count
+  }
   return Math.ceil(length / CHAPTER_LENGTH)
 }
 

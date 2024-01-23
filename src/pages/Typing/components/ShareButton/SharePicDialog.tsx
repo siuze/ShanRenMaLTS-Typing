@@ -175,7 +175,9 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
                 <DataBox data={state.timerData.wpm + ''} description="WPM" />
               </div>
               <div className="ml-5 mt-4 self-start text-base text-gray-800">{currentDictInfo.name}</div>
-              <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`第 ${currentChapter + 1} 章`}</div>
+              <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`第 ${currentChapter + 1} 章 ${
+                currentDictInfo.chapterName ? currentDictInfo.chapterName[currentChapter] : ''
+              }`}</div>
             </div>
             <div className="mb-3 ml-5 mt-auto">
               <div className="text-xs">siuze.github.io/ShanRenMaLTS</div>

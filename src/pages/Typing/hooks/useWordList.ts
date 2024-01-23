@@ -34,6 +34,13 @@ export function useWordList(): UseWordListResult {
       newWords = firstChapter
     } else if (isReviewMode) {
       newWords = reviewRecord?.words ?? []
+    } else if (wordList && 'chapterId' in wordList[0]) {
+      newWords = []
+      for (const word of wordList) {
+        if ('chapterId' in word && word.chapterId === currentChapter) {
+          newWords.push(word)
+        }
+      }
     } else if (wordList) {
       newWords = wordList.slice(currentChapter * CHAPTER_LENGTH, (currentChapter + 1) * CHAPTER_LENGTH)
     } else {

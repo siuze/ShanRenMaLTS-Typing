@@ -33,10 +33,10 @@ const ResultScreen = () => {
   const { state, dispatch } = useContext(TypingContext)!
 
   const setWordDictationConfig = useSetAtom(wordDictationConfigAtom)
+  const [randomConfig, setRandomConfig] = useAtom(randomConfigAtom)
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
   const [currentChapter, setCurrentChapter] = useAtom(currentChapterAtom)
   const setInfoPanelState = useSetAtom(infoPanelStateAtom)
-  const randomConfig = useAtomValue(randomConfigAtom)
   const navigate = useNavigate()
 
   const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
@@ -68,7 +68,12 @@ const ResultScreen = () => {
         const ws = utils.json_to_sheet(exportData)
         const wb = utils.book_new()
         utils.book_append_sheet(wb, ws, 'Data')
-        writeFileXLSX(wb, `${currentDictInfo.name}第${currentChapter + 1}章.xlsx`)
+        writeFileXLSX(
+          wb,
+          `${currentDictInfo.name}第${currentChapter + 1}章${
+            currentDictInfo.chapterName ? currentDictInfo.chapterName[currentChapter] : ''
+          }.xlsx`,
+        )
       })
       .catch(() => {
         console.log('写入 xlsx 模块导入失败')
@@ -115,6 +120,59 @@ const ResultScreen = () => {
     if (isReviewMode) {
       return
     }
+    setWordDictationConfig((old) => {
+      if (old.isOpen) {
+        if (old.openBy === 'auto') {
+          return { ...old, isOpen: false }
+        }
+      }
+      return old
+    })
+    let RandomIsOpen = randomConfig.isOpen
+    setRandomConfig((old) => {
+      if (old.isOpen) {
+        if (old.openBy === 'auto') {
+          RandomIsOpen = false
+          return { ...old, isOpen: false }
+        }
+      }
+      return old
+    })
+    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: RandomIsOpen })
+  }, [isReviewMode, setWordDictationConfig, dispatch, randomConfig])
+
+  const dictationButtonHandler = useCallback(async () => {
+    if (isReviewMode) {
+      return
+    }
+
+    setWordDictationConfig((old) => ({ ...old, isOpen: true, openBy: 'auto' }))
+    let RandomIsOpen = randomConfig.isOpen
+    setRandomConfig((old) => {
+      if (old.isOpen) {
+        if (old.openBy === 'auto') {
+          RandomIsOpen = false
+          return { ...old, isOpen: false }
+        }
+      }
+      return old
+    })
+    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: RandomIsOpen })
+  }, [isReviewMode, setWordDictationConfig, dispatch, randomConfig])
+  const randomDictationButtonHandler = useCallback(async () => {
+    if (isReviewMode) {
+      return
+    }
+
+    setWordDictationConfig((old) => ({ ...old, isOpen: true, openBy: 'auto' }))
+    setRandomConfig((old) => ({ ...old, isOpen: true, openBy: 'auto' }))
+    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: true })
+  }, [isReviewMode, setWordDictationConfig, dispatch, randomConfig])
+
+  const nextButtonHandler = useCallback(() => {
+    if (isReviewMode) {
+      return
+    }
 
     setWordDictationConfig((old) => {
       if (old.isOpen) {
@@ -124,24 +182,7 @@ const ResultScreen = () => {
       }
       return old
     })
-    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })
-  }, [isReviewMode, setWordDictationConfig, dispatch, randomConfig.isOpen])
-
-  const dictationButtonHandler = useCallback(async () => {
-    if (isReviewMode) {
-      return
-    }
-
-    setWordDictationConfig((old) => ({ ...old, isOpen: true, openBy: 'auto' }))
-    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })
-  }, [isReviewMode, setWordDictationConfig, dispatch, randomConfig.isOpen])
-
-  const nextButtonHandler = useCallback(() => {
-    if (isReviewMode) {
-      return
-    }
-
-    setWordDictationConfig((old) => {
+    setRandomConfig((old) => {
       if (old.isOpen) {
         if (old.openBy === 'auto') {
           return { ...old, isOpen: false }
@@ -160,9 +201,9 @@ const ResultScreen = () => {
       setCurrentChapter(0)
       setReviewModeInfo((old) => ({ ...old, isReviewMode: false }))
     } else {
-      dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: false })
+      dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })
     }
-  }, [dispatch, isReviewMode, setCurrentChapter, setReviewModeInfo])
+  }, [dispatch, isReviewMode, setCurrentChapter, setReviewModeInfo, randomConfig])
 
   const onNavigateToGallery = useCallback(() => {
     setCurrentChapter(0)
@@ -188,6 +229,13 @@ const ResultScreen = () => {
     { preventDefault: true },
   )
 
+  useHotkeys(
+    'ctrl+enter',
+    () => {
+      randomDictationButtonHandler()
+    },
+    { preventDefault: true },
+  )
   useHotkeys(
     'shift+enter',
     () => {
@@ -219,7 +267,13 @@ const ResultScreen = () => {
         <div className="flex h-screen items-center justify-center">
           <div className="my-card fixed flex w-[90vw] max-w-6xl flex-col overflow-hidden rounded-3xl bg-white pb-14 pl-10 pr-5 pt-10 shadow-lg dark:bg-gray-800 md:w-4/5 lg:w-3/5">
             <div className="text-center font-sans text-xl font-normal text-gray-900 dark:text-gray-400 md:text-2xl">
-              {`${currentDictInfo.name} ${isReviewMode ? '错题复习' : '第' + (currentChapter + 1) + '章'}`}
+              {`${currentDictInfo.name} ${
+                isReviewMode
+                  ? '错题复习'
+                  : '第' + (currentChapter + 1) + '章 ' + currentDictInfo.chapterName
+                  ? currentDictInfo.chapterName[currentChapter]
+                  : ''
+              }`}
             </div>
             <button className="absolute right-7 top-5" onClick={exitButtonHandler}>
               <IconX className="text-gray-400" />
@@ -288,14 +342,14 @@ const ResultScreen = () => {
             <div className="mt-10 flex w-full justify-center gap-5 px-5 text-xl">
               {!isReviewMode && (
                 <>
-                  <Tooltip content="快捷键：shift + enter">
+                  <Tooltip content="快捷键：ctrl + enter">
                     <button
-                      className="my-btn-primary h-12 text-base font-bold "
+                      className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
                       type="button"
                       onClick={dictationButtonHandler}
-                      title="默写本章节"
+                      title="默写本章"
                     >
-                      默写本章节
+                      默写本章
                     </button>
                   </Tooltip>
                   <Tooltip content="快捷键：space">
@@ -303,9 +357,19 @@ const ResultScreen = () => {
                       className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
                       type="button"
                       onClick={repeatButtonHandler}
-                      title="重复本章节"
+                      title="复习本章"
                     >
-                      重复本章节
+                      复习本章
+                    </button>
+                  </Tooltip>
+                  <Tooltip content="快捷键：shift + enter">
+                    <button
+                      className="my-btn-primary h-12 text-base font-bold "
+                      type="button"
+                      onClick={randomDictationButtonHandler}
+                      title="乱序默写本章"
+                    >
+                      乱序默写本章
                     </button>
                   </Tooltip>
                 </>

@@ -117,7 +117,7 @@ body,
   }
 
   .listbox-button {
-    @apply relative w-40 cursor-pointer rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none dark:bg-gray-600;
+    @apply relative w-60 cursor-pointer rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none dark:bg-gray-600;
   }
   .listbox-button span:nth-of-type(1) {
     @apply block truncate text-gray-900 dark:text-white dark:text-opacity-60;
