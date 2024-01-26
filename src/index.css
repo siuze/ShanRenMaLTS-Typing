@@ -3,6 +3,7 @@
 @tailwind utilities;
 @font-face {
   font-family: 'SunmanPUA';
+  src: url('/fonts/SunmanPUA.woff2') format('woff2'); /* Pretty Modern Browsers */
   src: url('/fonts/SunmanPUA.woff') format('woff'); /* Pretty Modern Browsers */
 }
 @font-face {
