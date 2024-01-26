@@ -1,0 +1,6684 @@
+[
+    {
+        "name": "PZi", 
+        "notation": "卬", 
+        "split": "卩", 
+        "pronunciation": "昂、昂字底", 
+        "trans": [
+            "卬", 
+            "编号：1", 
+            "组号：1", 
+            "部件名称：卬（áng）、昂（áng）字底", 
+            "例字：仰昂迎"
+        ]
+    }, 
+    {
+        "name": "VAO", 
+        "notation": "凹", 
+        "split": "丨ㄅ丨ㄅ一", 
+        "pronunciation": "凹", 
+        "trans": [
+            "凹", 
+            "编号：2", 
+            "组号：2", 
+            "部件名称：凹（āo）", 
+            "例字：凹"
+        ]
+    }, 
+    {
+        "name": "CJd", 
+        "notation": "𫠤", 
+        "split": "龶刀", 
+        "pronunciation": "敖字旁", 
+        "trans": [
+            "𫠤", 
+            "编号：3", 
+            "组号：3", 
+            "部件名称：敖（áo）字旁", 
+            "例字：傲熬赘"
+        ]
+    }, 
+    {
+        "name": "PAUi", 
+        "notation": "", 
+        "split": "丿冂米", 
+        "pronunciation": "奥字头", 
+        "trans": [
+            "", 
+            "编号：4", 
+            "组号：4", 
+            "部件名称：奥（ào）字头", 
+            "例字：奥澳懊粤"
+        ]
+    }, 
+    {
+        "name": "Vb", 
+        "notation": "八", 
+        "split": "八", 
+        "pronunciation": "八", 
+        "trans": [
+            "八", 
+            "编号：5", 
+            "组号：5", 
+            "部件名称：八（bā）", 
+            "例字：叭分只俊"
+        ]
+    }, 
+    {
+        "name": "Vb", 
+        "notation": "丷", 
+        "split": "八", 
+        "pronunciation": "倒八", 
+        "trans": [
+            "丷", 
+            "编号：6", 
+            "组号：5", 
+            "部件名称：倒八（bā）", 
+            "例字：兑尊幸屏"
+        ]
+    }, 
+    {
+        "name": "Kb", 
+        "notation": "巴", 
+        "split": "巴", 
+        "pronunciation": "巴", 
+        "trans": [
+            "巴", 
+            "编号：7", 
+            "组号：6", 
+            "部件名称：巴（bā）", 
+            "例字：吧爸疤爬"
+        ]
+    }, 
+    {
+        "name": "Ba", 
+        "notation": "白", 
+        "split": "白", 
+        "pronunciation": "白", 
+        "trans": [
+            "白", 
+            "编号：8", 
+            "组号：7", 
+            "部件名称：白（bái）", 
+            "例字：柏皂貌"
+        ]
+    }, 
+    {
+        "name": "HBa", 
+        "notation": "百", 
+        "split": "一白", 
+        "pronunciation": "百", 
+        "trans": [
+            "百", 
+            "编号：9", 
+            "组号：8", 
+            "部件名称：百（bǎi）", 
+            "例字：陌宿"
+        ]
+    }, 
+    {
+        "name": "Fs", 
+        "notation": "", 
+        "split": "手", 
+        "pronunciation": "拜字边", 
+        "trans": [
+            "", 
+            "编号：10", 
+            "组号：9", 
+            "部件名称：拜（bài）字边", 
+            "例字：拜"
+        ]
+    }, 
+    {
+        "name": "FV", 
+        "notation": "办", 
+        "split": "力八", 
+        "pronunciation": "办", 
+        "trans": [
+            "办", 
+            "编号：11", 
+            "组号：10", 
+            "部件名称：办（bàn）", 
+            "例字：协苏"
+        ]
+    }, 
+    {
+        "name": "VF", 
+        "notation": "半", 
+        "split": "丷", 
+        "pronunciation": "半", 
+        "trans": [
+            "半", 
+            "编号：12", 
+            "组号：11", 
+            "部件名称：半（bàn）", 
+            "例字：判叛伴衅"
+        ]
+    }, 
+    {
+        "name": "A", 
+        "notation": "宀", 
+        "split": "宀", 
+        "pronunciation": "宝盖", 
+        "trans": [
+            "宀", 
+            "编号：13", 
+            "组号：12", 
+            "部件名称：宝盖（bǎo gài）", 
+            "例字：安牢蓉蛇"
+        ]
+    }, 
+    {
+        "name": "BPC", 
+        "notation": "卑", 
+        "split": "白丿十", 
+        "pronunciation": "卑", 
+        "trans": [
+            "卑", 
+            "编号：14", 
+            "组号：13", 
+            "部件名称：卑（bēi）", 
+            "例字：碑牌"
+        ]
+    }, 
+    {
+        "name": "Gb", 
+        "notation": "贝", 
+        "split": "贝", 
+        "pronunciation": "贝", 
+        "trans": [
+            "贝", 
+            "编号：15", 
+            "组号：14", 
+            "部件名称：贝（bèi）", 
+            "例字：坝员婴赢"
+        ]
+    }, 
+    {
+        "name": "C", 
+        "notation": "卄", 
+        "split": "艹", 
+        "pronunciation": "贲字腰", 
+        "trans": [
+            "卄", 
+            "编号：16", 
+            "组号：15", 
+            "部件名称：贲（bēn）字腰", 
+            "例字：愤喷"
+        ]
+    }, 
+    {
+        "name": "MH", 
+        "notation": "本", 
+        "split": "木一", 
+        "pronunciation": "本", 
+        "trans": [
+            "本", 
+            "编号：17", 
+            "组号：16", 
+            "部件名称：本（běn）", 
+            "例字：体笨"
+        ]
+    }, 
+    {
+        "name": "C", 
+        "notation": "丌", 
+        "split": "丌", 
+        "pronunciation": "鼻字底", 
+        "trans": [
+            "丌", 
+            "编号：18", 
+            "组号：17", 
+            "部件名称：鼻（bí）字底", 
+            "例字：鼻痹"
+        ]
+    }, 
+    {
+        "name": "Ubi", 
+        "notation": "匕", 
+        "split": "匕", 
+        "pronunciation": "匕", 
+        "trans": [
+            "匕", 
+            "编号：19", 
+            "组号：18", 
+            "部件名称：匕（bǐ）", 
+            "例字：北此它化"
+        ]
+    }, 
+    {
+        "name": "Ubi", 
+        "notation": "", 
+        "split": "匕", 
+        "pronunciation": "北字旁", 
+        "trans": [
+            "", 
+            "编号：20", 
+            "组号：18", 
+            "部件名称：北（běi）字旁", 
+            "例字：北背冀燕"
+        ]
+    }, 
+    {
+        "name": "QP", 
+        "notation": "必", 
+        "split": "心丿", 
+        "pronunciation": "必", 
+        "trans": [
+            "必", 
+            "编号：21", 
+            "组号：19", 
+            "部件名称：必（bì）", 
+            "例字：秘瑟密"
+        ]
+    }, 
+    {
+        "name": "Yv", 
+        "notation": "㡀", 
+        "split": "㡀", 
+        "pronunciation": "敝字旁", 
+        "trans": [
+            "㡀", 
+            "编号：22", 
+            "组号：20", 
+            "部件名称：敝（bì）字旁", 
+            "例字：撇憋蔽"
+        ]
+    }, 
+    {
+        "name": "Xm", 
+        "notation": "釆", 
+        "split": "釆", 
+        "pronunciation": "变、番字头", 
+        "trans": [
+            "釆", 
+            "编号：23", 
+            "组号：21", 
+            "部件名称：釆（biàn）、番（fān）字头", 
+            "例字：释悉翻潘"
+        ]
+    }, 
+    {
+        "name": "HAR", 
+        "notation": "丙", 
+        "split": "一冂人", 
+        "pronunciation": "丙", 
+        "trans": [
+            "丙", 
+            "编号：24", 
+            "组号：22", 
+            "部件名称：丙（bǐng）", 
+            "例字：柄病陋"
+        ]
+    }, 
+    {
+        "name": "UXj", 
+        "notation": "秉", 
+        "split": "禾", 
+        "pronunciation": "秉", 
+        "trans": [
+            "秉", 
+            "编号：25", 
+            "组号：23", 
+            "部件名称：秉（bǐng）", 
+            "例字：秉"
+        ]
+    }, 
+    {
+        "name": "Eb", 
+        "notation": "疒", 
+        "split": "疒", 
+        "pronunciation": "病字框", 
+        "trans": [
+            "疒", 
+            "编号：26", 
+            "组号：24", 
+            "部件名称：病（bìng）字框", 
+            "例字：病嫉"
+        ]
+    }, 
+    {
+        "name": "Qbu", 
+        "notation": "卜", 
+        "split": "卜", 
+        "pronunciation": "补", 
+        "trans": [
+            "卜", 
+            "编号：27", 
+            "组号：25", 
+            "部件名称：卜（bǔ）", 
+            "例字：卦处盐"
+        ]
+    }, 
+    {
+        "name": "Qbu", 
+        "notation": "⺊", 
+        "split": "卜", 
+        "pronunciation": "卢字头", 
+        "trans": [
+            "⺊", 
+            "编号：28", 
+            "组号：25", 
+            "部件名称：卢（lú）字头", 
+            "例字：贞颅粘罩"
+        ]
+    }, 
+    {
+        "name": "Ww", 
+        "notation": "不", 
+        "split": "不", 
+        "pronunciation": "不", 
+        "trans": [
+            "不", 
+            "编号：29", 
+            "组号：26", 
+            "部件名称：不（bù）", 
+            "例字：杯否还胚"
+        ]
+    }, 
+    {
+        "name": "Fp", 
+        "notation": "才", 
+        "split": "才", 
+        "pronunciation": "才", 
+        "trans": [
+            "才", 
+            "编号：30", 
+            "组号：27", 
+            "部件名称：才（cái）", 
+            "例字：材团团"
+        ]
+    }, 
+    {
+        "name": "HI", 
+        "notation": "", 
+        "split": "一曲", 
+        "pronunciation": "曹字头", 
+        "trans": [
+            "曹", 
+            "编号：31", 
+            "组号：28", 
+            "部件名称：曹（cáo）字头", 
+            "例字：曹糟遭"
+        ]
+    }, 
+    {
+        "name": "C", 
+        "notation": "艹", 
+        "split": "艹", 
+        "pronunciation": "草字头", 
+        "trans": [
+            "艹", 
+            "编号：32", 
+            "组号：29", 
+            "部件名称：草（cǎo）字头", 
+            "例字：草满塔警"
+        ]
+    }, 
+    {
+        "name": "Ice", 
+        "notation": "册", 
+        "split": "册", 
+        "pronunciation": "册", 
+        "trans": [
+            "册", 
+            "编号：33", 
+            "组号：30", 
+            "部件名称：册（cè）", 
+            "例字：删栅"
+        ]
+    }, 
+    {
+        "name": "Ice", 
+        "notation": "𠕁", 
+        "split": "册", 
+        "pronunciation": "扁字心", 
+        "trans": [
+            "𠕁", 
+            "编号：34", 
+            "组号：30", 
+            "部件名称：扁（biǎn）字心", 
+            "例字：扁偏遍匾"
+        ]
+    }, 
+    {
+        "name": "Ice", 
+        "notation": "", 
+        "split": "册", 
+        "pronunciation": "典字头", 
+        "trans": [
+            "", 
+            "编号：35", 
+            "组号：30", 
+            "部件名称：典（diǎn）字头", 
+            "例字：典碘"
+        ]
+    }, 
+    {
+        "name": "VAWi", 
+        "notation": "", 
+        "split": "丷囗⺌", 
+        "pronunciation": "曾字头", 
+        "trans": [
+            "", 
+            "编号：36", 
+            "组号：31", 
+            "部件名称：曾（céng）字头", 
+            "例字：曾蹭增"
+        ]
+    }, 
+    {
+        "name": "XD", 
+        "notation": "叉", 
+        "split": "又丶", 
+        "pronunciation": "插", 
+        "trans": [
+            "叉", 
+            "编号：37", 
+            "组号：32", 
+            "部件名称：叉（chā）", 
+            "例字：杈蚤骚"
+        ]
+    }, 
+    {
+        "name": "IT", 
+        "notation": "产", 
+        "split": "厂", 
+        "pronunciation": "产", 
+        "trans": [
+            "产", 
+            "编号：38", 
+            "组号：33", 
+            "部件名称：产（chǎn）", 
+            "例字：铲萨颜谚"
+        ]
+    }, 
+    {
+        "name": "Yc", 
+        "notation": "长", 
+        "split": "镸", 
+        "pronunciation": "常", 
+        "trans": [
+            "长", 
+            "编号：39", 
+            "组号：34", 
+            "部件名称：长（cháng）", 
+            "例字：张涨"
+        ]
+    }, 
+    {
+        "name": "Tc", 
+        "notation": "厂", 
+        "split": "厂", 
+        "pronunciation": "厂", 
+        "trans": [
+            "厂", 
+            "编号：40", 
+            "组号：35", 
+            "部件名称：厂（chǎng）", 
+            "例字：雁岸雳脆"
+        ]
+    }, 
+    {
+        "name": "Lc", 
+        "notation": "车", 
+        "split": "车", 
+        "pronunciation": "车", 
+        "trans": [
+            "车", 
+            "编号：41", 
+            "组号：36", 
+            "部件名称：车（chē）", 
+            "例字：辆辈惭浑"
+        ]
+    }, 
+    {
+        "name": "Ncv", 
+        "notation": "臣", 
+        "split": "臣", 
+        "pronunciation": "臣", 
+        "trans": [
+            "臣", 
+            "编号：42", 
+            "组号：37", 
+            "部件名称：臣（chén）", 
+            "例字：卧宦藏"
+        ]
+    }, 
+    {
+        "name": "J", 
+        "notation": "〢", 
+        "split": "〢", 
+        "pronunciation": "临字旁", 
+        "trans": [
+            "〢", 
+            "编号：43", 
+            "组号：37", 
+            "部件名称：临（lín）字旁", 
+            "例字：临监坚蓝"
+        ]
+    }, 
+    {
+        "name": "Hcv", 
+        "notation": "辰", 
+        "split": "辰", 
+        "pronunciation": "辰", 
+        "trans": [
+            "辰", 
+            "编号：44", 
+            "组号：38", 
+            "部件名称：辰（chén）", 
+            "例字：振辱震褥"
+        ]
+    }, 
+    {
+        "name": "ZSH", 
+        "notation": "丞", 
+        "split": "乛水一", 
+        "pronunciation": "丞", 
+        "trans": [
+            "丞", 
+            "编号：45", 
+            "组号：39", 
+            "部件名称：丞（chéng）", 
+            "例字：拯蒸"
+        ]
+    }, 
+    {
+        "name": "ZS", 
+        "notation": "承", 
+        "split": "乛水三", 
+        "pronunciation": "承", 
+        "trans": [
+            "承", 
+            "编号：46", 
+            "组号：40", 
+            "部件名称：承（chéng）", 
+            "例字：承"
+        ]
+    }, 
+    {
+        "name": "EDs", 
+        "notation": "尺", 
+        "split": "尸丶", 
+        "pronunciation": "尺", 
+        "trans": [
+            "尺", 
+            "编号：47", 
+            "组号：41", 
+            "部件名称：尺（chǐ）", 
+            "例字：尽昼迟"
+        ]
+    }, 
+    {
+        "name": "JDn", 
+        "notation": "斥", 
+        "split": "斤丶", 
+        "pronunciation": "斥", 
+        "trans": [
+            "斥", 
+            "编号：48", 
+            "组号：42", 
+            "部件名称：斥（chì）", 
+            "例字：拆诉"
+        ]
+    }, 
+    {
+        "name": "TWu", 
+        "notation": "赤", 
+        "split": "土", 
+        "pronunciation": "赤", 
+        "trans": [
+            "赤", 
+            "编号：49", 
+            "组号：43", 
+            "部件名称：赤（chì）", 
+            "例字：赫赦"
+        ]
+    }, 
+    {
+        "name": "Kcv", 
+        "notation": "虫", 
+        "split": "虫", 
+        "pronunciation": "虫", 
+        "trans": [
+            "虫", 
+            "编号：50", 
+            "组号：44", 
+            "部件名称：虫（chóng）", 
+            "例字：虾独蚕闽"
+        ]
+    }, 
+    {
+        "name": "ZT", 
+        "notation": "丑", 
+        "split": "ヿ土", 
+        "pronunciation": "丑", 
+        "trans": [
+            "丑", 
+            "编号：51", 
+            "组号：45", 
+            "部件名称：丑（chǒu）", 
+            "例字：扭羞"
+        ]
+    }, 
+    {
+        "name": "CU", 
+        "notation": "出", 
+        "split": "屮凵", 
+        "pronunciation": "出", 
+        "trans": [
+            "出", 
+            "编号：52", 
+            "组号：46", 
+            "部件名称：出（chū）", 
+            "例字：础祟茁屈"
+        ]
+    }, 
+    {
+        "name": "Sp", 
+        "notation": "川", 
+        "split": "川", 
+        "pronunciation": "川", 
+        "trans": [
+            "川", 
+            "编号：53", 
+            "组号：47", 
+            "部件名称：川（chuān）", 
+            "例字：顺训"
+        ]
+    }, 
+    {
+        "name": "Sp", 
+        "notation": "", 
+        "split": "川", 
+        "pronunciation": "荒字底", 
+        "trans": [
+            "", 
+            "编号：54", 
+            "组号：47", 
+            "部件名称：荒（huāng）字底", 
+            "例字：流疏荒"
+        ]
+    }, 
+    {
+        "name": "Sp", 
+        "notation": "巛", 
+        "split": "川", 
+        "pronunciation": "巡字心", 
+        "trans": [
+            "巛", 
+            "编号：55", 
+            "组号：47", 
+            "部件名称：巡（xún）字心", 
+            "例字：巢巡剿"
+        ]
+    }, 
+    {
+        "name": "OOS", 
+        "notation": "串", 
+        "split": "口口丨", 
+        "pronunciation": "串", 
+        "trans": [
+            "串", 
+            "编号：56", 
+            "组号：48", 
+            "部件名称：串（chuàn）", 
+            "例字：申患窜"
+        ]
+    }, 
+    {
+        "name": "PCT", 
+        "notation": "垂", 
+        "split": "千艹士", 
+        "pronunciation": "垂", 
+        "trans": [
+            "垂", 
+            "编号：57", 
+            "组号：49", 
+            "部件名称：垂（chuí）", 
+            "例字：睡唾"
+        ]
+    }, 
+    {
+        "name": "CDf", 
+        "notation": "𡗗", 
+        "split": "㇏", 
+        "pronunciation": "春字头", 
+        "trans": [
+            "𡗗", 
+            "编号：58", 
+            "组号：50", 
+            "部件名称：春（chūn）字头", 
+            "例字：春奉秦揍"
+        ]
+    }, 
+    {
+        "name": "MOu", 
+        "notation": "束", 
+        "split": "木口", 
+        "pronunciation": "束、刺字旁", 
+        "trans": [
+            "束", 
+            "编号：59", 
+            "组号：51", 
+            "部件名称：束（shù）、刺（cì）字旁", 
+            "例字：棘刺枣策"
+        ]
+    }, 
+    {
+        "name": "PYD", 
+        "notation": "匆", 
+        "split": "勹丶", 
+        "pronunciation": "匆", 
+        "trans": [
+            "匆", 
+            "编号：60", 
+            "组号：52", 
+            "部件名称：匆（cōng）", 
+            "例字：葱"
+        ]
+    }, 
+    {
+        "name": "Acv", 
+        "notation": "囱", 
+        "split": "囱", 
+        "pronunciation": "肉", 
+        "trans": [
+            "囱", 
+            "编号：61", 
+            "组号：53", 
+            "部件名称：肉（ròu）", 
+            "例字：窗"
+        ]
+    }, 
+    {
+        "name": "Fc", 
+        "notation": "寸", 
+        "split": "寸", 
+        "pronunciation": "寸", 
+        "trans": [
+            "寸", 
+            "编号：62", 
+            "组号：54", 
+            "部件名称：寸（cùn）", 
+            "例字：村封寻将"
+        ]
+    }, 
+    {
+        "name": "Nr", 
+        "notation": "大", 
+        "split": "大", 
+        "pronunciation": "大", 
+        "trans": [
+            "大", 
+            "编号：63", 
+            "组号：55", 
+            "部件名称：大（dà）", 
+            "例字：驮夸头因"
+        ]
+    }, 
+    {
+        "name": "Edv", 
+        "notation": "歹", 
+        "split": "歹", 
+        "pronunciation": "歹", 
+        "trans": [
+            "歹", 
+            "编号：64", 
+            "组号：56", 
+            "部件名称：歹（dǎi）", 
+            "例字：残例毙葬"
+        ]
+    }, 
+    {
+        "name": "Ed", 
+        "notation": "歺", 
+        "split": "歹", 
+        "pronunciation": "餐左角", 
+        "trans": [
+            "歺", 
+            "编号：65", 
+            "组号：56", 
+            "部件名称：餐（cān）左角", 
+            "例字：餐"
+        ]
+    }, 
+    {
+        "name": "Csa", 
+        "notation": "", 
+        "split": "卅", 
+        "pronunciation": "带字头", 
+        "trans": [
+            "", 
+            "编号：66", 
+            "组号：57", 
+            "部件名称：带（dài）字头", 
+            "例字：带滞"
+        ]
+    }, 
+    {
+        "name": "Da", 
+        "notation": "丹", 
+        "split": "丹", 
+        "pronunciation": "丹", 
+        "trans": [
+            "丹", 
+            "编号：67", 
+            "组号：58", 
+            "部件名称：丹（dān）", 
+            "例字：彤"
+        ]
+    }, 
+    {
+        "name": "VGC", 
+        "notation": "单", 
+        "split": "丷田十", 
+        "pronunciation": "单", 
+        "trans": [
+            "单", 
+            "编号：68", 
+            "组号：59", 
+            "部件名称：单（dān）", 
+            "例字：蝉弹阐"
+        ]
+    }, 
+    {
+        "name": "Jd", 
+        "notation": "刀", 
+        "split": "刀", 
+        "pronunciation": "刀", 
+        "trans": [
+            "刀", 
+            "编号：69", 
+            "组号：60", 
+            "部件名称：刀（dāo）", 
+            "例字：初召颁解"
+        ]
+    }, 
+    {
+        "name": "Jd", 
+        "notation": "", 
+        "split": "刀", 
+        "pronunciation": "刀中", 
+        "trans": [
+            "", 
+            "编号：70", 
+            "组号：60", 
+            "部件名称：刀（dāo）中", 
+            "例字：班辨"
+        ]
+    }, 
+    {
+        "name": "Jd", 
+        "notation": "", 
+        "split": "刀", 
+        "pronunciation": "黎右角", 
+        "trans": [
+            "", 
+            "编号：71", 
+            "组号：60", 
+            "部件名称：黎（lí）右角", 
+            "例字：黎"
+        ]
+    }, 
+    {
+        "name": "Jd", 
+        "notation": "刂", 
+        "split": "刀", 
+        "pronunciation": "立刀", 
+        "trans": [
+            "刂", 
+            "编号：72", 
+            "组号：60", 
+            "部件名称：立刀（dāo）", 
+            "例字：别箭偷罚"
+        ]
+    }, 
+    {
+        "name": "Lzd", 
+        "notation": "癶", 
+        "split": "癶", 
+        "pronunciation": "登字头", 
+        "trans": [
+            "癶", 
+            "编号：73", 
+            "组号：61", 
+            "部件名称：登（dēng）字头", 
+            "例字：登橙凳葵"
+        ]
+    }, 
+    {
+        "name": "IAv", 
+        "notation": "", 
+        "split": "冖", 
+        "pronunciation": "帝字头", 
+        "trans": [
+            "", 
+            "编号：74", 
+            "组号：62", 
+            "部件名称：帝（dì）字头", 
+            "例字：帝旁蒂磅"
+        ]
+    }, 
+    {
+        "name": "VJQ", 
+        "notation": "弟", 
+        "split": "丷弓", 
+        "pronunciation": "弟", 
+        "trans": [
+            "弟", 
+            "编号：75", 
+            "组号：63", 
+            "部件名称：弟（dì）", 
+            "例字：剃涕递"
+        ]
+    }, 
+    {
+        "name": "JQbg", 
+        "notation": "𢎨", 
+        "split": "弓", 
+        "pronunciation": "弟省", 
+        "trans": [
+            "𢎨", 
+            "编号：76", 
+            "组号：63", 
+            "部件名称：弟（dì）省", 
+            "例字：第"
+        ]
+    }, 
+    {
+        "name": "D", 
+        "notation": "丶", 
+        "split": "丶", 
+        "pronunciation": "点", 
+        "trans": [
+            "丶", 
+            "编号：77", 
+            "组号：64", 
+            "部件名称：点（diǎn）", 
+            "例字：底良兔"
+        ]
+    }, 
+    {
+        "name": "BZ", 
+        "notation": "电", 
+        "split": "日乚", 
+        "pronunciation": "电", 
+        "trans": [
+            "电", 
+            "编号：78", 
+            "组号：65", 
+            "部件名称：电（diàn）", 
+            "例字：奄掩庵"
+        ]
+    }, 
+    {
+        "name": "ZHiv", 
+        "notation": "刁", 
+        "split": "㇀", 
+        "pronunciation": "刁", 
+        "trans": [
+            "刁", 
+            "编号：79", 
+            "组号：66", 
+            "部件名称：刁（diāo）", 
+            "例字：叼"
+        ]
+    }, 
+    {
+        "name": "Hd", 
+        "notation": "丁", 
+        "split": "丁", 
+        "pronunciation": "丁", 
+        "trans": [
+            "丁", 
+            "编号：80", 
+            "组号：67", 
+            "部件名称：丁（dīng）", 
+            "例字：盯宁厅停"
+        ]
+    }, 
+    {
+        "name": "Uaa", 
+        "notation": "鼎", 
+        "split": "鼎", 
+        "pronunciation": "鼎", 
+        "trans": [
+            "鼎", 
+            "编号：81", 
+            "组号：68", 
+            "部件名称：鼎（dǐng）", 
+            "例字：鼎"
+        ]
+    }, 
+    {
+        "name": "L", 
+        "notation": "夂", 
+        "split": "夂", 
+        "pronunciation": "冬字头", 
+        "trans": [
+            "夂", 
+            "编号：82", 
+            "组号：69", 
+            "部件名称：冬（dōng）字头", 
+            "例字：冬务处客"
+        ]
+    }, 
+    {
+        "name": "HW", 
+        "notation": "东", 
+        "split": "小", 
+        "pronunciation": "东", 
+        "trans": [
+            "东", 
+            "编号：83", 
+            "组号：70", 
+            "部件名称：东（dōng）", 
+            "例字：陈冻"
+        ]
+    }, 
+    {
+        "name": "BPZR", 
+        "notation": "兜", 
+        "split": "白コ儿", 
+        "pronunciation": "兜", 
+        "trans": [
+            "兜", 
+            "编号：84", 
+            "组号：71", 
+            "部件名称：兜（dōu）", 
+            "例字：兜"
+        ]
+    }, 
+    {
+        "name": "Udu", 
+        "notation": "斗", 
+        "split": "斗", 
+        "pronunciation": "斗", 
+        "trans": [
+            "斗", 
+            "编号：85", 
+            "组号：72", 
+            "部件名称：斗（dǒu）", 
+            "例字：抖魁蝌"
+        ]
+    }, 
+    {
+        "name": "Udo", 
+        "notation": "豆", 
+        "split": "豆", 
+        "pronunciation": "豆", 
+        "trans": [
+            "豆", 
+            "编号：86", 
+            "组号：73", 
+            "部件名称：豆（dòu）", 
+            "例字：短壹凳厨"
+        ]
+    }, 
+    {
+        "name": "XHij", 
+        "notation": "", 
+        "split": "一", 
+        "pronunciation": "段字旁", 
+        "trans": [
+            "", 
+            "编号：87", 
+            "组号：74", 
+            "部件名称：段（duàn）字旁", 
+            "例字：段缎"
+        ]
+    }, 
+    {
+        "name": "Eh", 
+        "notation": "而", 
+        "split": "而", 
+        "pronunciation": "而", 
+        "trans": [
+            "而", 
+            "编号：88", 
+            "组号：75", 
+            "部件名称：而（ér）", 
+            "例字：耐耍需端"
+        ]
+    }, 
+    {
+        "name": "R", 
+        "notation": "", 
+        "split": "⺈", 
+        "pronunciation": "尔字头", 
+        "trans": [
+            "", 
+            "编号：89", 
+            "组号：76", 
+            "部件名称：尔（ěr）字头", 
+            "例字：尔弥你您"
+        ]
+    }, 
+    {
+        "name": "Ee", 
+        "notation": "耳", 
+        "split": "耳", 
+        "pronunciation": "耳", 
+        "trans": [
+            "耳", 
+            "编号：90", 
+            "组号：77", 
+            "部件名称：耳（ěr）", 
+            "例字：聪饵聋摄"
+        ]
+    }, 
+    {
+        "name": "Ve", 
+        "notation": "二", 
+        "split": "二", 
+        "pronunciation": "二", 
+        "trans": [
+            "二", 
+            "编号：91", 
+            "组号：78", 
+            "部件名称：二（èr）", 
+            "例字：仁些贰"
+        ]
+    }, 
+    {
+        "name": "CX", 
+        "notation": "发", 
+        "split": "又丶", 
+        "pronunciation": "发", 
+        "trans": [
+            "发", 
+            "编号：92", 
+            "组号：79", 
+            "部件名称：发（fā）", 
+            "例字：拨废"
+        ]
+    }, 
+    {
+        "name": "Pd", 
+        "notation": "凡", 
+        "split": "凡", 
+        "pronunciation": "凡", 
+        "trans": [
+            "凡", 
+            "编号：93", 
+            "组号：80", 
+            "部件名称：凡（fán）", 
+            "例字：矾恐赢"
+        ]
+    }, 
+    {
+        "name": "Tc", 
+        "notation": "𠂆", 
+        "split": "⺁", 
+        "pronunciation": "反字框", 
+        "trans": [
+            "𠂆", 
+            "编号：94", 
+            "组号：81", 
+            "部件名称：反（fǎn）字框", 
+            "例字：质板返派"
+        ]
+    }, 
+    {
+        "name": "Xp", 
+        "notation": "攵", 
+        "split": "攵", 
+        "pronunciation": "反文", 
+        "trans": [
+            "攵", 
+            "编号：95", 
+            "组号：82", 
+            "部件名称：反文（wén）", 
+            "例字：改玫做整"
+        ]
+    }, 
+    {
+        "name": "Xpu", 
+        "notation": "攴", 
+        "split": "攵", 
+        "pronunciation": "扑、敲字边", 
+        "trans": [
+            "攴", 
+            "编号：96", 
+            "组号：82", 
+            "部件名称：攴（pū）、敲（qiāo）字边", 
+            "例字：敲寇"
+        ]
+    }, 
+    {
+        "name": "If", 
+        "notation": "方", 
+        "split": "方", 
+        "pronunciation": "方", 
+        "trans": [
+            "方", 
+            "编号：97", 
+            "组号：83", 
+            "部件名称：方（fāng）", 
+            "例字：旅纺旁簇"
+        ]
+    }, 
+    {
+        "name": "Efv", 
+        "notation": "飞", 
+        "split": "飞", 
+        "pronunciation": "飞", 
+        "trans": [
+            "飞", 
+            "编号：98", 
+            "组号：84", 
+            "部件名称：飞（fēi）", 
+            "例字：飞"
+        ]
+    }, 
+    {
+        "name": "Qv", 
+        "notation": "非", 
+        "split": "非", 
+        "pronunciation": "非", 
+        "trans": [
+            "非", 
+            "编号：99", 
+            "组号：85", 
+            "部件名称：非（fēi）", 
+            "例字：排悲罪匪"
+        ]
+    }, 
+    {
+        "name": "Cf", 
+        "notation": "丰", 
+        "split": "丰", 
+        "pronunciation": "丰", 
+        "trans": [
+            "丰", 
+            "编号：100", 
+            "组号：86", 
+            "部件名称：丰（fēng）", 
+            "例字：邦艳契害"
+        ]
+    }, 
+    {
+        "name": "Cf", 
+        "notation": "", 
+        "split": "丰", 
+        "pronunciation": "寿字头", 
+        "trans": [
+            "", 
+            "编号：101", 
+            "组号：86", 
+            "部件名称：寿（shòu）字头", 
+            "例字：寿涛筹"
+        ]
+    }, 
+    {
+        "name": "Wf", 
+        "notation": "风", 
+        "split": "风", 
+        "pronunciation": "风", 
+        "trans": [
+            "风", 
+            "编号：102", 
+            "组号：87", 
+            "部件名称：风（fēng）", 
+            "例字：枫飘飒"
+        ]
+    }, 
+    {
+        "name": "Pp", 
+        "notation": "𠘨", 
+        "split": "⺇", 
+        "pronunciation": "风省", 
+        "trans": [
+            "𠘨", 
+            "编号：103", 
+            "组号：87", 
+            "部件名称：风（fēng）省", 
+            "例字：凤凰佩"
+        ]
+    }, 
+    {
+        "name": "Ufv", 
+        "notation": "缶", 
+        "split": "缶", 
+        "pronunciation": "缶", 
+        "trans": [
+            "缶", 
+            "编号：104", 
+            "组号：88", 
+            "部件名称：缶（fǒu）", 
+            "例字：缺窑掏遥"
+        ]
+    }, 
+    {
+        "name": "Nf", 
+        "notation": "夫", 
+        "split": "夫", 
+        "pronunciation": "夫", 
+        "trans": [
+            "夫", 
+            "编号：105", 
+            "组号：89", 
+            "部件名称：夫（fū）", 
+            "例字：规肤芙替"
+        ]
+    }, 
+    {
+        "name": "HYj", 
+        "notation": "巿", 
+        "split": "一巾", 
+        "pronunciation": "巿、肺字边", 
+        "trans": [
+            "巿", 
+            "编号：106", 
+            "组号：90", 
+            "部件名称：巿(、肺(字边", 
+            "例字：肺沛"
+        ]
+    }, 
+    {
+        "name": "JgJv", 
+        "notation": "弗", 
+        "split": "弓", 
+        "pronunciation": "弗心", 
+        "trans": [
+            "弗", 
+            "编号：107", 
+            "组号：91", 
+            "部件名称：弗（fú）心", 
+            "例字：沸费"
+        ]
+    }, 
+    {
+        "name": "Hp", 
+        "notation": "甫", 
+        "split": "甫", 
+        "pronunciation": "甫", 
+        "trans": [
+            "甫", 
+            "编号：108", 
+            "组号：92", 
+            "部件名称：甫（fǔ）", 
+            "例字：辅圃博蒲"
+        ]
+    }, 
+    {
+        "name": "VX", 
+        "notation": "父", 
+        "split": "八乂", 
+        "pronunciation": "父心", 
+        "trans": [
+            "父", 
+            "编号：109", 
+            "组号：93", 
+            "部件名称：父（fù）心", 
+            "例字：爸斧"
+        ]
+    }, 
+    {
+        "name": "HQZ", 
+        "notation": "丐", 
+        "split": "一⺊ㄅ", 
+        "pronunciation": "丐", 
+        "trans": [
+            "丐", 
+            "编号：110", 
+            "组号：94", 
+            "部件名称：丐（gài）", 
+            "例字：钙"
+        ]
+    }, 
+    {
+        "name": "Jg", 
+        "notation": "干", 
+        "split": "干", 
+        "pronunciation": "干", 
+        "trans": [
+            "干", 
+            "编号：111", 
+            "组号：95", 
+            "部件名称：干（gān）", 
+            "例字：刊汗舒凿"
+        ]
+    }, 
+    {
+        "name": "Hy", 
+        "notation": "尢", 
+        "split": "尢", 
+        "pronunciation": "尴字框", 
+        "trans": [
+            "尢", 
+            "编号：112", 
+            "组号：96", 
+            "部件名称：尴（gān）字框", 
+            "例字：尴尬"
+        ]
+    }, 
+    {
+        "name": "Uga", 
+        "notation": "甘", 
+        "split": "甘", 
+        "pronunciation": "甘", 
+        "trans": [
+            "甘", 
+            "编号：113", 
+            "组号：97", 
+            "部件名称：甘（gān）", 
+            "例字：甜某嵌"
+        ]
+    }, 
+    {
+        "name": "Io", 
+        "notation": "高", 
+        "split": "高", 
+        "pronunciation": "高", 
+        "trans": [
+            "高", 
+            "编号：114", 
+            "组号：98", 
+            "部件名称：高（gāo）", 
+            "例字：敲搞膏蒿"
+        ]
+    }, 
+    {
+        "name": "Jge", 
+        "notation": "戈", 
+        "split": "戈", 
+        "pronunciation": "戈", 
+        "trans": [
+            "戈", 
+            "编号：115", 
+            "组号：99", 
+            "部件名称：戈（gē）", 
+            "例字：划战或裁"
+        ]
+    }, 
+    {
+        "name": "Yge", 
+        "notation": "革", 
+        "split": "革", 
+        "pronunciation": "革", 
+        "trans": [
+            "革", 
+            "编号：116", 
+            "组号：100", 
+            "部件名称：革（gé）", 
+            "例字：鞋霸"
+        ]
+    }, 
+    {
+        "name": "RS", 
+        "notation": "个", 
+        "split": "人丨", 
+        "pronunciation": "个", 
+        "trans": [
+            "个", 
+            "编号：117", 
+            "组号：101", 
+            "部件名称：个（gè）", 
+            "例字：个"
+        ]
+    }, 
+    {
+        "name": "Zg", 
+        "notation": "艮", 
+        "split": "艮", 
+        "pronunciation": "艮、根字边", 
+        "trans": [
+            "艮", 
+            "编号：118", 
+            "组号：102", 
+            "部件名称：艮（gèn）、根（gēn）字边", 
+            "例字：根垦良退"
+        ]
+    }, 
+    {
+        "name": "XRnj", 
+        "notation": "", 
+        "split": "人", 
+        "pronunciation": "庚字心", 
+        "trans": [
+            "", 
+            "编号：119", 
+            "组号：103", 
+            "部件名称：庚（gēng）字心", 
+            "例字：庚"
+        ]
+    }, 
+    {
+        "name": "HB", 
+        "notation": "更", 
+        "split": "一日", 
+        "pronunciation": "更", 
+        "trans": [
+            "更", 
+            "编号：120", 
+            "组号：104", 
+            "部件名称：更（gèng）", 
+            "例字：便硬鞭"
+        ]
+    }, 
+    {
+        "name": "Fg", 
+        "notation": "工", 
+        "split": "工", 
+        "pronunciation": "工", 
+        "trans": [
+            "工", 
+            "编号：121", 
+            "组号：105", 
+            "部件名称：工（gōng）", 
+            "例字：功红左诬"
+        ]
+    }, 
+    {
+        "name": "Jgv", 
+        "notation": "弓", 
+        "split": "弓", 
+        "pronunciation": "弓", 
+        "trans": [
+            "弓", 
+            "编号：122", 
+            "组号：106", 
+            "部件名称：弓（gōng）", 
+            "例字：引躬弱粥"
+        ]
+    }, 
+    {
+        "name": "Eg", 
+        "notation": "", 
+        "split": "冎", 
+        "pronunciation": "骨字头", 
+        "trans": [
+            "", 
+            "编号：123", 
+            "组号：107", 
+            "部件名称：骨（gǔ）字头", 
+            "例字：骨滑猾髓"
+        ]
+    }, 
+    {
+        "name": "Tvv", 
+        "notation": "谷", 
+        "split": "谷", 
+        "pronunciation": "谷", 
+        "trans": [
+            "谷", 
+            "编号：124", 
+            "组号：108", 
+            "部件名称：谷（gǔ）", 
+            "例字：欲俗豁蓉"
+        ]
+    }, 
+    {
+        "name": "Ugu", 
+        "notation": "瓜", 
+        "split": "瓜", 
+        "pronunciation": "瓜", 
+        "trans": [
+            "瓜", 
+            "编号：125", 
+            "组号：109", 
+            "部件名称：瓜（guā）", 
+            "例字：孤瓤瓣"
+        ]
+    }, 
+    {
+        "name": "FRn", 
+        "notation": "夬", 
+        "split": "人", 
+        "pronunciation": "央、决字边", 
+        "trans": [
+            "夬", 
+            "编号：126", 
+            "组号：110", 
+            "部件名称：央（yāng）、决（jué）字边", 
+            "例字：决块筷"
+        ]
+    }, 
+    {
+        "name": "Ngv", 
+        "notation": "毌", 
+        "split": "毌", 
+        "pronunciation": "母、贯字头", 
+        "trans": [
+            "毌", 
+            "编号：127", 
+            "组号：111", 
+            "部件名称：母（mǔ）、贯（guàn）字头", 
+            "例字：贯惯"
+        ]
+    }, 
+    {
+        "name": "Ta", 
+        "notation": "广", 
+        "split": "广", 
+        "pronunciation": "广", 
+        "trans": [
+            "广", 
+            "编号：128", 
+            "组号：112", 
+            "部件名称：广（guǎng）", 
+            "例字：扩康俯遮"
+        ]
+    }, 
+    {
+        "name": "Kg", 
+        "notation": "龟", 
+        "split": "龟", 
+        "pronunciation": "龟", 
+        "trans": [
+            "龟", 
+            "编号：129", 
+            "组号：113", 
+            "部件名称：龟（guī）", 
+            "例字：龟"
+        ]
+    }, 
+    {
+        "name": "Qg", 
+        "notation": "鬼", 
+        "split": "鬼", 
+        "pronunciation": "鬼", 
+        "trans": [
+            "鬼", 
+            "编号：130", 
+            "组号：114", 
+            "部件名称：鬼（guǐ）", 
+            "例字：愧魁魔巍"
+        ]
+    }, 
+    {
+        "name": "GM", 
+        "notation": "果", 
+        "split": "田木", 
+        "pronunciation": "果", 
+        "trans": [
+            "果", 
+            "编号：131", 
+            "组号：115", 
+            "部件名称：果（guǒ）", 
+            "例字：颗棵巢裹"
+        ]
+    }, 
+    {
+        "name": "Khv", 
+        "notation": "亥", 
+        "split": "亥", 
+        "pronunciation": "亥", 
+        "trans": [
+            "亥", 
+            "编号：132", 
+            "组号：116", 
+            "部件名称：亥（hài）", 
+            "例字：刻孩"
+        ]
+    }, 
+    {
+        "name": "CHij", 
+        "notation": "", 
+        "split": "一", 
+        "pronunciation": "寒字腰", 
+        "trans": [
+            "", 
+            "编号：133", 
+            "组号：117", 
+            "部件名称：寒（hán）字腰", 
+            "例字：寒寨壤"
+        ]
+    }, 
+    {
+        "name": "HZi", 
+        "notation": "丂", 
+        "split": "一ㄅ", 
+        "pronunciation": "号字底", 
+        "trans": [
+            "丂", 
+            "编号：134", 
+            "组号：118", 
+            "部件名称：号（hào）字底", 
+            "例字：巧亏考聘"
+        ]
+    }, 
+    {
+        "name": "Uhe", 
+        "notation": "禾", 
+        "split": "禾", 
+        "pronunciation": "禾", 
+        "trans": [
+            "禾", 
+            "编号：135", 
+            "组号：119", 
+            "部件名称：禾（hé）", 
+            "例字：种秃秦乘"
+        ]
+    }, 
+    {
+        "name": "AKz", 
+        "notation": "隺", 
+        "split": "冖隹", 
+        "pronunciation": "鹤字旁", 
+        "trans": [
+            "隺", 
+            "编号：136", 
+            "组号：120", 
+            "部件名称：鹤（hè）字旁", 
+            "例字：鹤"
+        ]
+    }, 
+    {
+        "name": "Bw", 
+        "notation": "黑", 
+        "split": "黑", 
+        "pronunciation": "黑", 
+        "trans": [
+            "黑", 
+            "编号：137", 
+            "组号：121", 
+            "部件名称：黑（hēi）", 
+            "例字：默嘿墨"
+        ]
+    }, 
+    {
+        "name": "Hi", 
+        "notation": "㇐", 
+        "split": "一", 
+        "pronunciation": "横、一", 
+        "trans": [
+            "㇐", 
+            "编号：138", 
+            "组号：122", 
+            "部件名称：横（héng）、一（yī）", 
+            "例字：旦灭丛脸"
+        ]
+    }, 
+    {
+        "name": "Zyi", 
+        "notation": "乙", 
+        "split": "乙", 
+        "pronunciation": "横折弯钩、乙", 
+        "trans": [
+            "乙", 
+            "编号：139", 
+            "组号：123", 
+            "部件名称：横折弯钩（gōu）、乙（yǐ）", 
+            "例字：亿艺疙乾"
+        ]
+    }, 
+    {
+        "name": "Z", 
+        "notation": "乛", 
+        "split": "乛", 
+        "pronunciation": "横钩", 
+        "trans": [
+            "乛", 
+            "编号：140", 
+            "组号：123", 
+            "部件名称：横钩（gōu）", 
+            "例字：买卖续"
+        ]
+    }, 
+    {
+        "name": "Z", 
+        "notation": "", 
+        "split": "ヿ", 
+        "pronunciation": "横折", 
+        "trans": [
+            "", 
+            "编号：141", 
+            "组号：123", 
+            "部件名称：横折", 
+            "例字：敢侯橄憨"
+        ]
+    }, 
+    {
+        "name": "Z", 
+        "notation": "𠃌", 
+        "split": "", 
+        "pronunciation": "横折钩", 
+        "trans": [
+            "𠃌", 
+            "编号：142", 
+            "组号：123", 
+            "部件名称：横折钩（gōu）", 
+            "例字：幻局成盛"
+        ]
+    }, 
+    {
+        "name": "TH", 
+        "notation": "后", 
+        "split": "一口", 
+        "pronunciation": "后", 
+        "trans": [
+            "后", 
+            "编号：143", 
+            "组号：124", 
+            "部件名称：后（hòu）", 
+            "例字：垢"
+        ]
+    }, 
+    {
+        "name": "PV", 
+        "notation": "乎", 
+        "split": "丿丷", 
+        "pronunciation": "乎", 
+        "trans": [
+            "乎", 
+            "编号：144", 
+            "组号：125", 
+            "部件名称：乎（hū）", 
+            "例字：呼"
+        ]
+    }, 
+    {
+        "name": "Khu", 
+        "notation": "虍", 
+        "split": "虍", 
+        "pronunciation": "虎字头", 
+        "trans": [
+            "虍", 
+            "编号：145", 
+            "组号：126", 
+            "部件名称：虎（hǔ）字头", 
+            "例字：虎虚彪滤"
+        ]
+    }, 
+    {
+        "name": "HK", 
+        "notation": "互", 
+        "split": "一彑", 
+        "pronunciation": "互", 
+        "trans": [
+            "互", 
+            "编号：146", 
+            "组号：127", 
+            "部件名称：互（hù）", 
+            "例字：互"
+        ]
+    }, 
+    {
+        "name": "Ahu", 
+        "notation": "户", 
+        "split": "户", 
+        "pronunciation": "户", 
+        "trans": [
+            "户", 
+            "编号：147", 
+            "组号：128", 
+            "部件名称：户（hù）", 
+            "例字：炉所房编"
+        ]
+    }, 
+    {
+        "name": "U", 
+        "notation": "凵", 
+        "split": "凵", 
+        "pronunciation": "画字框", 
+        "trans": [
+            "凵", 
+            "编号：148", 
+            "组号：129", 
+            "部件名称：画（huà）字框", 
+            "例字：凶画离"
+        ]
+    }, 
+    {
+        "name": "RAN", 
+        "notation": "奂", 
+        "split": "⺈冂大", 
+        "pronunciation": "奂", 
+        "trans": [
+            "奂", 
+            "编号：149", 
+            "组号：130", 
+            "部件名称：奂（huàn）", 
+            "例字：换痪"
+        ]
+    }, 
+    {
+        "name": "Bv", 
+        "notation": "黄", 
+        "split": "黄", 
+        "pronunciation": "黄", 
+        "trans": [
+            "黄", 
+            "编号：150", 
+            "组号：131", 
+            "部件名称：黄（huáng）", 
+            "例字：横磺"
+        ]
+    }, 
+    {
+        "name": "HBGs", 
+        "notation": "", 
+        "split": "一日", 
+        "pronunciation": "惠字头", 
+        "trans": [
+            "", 
+            "编号：151", 
+            "组号：132", 
+            "部件名称：惠（huì）字头", 
+            "例字：穗"
+        ]
+    }, 
+    {
+        "name": "Wu", 
+        "notation": "火", 
+        "split": "火", 
+        "pronunciation": "火", 
+        "trans": [
+            "火", 
+            "编号：152", 
+            "组号：133", 
+            "部件名称：火（huǒ）", 
+            "例字：炒秋焚毯"
+        ]
+    }, 
+    {
+        "name": "Wu", 
+        "notation": "灬", 
+        "split": "火", 
+        "pronunciation": "横四点", 
+        "trans": [
+            "灬", 
+            "编号：153", 
+            "组号：133", 
+            "部件名称：横四点（diǎn）", 
+            "例字：点羔煮杰"
+        ]
+    }, 
+    {
+        "name": "FU", 
+        "notation": "击", 
+        "split": "凵", 
+        "pronunciation": "击", 
+        "trans": [
+            "击", 
+            "编号：154", 
+            "组号：134", 
+            "部件名称：击（jī）", 
+            "例字：陆"
+        ]
+    }, 
+    {
+        "name": "Px", 
+        "notation": "及", 
+        "split": "及", 
+        "pronunciation": "及", 
+        "trans": [
+            "及", 
+            "编号：155", 
+            "组号：135", 
+            "部件名称：及（jí）", 
+            "例字：级吸"
+        ]
+    }, 
+    {
+        "name": "Zg", 
+        "notation": "", 
+        "split": "艮", 
+        "pronunciation": "即字旁", 
+        "trans": [
+            "", 
+            "编号：156", 
+            "组号：136", 
+            "部件名称：即（jí）字旁", 
+            "例字：即卿郎嚼"
+        ]
+    }, 
+    {
+        "name": "Pp", 
+        "notation": "几", 
+        "split": "几", 
+        "pronunciation": "儿", 
+        "trans": [
+            "几", 
+            "编号：157", 
+            "组号：137", 
+            "部件名称：儿（ér）", 
+            "例字：机朵冗虎"
+        ]
+    }, 
+    {
+        "name": "Zj", 
+        "notation": "己", 
+        "split": "己", 
+        "pronunciation": "己[", 
+        "trans": [
+            "己", 
+            "编号：158", 
+            "组号：138", 
+            "部件名称：己（jǐ）[", 
+            "例字：记忌岂改"
+        ]
+    }, 
+    {
+        "name": "Zy", 
+        "notation": "已", 
+        "split": "已", 
+        "pronunciation": "已", 
+        "trans": [
+            "已", 
+            "编号：159", 
+            "组号：138", 
+            "部件名称：已（yǐ）", 
+            "例字：已"
+        ]
+    }, 
+    {
+        "name": "Ub", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "以字旁", 
+        "trans": [
+            "", 
+            "编号：160", 
+            "组号：138", 
+            "部件名称：以（yǐ）字旁", 
+            "例字：以拟"
+        ]
+    }, 
+    {
+        "name": "Zsi", 
+        "notation": "巳", 
+        "split": "巳", 
+        "pronunciation": "巳", 
+        "trans": [
+            "巳", 
+            "编号：161", 
+            "组号：138", 
+            "部件名称：巳（sì）", 
+            "例字：导巷包顾"
+        ]
+    }, 
+    {
+        "name": "Hr", 
+        "notation": "旡", 
+        "split": "旡", 
+        "pronunciation": "无、既字边", 
+        "trans": [
+            "旡", 
+            "编号：162", 
+            "组号：139", 
+            "部件名称：无（wú）、既（jì）字边", 
+            "例字：既概"
+        ]
+    }, 
+    {
+        "name": "NV", 
+        "notation": "夹", 
+        "split": "夫丷", 
+        "pronunciation": "夹", 
+        "trans": [
+            "夹", 
+            "编号：163", 
+            "组号：]40", 
+            "部件名称：夹（jiá）", 
+            "例字：颊陕荚"
+        ]
+    }, 
+    {
+        "name": "Gs", 
+        "notation": "甲", 
+        "split": "甲", 
+        "pronunciation": "甲", 
+        "trans": [
+            "甲", 
+            "编号：164", 
+            "组号：141", 
+            "部件名称：甲（jiǎ）", 
+            "例字：鸭押匣闸"
+        ]
+    }, 
+    {
+        "name": "EVZX", 
+        "notation": "叚", 
+        "split": "二コ又", 
+        "pronunciation": "叚、假字边", 
+        "trans": [
+            "叚", 
+            "编号：165", 
+            "组号：142", 
+            "部件名称：叚（xiá）、假（jiǎ）字边", 
+            "例字：假霞"
+        ]
+    }, 
+    {
+        "name": "VXW", 
+        "notation": "兼", 
+        "split": "䒑", 
+        "pronunciation": "兼", 
+        "trans": [
+            "兼", 
+            "编号：166", 
+            "组号：143", 
+            "部件名称：兼（jiān）", 
+            "例字：歉谦廉镰"
+        ]
+    }, 
+    {
+        "name": "MAV", 
+        "notation": "柬", 
+        "split": "木囗丷", 
+        "pronunciation": "柬", 
+        "trans": [
+            "柬", 
+            "编号：167", 
+            "组号：144", 
+            "部件名称：柬（jiǎn）", 
+            "例字：柬澜"
+        ]
+    }, 
+    {
+        "name": "HWiz", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "拣字边", 
+        "trans": [
+            "", 
+            "编号：168", 
+            "组号：144", 
+            "部件名称：拣（jiǎn）字边", 
+            "例字：拣练"
+        ]
+    }, 
+    {
+        "name": "L", 
+        "notation": "廴", 
+        "split": "廴", 
+        "pronunciation": "建之", 
+        "trans": [
+            "廴", 
+            "编号：169", 
+            "组号：145", 
+            "部件名称：建之（zhī）", 
+            "例字：延挺键"
+        ]
+    }, 
+    {
+        "name": "Er", 
+        "notation": "见", 
+        "split": "见", 
+        "pronunciation": "见", 
+        "trans": [
+            "见", 
+            "编号：170", 
+            "组号：146", 
+            "部件名称：见（jiàn）", 
+            "例字：观舰揽窥"
+        ]
+    }, 
+    {
+        "name": "Ys", 
+        "notation": "纟", 
+        "split": "糸", 
+        "pronunciation": "绞丝旁", 
+        "trans": [
+            "纟", 
+            "编号：171", 
+            "组号：147", 
+            "部件名称：绞丝旁（páng）", 
+            "例字：红绑辫蕴"
+        ]
+    }, 
+    {
+        "name": "Ysv", 
+        "notation": "糸", 
+        "split": "糸", 
+        "pronunciation": "绞丝底", 
+        "trans": [
+            "糸", 
+            "编号：172", 
+            "组号：147", 
+            "部件名称：绞丝底（dǐ）", 
+            "例字：系紧螺徽"
+        ]
+    }, 
+    {
+        "name": "Ej", 
+        "notation": "角", 
+        "split": "角", 
+        "pronunciation": "角", 
+        "trans": [
+            "角", 
+            "编号：173", 
+            "组号：148", 
+            "部件名称：角（jiǎo）", 
+            "例字：触确嘴蟹"
+        ]
+    }, 
+    {
+        "name": "Zi", 
+        "notation": "卩", 
+        "split": "卩", 
+        "pronunciation": "、单耳'", 
+        "trans": [
+            "卩", 
+            "编号：174", 
+            "组号：149", 
+            "部件名称：(、单耳('", 
+            "例字：印即叩报"
+        ]
+    }, 
+    {
+        "name": "Zi", 
+        "notation": "", 
+        "split": "卩", 
+        "pronunciation": "节字底", 
+        "trans": [
+            "", 
+            "编号：175", 
+            "组号：149", 
+            "部件名称：节（jié）字底", 
+            "例字：节爷"
+        ]
+    }, 
+    {
+        "name": "Zi", 
+        "notation": "㔾", 
+        "split": "卩", 
+        "pronunciation": "仓字底", 
+        "trans": [
+            "㔾", 
+            "编号：176", 
+            "组号：149", 
+            "部件名称：仓（cāng）字底", 
+            "例字：仓卷危宛"
+        ]
+    }, 
+    {
+        "name": "HXL", 
+        "notation": "疌", 
+        "split": "一龰", 
+        "pronunciation": "走、捷字边", 
+        "trans": [
+            "疌", 
+            "编号：177", 
+            "组号：150", 
+            "部件名称：走（zǒu）、捷（jié）字边", 
+            "例字：捷睫"
+        ]
+    }, 
+    {
+        "name": "Yjv", 
+        "notation": "巾", 
+        "split": "巾", 
+        "pronunciation": "巾", 
+        "trans": [
+            "巾", 
+            "编号：178", 
+            "组号：151", 
+            "部件名称：巾（jīn）", 
+            "例字：帕帅帚闹"
+        ]
+    }, 
+    {
+        "name": "Jn", 
+        "notation": "斤", 
+        "split": "斤", 
+        "pronunciation": "斤", 
+        "trans": [
+            "斤", 
+            "编号：179", 
+            "组号：152", 
+            "部件名称：斤（jīn）", 
+            "例字：欣祈斧兵"
+        ]
+    }, 
+    {
+        "name": "RZ", 
+        "notation": "今", 
+        "split": "亽ヿ", 
+        "pronunciation": "今", 
+        "trans": [
+            "今", 
+            "编号：I80", 
+            "组号：153", 
+            "部件名称：今（jīn）", 
+            "例字：吟令念琴"
+        ]
+    }, 
+    {
+        "name": "Jr", 
+        "notation": "金", 
+        "split": "金", 
+        "pronunciation": "金", 
+        "trans": [
+            "金", 
+            "编号：181", 
+            "组号：154", 
+            "部件名称：金（jīn）", 
+            "例字：鉴"
+        ]
+    }, 
+    {
+        "name": "Jr", 
+        "notation": "钅", 
+        "split": "金", 
+        "pronunciation": "金旁", 
+        "trans": [
+            "钅", 
+            "编号：182", 
+            "组号：154", 
+            "部件名称：金（jīn）旁", 
+            "例字：针锈锄衔"
+        ]
+    }, 
+    {
+        "name": "COCh", 
+        "notation": "堇", 
+        "split": "廿口", 
+        "pronunciation": "堇、谨字边", 
+        "trans": [
+            "堇", 
+            "编号：183", 
+            "组号：155", 
+            "部件名称：堇（jǐn）、谨（jǐn）字边", 
+            "例字：勤谨"
+        ]
+    }, 
+    {
+        "name": "IWi", 
+        "notation": "京", 
+        "split": "小", 
+        "pronunciation": "京", 
+        "trans": [
+            "京", 
+            "编号：184", 
+            "组号：156", 
+            "部件名称：京（jīng）", 
+            "例字：就惊影"
+        ]
+    }, 
+    {
+        "name": "Cj", 
+        "notation": "井", 
+        "split": "井", 
+        "pronunciation": "井", 
+        "trans": [
+            "井", 
+            "编号：185", 
+            "组号：157", 
+            "部件名称：井（jǐng）", 
+            "例字：阱讲进"
+        ]
+    }, 
+    {
+        "name": "Zs", 
+        "notation": "丩", 
+        "split": "丩", 
+        "pronunciation": "叫、纠字边", 
+        "trans": [
+            "丩", 
+            "编号：186", 
+            "组号：158", 
+            "部件名称：叫（jiào）、纠（jiū）字边", 
+            "例字：收纠叫"
+        ]
+    }, 
+    {
+        "name": "Pj", 
+        "notation": "九", 
+        "split": "九", 
+        "pronunciation": "九", 
+        "trans": [
+            "九", 
+            "编号：187", 
+            "组号：159", 
+            "部件名称：九（jiǔ）", 
+            "例字：轨杂究抛"
+        ]
+    }, 
+    {
+        "name": "RD", 
+        "notation": "久", 
+        "split": "㇏", 
+        "pronunciation": "久记", 
+        "trans": [
+            "久", 
+            "编号：188", 
+            "组号：160", 
+            "部件名称：久（jiǔ）记", 
+            "例字：玖灸疚"
+        ]
+    }, 
+    {
+        "name": "Uhv", 
+        "notation": "韭", 
+        "split": "韭", 
+        "pronunciation": "韭心", 
+        "trans": [
+            "韭", 
+            "编号：189", 
+            "组号：161", 
+            "部件名称：韭（jiǔ）心", 
+            "例字：韭"
+        ]
+    }, 
+    {
+        "name": "Uji", 
+        "notation": "臼", 
+        "split": "臼", 
+        "pronunciation": "臼", 
+        "trans": [
+            "臼", 
+            "编号：190", 
+            "组号：162", 
+            "部件名称：臼（jiù）", 
+            "例字：舅舀毁陷"
+        ]
+    }, 
+    {
+        "name": "F", 
+        "notation": "𰀁", 
+        "split": "", 
+        "pronunciation": "举字底", 
+        "trans": [
+            "𰀁", 
+            "编号：191", 
+            "组号：163", 
+            "部件名称：举（jǔ）字底", 
+            "例字：举奉择棒"
+        ]
+    }, 
+    {
+        "name": "Pk", 
+        "notation": "勹", 
+        "split": "勹", 
+        "pronunciation": "句字框", 
+        "trans": [
+            "勹", 
+            "编号：192", 
+            "组号：164", 
+            "部件名称：句（jù）字框", 
+            "例字：勾泡葡渴"
+        ]
+    }, 
+    {
+        "name": "HZk", 
+        "notation": "巨", 
+        "split": "匚コ", 
+        "pronunciation": "巨", 
+        "trans": [
+            "巨", 
+            "编号：193", 
+            "组号：165", 
+            "部件名称：巨（jù）", 
+            "例字：距渠"
+        ]
+    }, 
+    {
+        "name": "PSv", 
+        "notation": "乑", 
+        "split": "丿", 
+        "pronunciation": "聚字底", 
+        "trans": [
+            "乑", 
+            "编号：194", 
+            "组号：166", 
+            "部件名称：聚（jù）字底", 
+            "例字：聚骤"
+        ]
+    }, 
+    {
+        "name": "ECv", 
+        "notation": "具", 
+        "split": "目", 
+        "pronunciation": "具", 
+        "trans": [
+            "具", 
+            "编号：195", 
+            "组号：167", 
+            "部件名称：具（jù）", 
+            "例字：俱真镇"
+        ]
+    }, 
+    {
+        "name": "VNfb", 
+        "notation": "龹", 
+        "split": "丷夫", 
+        "pronunciation": "卷字头", 
+        "trans": [
+            "龹", 
+            "编号：196", 
+            "组号：168", 
+            "部件名称：卷（juǎn）字头", 
+            "例字：券誊倦藤"
+        ]
+    }, 
+    {
+        "name": "QHQ", 
+        "notation": "卡", 
+        "split": "⺊一卜", 
+        "pronunciation": "卡", 
+        "trans": [
+            "卡", 
+            "编号：197", 
+            "组号：169", 
+            "部件名称：卡（kǎ）", 
+            "例字：卡"
+        ]
+    }, 
+    {
+        "name": "HC", 
+        "notation": "开", 
+        "split": "一廾", 
+        "pronunciation": "开", 
+        "trans": [
+            "开", 
+            "编号：198", 
+            "组号：70", 
+            "部件名称：开（kāi）", 
+            "例字：形研荆屏"
+        ]
+    }, 
+    {
+        "name": "Hd", 
+        "notation": "", 
+        "split": "丁", 
+        "pronunciation": "可字框", 
+        "trans": [
+            "", 
+            "编号：199", 
+            "组号：171", 
+            "部件名称：可（kě）字框", 
+            "例字：可哥阿畸"
+        ]
+    }, 
+    {
+        "name": "Od", 
+        "notation": "口", 
+        "split": "口", 
+        "pronunciation": "", 
+        "trans": [
+            "口", 
+            "编号：200", 
+            "组号：172", 
+            "部件名称：(", 
+            "例字：吧扣舍哀"
+        ]
+    }, 
+    {
+        "name": "MV", 
+        "notation": "来", 
+        "split": "未丷", 
+        "pronunciation": "来", 
+        "trans": [
+            "来", 
+            "编号：201", 
+            "组号：173", 
+            "部件名称：来（lái）", 
+            "例字：来莱"
+        ]
+    }, 
+    {
+        "name": "El", 
+        "notation": "老", 
+        "split": "老", 
+        "pronunciation": "老", 
+        "trans": [
+            "老", 
+            "编号：202", 
+            "组号：174", 
+            "部件名称：老（lǎo）", 
+            "例字：姥嗜"
+        ]
+    }, 
+    {
+        "name": "El", 
+        "notation": "耂", 
+        "split": "老", 
+        "pronunciation": "老省", 
+        "trans": [
+            "耂", 
+            "编号：203", 
+            "组号：174", 
+            "部件名称：老（lǎo）省", 
+            "例字：者教拷曙"
+        ]
+    }, 
+    {
+        "name": "PW", 
+        "notation": "乐", 
+        "split": "小", 
+        "pronunciation": "乐", 
+        "trans": [
+            "乐", 
+            "编号：204", 
+            "组号：175", 
+            "部件名称：乐（lè）", 
+            "例字：砾烁"
+        ]
+    }, 
+    {
+        "name": "Ule", 
+        "notation": "耒", 
+        "split": "耒", 
+        "pronunciation": "末", 
+        "trans": [
+            "耒", 
+            "编号：205", 
+            "组号：176", 
+            "部件名称：末（mò）", 
+            "例字：耕籍"
+        ]
+    }, 
+    {
+        "name": "La", 
+        "notation": "禸", 
+        "split": "禸", 
+        "pronunciation": "离字底", 
+        "trans": [
+            "禸", 
+            "编号：206", 
+            "组号：177", 
+            "部件名称：离（lí）字底", 
+            "例字：离擒篱"
+        ]
+    }, 
+    {
+        "name": "GT", 
+        "notation": "里", 
+        "split": "田土", 
+        "pronunciation": "里[", 
+        "trans": [
+            "里", 
+            "编号：207", 
+            "组号：178", 
+            "部件名称：里（lǐ）[", 
+            "例字：野理量厘"
+        ]
+    }, 
+    {
+        "name": "Fi", 
+        "notation": "力", 
+        "split": "力", 
+        "pronunciation": "力", 
+        "trans": [
+            "力", 
+            "编号：208", 
+            "组号：179", 
+            "部件名称：力（lì）", 
+            "例字：动男伤荔"
+        ]
+    }, 
+    {
+        "name": "Ih", 
+        "notation": "立", 
+        "split": "立", 
+        "pronunciation": "它", 
+        "trans": [
+            "立", 
+            "编号：209", 
+            "组号：180", 
+            "部件名称：它（tā）", 
+            "例字：站亲竖霎"
+        ]
+    }, 
+    {
+        "name": "HOX", 
+        "notation": "吏", 
+        "split": "一口", 
+        "pronunciation": "吏", 
+        "trans": [
+            "吏", 
+            "编号：210", 
+            "组号：181", 
+            "部件名称：吏（lì）", 
+            "例字：使"
+        ]
+    }, 
+    {
+        "name": "HD", 
+        "notation": "丽", 
+        "split": "一", 
+        "pronunciation": "丽", 
+        "trans": [
+            "丽", 
+            "编号：211", 
+            "组号：182", 
+            "部件名称：丽（lì）", 
+            "例字：丽"
+        ]
+    }, 
+    {
+        "name": "XS", 
+        "notation": "隶", 
+        "split": "氺", 
+        "pronunciation": "隶", 
+        "trans": [
+            "隶", 
+            "编号：212", 
+            "组号：183", 
+            "部件名称：隶（lì）", 
+            "例字：康逮慷"
+        ]
+    }, 
+    {
+        "name": "Uliv", 
+        "notation": "鬲", 
+        "split": "鬲", 
+        "pronunciation": "鬲、隔字边", 
+        "trans": [
+            "鬲", 
+            "编号：213", 
+            "组号：184", 
+            "部件名称：鬲（lì）、隔（gé）字边", 
+            "例字：融隔"
+        ]
+    }, 
+    {
+        "name": "Sb", 
+        "notation": "冫", 
+        "split": "冫", 
+        "pronunciation": "两点水、冰字旁", 
+        "trans": [
+            "冫", 
+            "编号：214", 
+            "组号：185", 
+            "部件名称：两点水（shuǐ）、冰（bīng）字旁", 
+            "例字：冰准次"
+        ]
+    }, 
+    {
+        "name": "Sb", 
+        "notation": "⺀", 
+        "split": "゛", 
+        "pronunciation": "两点、冬字底", 
+        "trans": [
+            "⺀", 
+            "编号：215", 
+            "组号：185", 
+            "部件名称：两点（diǎn）、冬（dōng）字底", 
+            "例字：冬尽寒"
+        ]
+    }, 
+    {
+        "name": "Ul", 
+        "notation": "两", 
+        "split": "两", 
+        "pronunciation": "两", 
+        "trans": [
+            "两", 
+            "编号：216", 
+            "组号：186", 
+            "部件名称：两（liǎng）", 
+            "例字：俩满"
+        ]
+    }, 
+    {
+        "name": "NVbr", 
+        "notation": "𡗜", 
+        "split": "大丷", 
+        "pronunciation": "奈字头", 
+        "trans": [
+            "𡗜", 
+            "编号：217", 
+            "组号：187", 
+            "部件名称：奈（nài）字头", 
+            "例字：潦撩"
+        ]
+    }, 
+    {
+        "name": "Le", 
+        "notation": "了", 
+        "split": "了", 
+        "pronunciation": "了", 
+        "trans": [
+            "了", 
+            "编号：218", 
+            "组号：188", 
+            "部件名称：了（liǎo）", 
+            "例字：辽疗烹函"
+        ]
+    }, 
+    {
+        "name": "Uzu", 
+        "notation": "", 
+        "split": "竹", 
+        "pronunciation": "临右角", 
+        "trans": [
+            "", 
+            "编号：219", 
+            "组号：189", 
+            "部件名称：临（lín）右角", 
+            "例字：临监缆蓝"
+        ]
+    }, 
+    {
+        "name": "Bo", 
+        "notation": "𫩏", 
+        "split": "", 
+        "pronunciation": "临下角", 
+        "trans": [
+            "𫩏", 
+            "编号：220", 
+            "组号：190", 
+            "部件名称：临（lín）下角", 
+            "例字：临"
+        ]
+    }, 
+    {
+        "name": "Iv", 
+        "notation": "六", 
+        "split": "六", 
+        "pronunciation": "六", 
+        "trans": [
+            "六", 
+            "编号：221", 
+            "组号：191", 
+            "部件名称：六（liù）", 
+            "例字：交郊胶冥"
+        ]
+    }, 
+    {
+        "name": "Kl", 
+        "notation": "龙", 
+        "split": "龙", 
+        "pronunciation": "龙", 
+        "trans": [
+            "龙", 
+            "编号：222", 
+            "组号：192", 
+            "部件名称：龙（lóng）", 
+            "例字：胧垄笼庞"
+        ]
+    }, 
+    {
+        "name": "Ulu", 
+        "notation": "卤", 
+        "split": "卤", 
+        "pronunciation": "卤", 
+        "trans": [
+            "卤", 
+            "编号：223", 
+            "组号：193", 
+            "部件名称：卤（lǔ）", 
+            "例字：卤"
+        ]
+    }, 
+    {
+        "name": "Kji", 
+        "notation": "", 
+        "split": "彑", 
+        "pronunciation": "录字头", 
+        "trans": [
+            "", 
+            "编号：224", 
+            "组号：194", 
+            "部件名称：录（lù）字头", 
+            "例字：录剥绿氯"
+        ]
+    }, 
+    {
+        "name": "Klu", 
+        "notation": "鹿", 
+        "split": "鹿", 
+        "pronunciation": "鹿", 
+        "trans": [
+            "鹿", 
+            "编号：225", 
+            "组号：195", 
+            "部件名称：鹿（lù）", 
+            "例字：鹿"
+        ]
+    }, 
+    {
+        "name": "Yi", 
+        "notation": "", 
+        "split": "衣", 
+        "pronunciation": "旅旧下角", 
+        "trans": [
+            "", 
+            "编号：226", 
+            "组号：196", 
+            "部件名称：旅（lǚ）旧下角", 
+            "例字：旅派"
+        ]
+    }, 
+    {
+        "name": "Elv", 
+        "notation": "卵", 
+        "split": "卵", 
+        "pronunciation": "卵", 
+        "trans": [
+            "卵", 
+            "编号：227", 
+            "组号：197", 
+            "部件名称：卵（luǎn）", 
+            "例字：孵"
+        ]
+    }, 
+    {
+        "name": "RUb", 
+        "notation": "仑", 
+        "split": "人匕", 
+        "pronunciation": "仑", 
+        "trans": [
+            "仑", 
+            "编号：228", 
+            "组号：198", 
+            "部件名称：仑（lún）", 
+            "例字：论瘪"
+        ]
+    }, 
+    {
+        "name": "As", 
+        "notation": "罒", 
+        "split": "罒", 
+        "pronunciation": "罗字头", 
+        "trans": [
+            "罒", 
+            "编号：229", 
+            "组号：199", 
+            "部件名称：罗（luó）字头", 
+            "例字：罗罢曼曙"
+        ]
+    }, 
+    {
+        "name": "Kma", 
+        "notation": "马", 
+        "split": "马", 
+        "pronunciation": "马", 
+        "trans": [
+            "马", 
+            "编号：230", 
+            "组号：200", 
+            "部件名称：马（mǎ）", 
+            "例字：驴冯驾腾"
+        ]
+    }, 
+    {
+        "name": "Ema", 
+        "notation": "毛", 
+        "split": "毛", 
+        "pronunciation": "毛", 
+        "trans": [
+            "毛", 
+            "编号：231", 
+            "组号：201", 
+            "部件名称：毛（máo）", 
+            "例字：耗笔毯尾"
+        ]
+    }, 
+    {
+        "name": "Jm", 
+        "notation": "矛", 
+        "split": "矛", 
+        "pronunciation": "矛", 
+        "trans": [
+            "矛", 
+            "编号：232", 
+            "组号：202", 
+            "部件名称：矛（máo）", 
+            "例字：柔茅橘"
+        ]
+    }, 
+    {
+        "name": "PZi", 
+        "notation": "卯", 
+        "split": "卩", 
+        "pronunciation": "卯", 
+        "trans": [
+            "卯", 
+            "编号：233", 
+            "组号：203", 
+            "部件名称：卯（mǎo）", 
+            "例字：聊柳卿"
+        ]
+    }, 
+    {
+        "name": "PJd", 
+        "notation": "", 
+        "split": "刀", 
+        "pronunciation": "留字头", 
+        "trans": [
+            "", 
+            "编号：234", 
+            "组号：203", 
+            "部件名称：留（liú）字头", 
+            "例字：贸溜瘤"
+        ]
+    }, 
+    {
+        "name": "Bo", 
+        "notation": "⺜", 
+        "split": "⺜", 
+        "pronunciation": "冒字头", 
+        "trans": [
+            "⺜", 
+            "编号：235", 
+            "组号：204", 
+            "部件名称：冒（mào）字头", 
+            "例字：帽"
+        ]
+    }, 
+    {
+        "name": "PG", 
+        "notation": "么", 
+        "split": "丿厶", 
+        "pronunciation": "么", 
+        "trans": [
+            "么", 
+            "编号：236", 
+            "组号：205", 
+            "部件名称：么（me）", 
+            "例字：么"
+        ]
+    }, 
+    {
+        "name": "Es", 
+        "notation": "𠃜", 
+        "split": "", 
+        "pronunciation": "眉字框", 
+        "trans": [
+            "𠃜", 
+            "编号：237", 
+            "组号：206", 
+            "部件名称：眉（méi）字框", 
+            "例字：眉声媚"
+        ]
+    }, 
+    {
+        "name": "Am", 
+        "notation": "门", 
+        "split": "门", 
+        "pronunciation": "门", 
+        "trans": [
+            "门", 
+            "编号：238", 
+            "组号：207", 
+            "部件名称：门（mén）", 
+            "例字：们闻搁躏"
+        ]
+    }, 
+    {
+        "name": "Ui", 
+        "notation": "米", 
+        "split": "米", 
+        "pronunciation": "米", 
+        "trans": [
+            "米", 
+            "编号：239", 
+            "组号：208", 
+            "部件名称：米（mǐ）", 
+            "例字：粉眯类楼"
+        ]
+    }, 
+    {
+        "name": "KRe", 
+        "notation": "免", 
+        "split": "儿", 
+        "pronunciation": "免", 
+        "trans": [
+            "免", 
+            "编号：240", 
+            "组号：209", 
+            "部件名称：免（miǎn）", 
+            "例字：晚冕兔馋"
+        ]
+    }, 
+    {
+        "name": "Ea", 
+        "notation": "面", 
+        "split": "面", 
+        "pronunciation": "面", 
+        "trans": [
+            "面", 
+            "编号：241", 
+            "组号：210", 
+            "部件名称：面（miàn）", 
+            "例字：缅"
+        ]
+    }, 
+    {
+        "name": "Ni", 
+        "notation": "民", 
+        "split": "民", 
+        "pronunciation": "民", 
+        "trans": [
+            "民", 
+            "编号：242", 
+            "组号：211", 
+            "部件名称：民（mín）", 
+            "例字：氓眠"
+        ]
+    }, 
+    {
+        "name": "Umv", 
+        "notation": "皿", 
+        "split": "皿", 
+        "pronunciation": "皿", 
+        "trans": [
+            "皿", 
+            "编号：243", 
+            "组号：212", 
+            "部件名称：皿（mǐn）", 
+            "例字：孟盘隘蕴"
+        ]
+    }, 
+    {
+        "name": "HM", 
+        "notation": "末", 
+        "split": "一木", 
+        "pronunciation": "末", 
+        "trans": [
+            "末", 
+            "编号：244", 
+            "组号：213", 
+            "部件名称：末（mò）", 
+            "例字：抹袜茉"
+        ]
+    }, 
+    {
+        "name": "Nm", 
+        "notation": "母", 
+        "split": "母", 
+        "pronunciation": "母", 
+        "trans": [
+            "母", 
+            "编号：245", 
+            "组号：214", 
+            "部件名称：母（mǔ）", 
+            "例字：姆毒梅繁"
+        ]
+    }, 
+    {
+        "name": "Mu", 
+        "notation": "木", 
+        "split": "木", 
+        "pronunciation": "木", 
+        "trans": [
+            "木", 
+            "编号：246", 
+            "组号：215", 
+            "部件名称：木（mù）", 
+            "例字：柏沐案闲"
+        ]
+    }, 
+    {
+        "name": "Emu", 
+        "notation": "目", 
+        "split": "目", 
+        "pronunciation": "目", 
+        "trans": [
+            "目", 
+            "编号：247", 
+            "组号：216", 
+            "部件名称：目（mù）", 
+            "例字：睛相看循"
+        ]
+    }, 
+    {
+        "name": "ZF", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "那字旁", 
+        "trans": [
+            "", 
+            "编号：248", 
+            "组号：217", 
+            "部件名称：那（nà）字旁", 
+            "例字：那哪"
+        ]
+    }, 
+    {
+        "name": "Zn", 
+        "notation": "乃", 
+        "split": "乃", 
+        "pronunciation": "乃", 
+        "trans": [
+            "乃", 
+            "编号：249", 
+            "组号：218", 
+            "部件名称：乃（nǎi）", 
+            "例字：奶孕秀携"
+        ]
+    }, 
+    {
+        "name": "CAK", 
+        "notation": "南", 
+        "split": "十冂", 
+        "pronunciation": "南", 
+        "trans": [
+            "南", 
+            "编号：250", 
+            "组号：219", 
+            "部件名称：南（nán）", 
+            "例字：献"
+        ]
+    }, 
+    {
+        "name": "HOSAi", 
+        "notation": "", 
+        "split": "一口丨冖", 
+        "pronunciation": "囊字头", 
+        "trans": [
+            "", 
+            "编号：251", 
+            "组号：220", 
+            "部件名称：囊（náng）字头", 
+            "例字：囊"
+        ]
+    }, 
+    {
+        "name": "AR", 
+        "notation": "内", 
+        "split": "冂人", 
+        "pronunciation": "内", 
+        "trans": [
+            "内", 
+            "编号：252", 
+            "组号：221", 
+            "部件名称：内（nèi）", 
+            "例字：纳蜗窝"
+        ]
+    }, 
+    {
+        "name": "VCh", 
+        "notation": "屰", 
+        "split": "䒑", 
+        "pronunciation": "剪、逆字心", 
+        "trans": [
+            "屰", 
+            "编号：253", 
+            "组号：222", 
+            "部件名称：剪（jiǎn）、逆（nì）字心", 
+            "例字：逆溯塑"
+        ]
+    }, 
+    {
+        "name": "QL", 
+        "notation": "年", 
+        "split": "", 
+        "pronunciation": "年", 
+        "trans": [
+            "年", 
+            "编号：254", 
+            "组号：223", 
+            "部件名称：年（nián）", 
+            "例字：年"
+        ]
+    }, 
+    {
+        "name": "Chv", 
+        "notation": "廿", 
+        "split": "廿", 
+        "pronunciation": "廿", 
+        "trans": [
+            "廿", 
+            "编号：255", 
+            "组号：224", 
+            "部件名称：廿（niàn）", 
+            "例字：度蔗遮"
+        ]
+    }, 
+    {
+        "name": "Ki", 
+        "notation": "鸟", 
+        "split": "鸟", 
+        "pronunciation": "鸟", 
+        "trans": [
+            "鸟", 
+            "编号：256", 
+            "组号：225", 
+            "部件名称：鸟（niǎo）", 
+            "例字：鸵鸡莺鹰"
+        ]
+    }, 
+    {
+        "name": "Ki", 
+        "notation": "", 
+        "split": "鸟", 
+        "pronunciation": "鸟省", 
+        "trans": [
+            "", 
+            "编号：257", 
+            "组号：225", 
+            "部件名称：鸟（niǎo）省", 
+            "例字：岛凫捣"
+        ]
+    }, 
+    {
+        "name": "Ku", 
+        "notation": "牛", 
+        "split": "牛", 
+        "pronunciation": "牛", 
+        "trans": [
+            "牛", 
+            "编号：258", 
+            "组号：226", 
+            "部件名称：牛（niú）", 
+            "例字：件牲犁蟹"
+        ]
+    }, 
+    {
+        "name": "Ku", 
+        "notation": "⺧", 
+        "split": "", 
+        "pronunciation": "告字头", 
+        "trans": [
+            "⺧", 
+            "编号：259", 
+            "组号：226", 
+            "部件名称：告（gào）字头", 
+            "例字：告浩靠窖"
+        ]
+    }, 
+    {
+        "name": "AY", 
+        "notation": "农", 
+        "split": "冖𧘇", 
+        "pronunciation": "农", 
+        "trans": [
+            "农", 
+            "编号：260", 
+            "组号：227", 
+            "部件名称：农（nóng）", 
+            "例字：浓脓"
+        ]
+    }, 
+    {
+        "name": "Cgv", 
+        "notation": "廾", 
+        "split": "廾", 
+        "pronunciation": "弄字底", 
+        "trans": [
+            "廾", 
+            "编号：261", 
+            "组号：228", 
+            "部件名称：弄（nòng）字底", 
+            "例字：弄葬械"
+        ]
+    }, 
+    {
+        "name": "Cv", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "共字底", 
+        "trans": [
+            "", 
+            "编号：262", 
+            "组号：228", 
+            "部件名称：共（gòng）字底", 
+            "例字：共兵兴舆"
+        ]
+    }, 
+    {
+        "name": "Nv", 
+        "notation": "女", 
+        "split": "女", 
+        "pronunciation": "女", 
+        "trans": [
+            "女", 
+            "编号：263", 
+            "组号：229", 
+            "部件名称：女（nǚ）", 
+            "例字：好安姿威"
+        ]
+    }, 
+    {
+        "name": "Apv", 
+        "notation": "爿", 
+        "split": "爿", 
+        "pronunciation": "爿", 
+        "trans": [
+            "爿", 
+            "编号：264", 
+            "组号：230", 
+            "部件名称：爿（pán）", 
+            "例字：藏"
+        ]
+    }, 
+    {
+        "name": "Ap", 
+        "notation": "丬", 
+        "split": "爿", 
+        "pronunciation": "将字旁", 
+        "trans": [
+            "丬", 
+            "编号：265", 
+            "组号：230", 
+            "部件名称：将（jiàng）字旁", 
+            "例字：将妆装寝"
+        ]
+    }, 
+    {
+        "name": "Epi", 
+        "notation": "皮", 
+        "split": "皮", 
+        "pronunciation": "皮", 
+        "trans": [
+            "皮", 
+            "编号：266", 
+            "组号：231", 
+            "部件名称：皮（pí）", 
+            "例字：颇皱婆簸"
+        ]
+    }, 
+    {
+        "name": "Ap", 
+        "notation": "片", 
+        "split": "片", 
+        "pronunciation": "片", 
+        "trans": [
+            "片", 
+            "编号：267", 
+            "组号：232", 
+            "部件名称：片（piàn）", 
+            "例字：版牍牌"
+        ]
+    }, 
+    {
+        "name": "Pie", 
+        "notation": "丿", 
+        "split": "丿", 
+        "pronunciation": "撇", 
+        "trans": [
+            "丿", 
+            "编号：268", 
+            "组号：233", 
+            "部件名称：撇（piě）", 
+            "例字：乏丢系渊"
+        ]
+    }, 
+    {
+        "name": "JHPn", 
+        "notation": "乒", 
+        "split": "一丿", 
+        "pronunciation": "乒", 
+        "trans": [
+            "乒", 
+            "编号：269", 
+            "组号：234", 
+            "部件名称：乒（pīng）", 
+            "例字：乒"
+        ]
+    }, 
+    {
+        "name": "JHDn", 
+        "notation": "乓", 
+        "split": "一丶", 
+        "pronunciation": "乓", 
+        "trans": [
+            "乓", 
+            "编号：270", 
+            "组号：234", 
+            "部件名称：乓（pāng）", 
+            "例字：乓"
+        ]
+    }, 
+    {
+        "name": "JV", 
+        "notation": "平", 
+        "split": "干丷", 
+        "pronunciation": "平", 
+        "trans": [
+            "平", 
+            "编号：271", 
+            "组号：235", 
+            "部件名称：平（píng）", 
+            "例字：评秤苹萍"
+        ]
+    }, 
+    {
+        "name": "Hz", 
+        "notation": "七", 
+        "split": "七", 
+        "pronunciation": "七", 
+        "trans": [
+            "七", 
+            "编号：272", 
+            "组号：236", 
+            "部件名称：七（qī）", 
+            "例字：皂柒"
+        ]
+    }, 
+    {
+        "name": "HXN", 
+        "notation": "妻", 
+        "split": "一肀女", 
+        "pronunciation": "妻", 
+        "trans": [
+            "妻", 
+            "编号：273", 
+            "组号：237", 
+            "部件名称：妻（qī）", 
+            "例字：凄"
+        ]
+    }, 
+    {
+        "name": "UC", 
+        "notation": "其", 
+        "split": "", 
+        "pronunciation": "其", 
+        "trans": [
+            "其", 
+            "编号：274", 
+            "组号：238", 
+            "部件名称：其（qí）", 
+            "例字：期棋基勘"
+        ]
+    }, 
+    {
+        "name": "Wqi", 
+        "notation": "气", 
+        "split": "气", 
+        "pronunciation": "气", 
+        "trans": [
+            "气", 
+            "编号：275", 
+            "组号：239", 
+            "部件名称：气（qì）", 
+            "例字：汽氛"
+        ]
+    }, 
+    {
+        "name": "Pq", 
+        "notation": "千", 
+        "split": "千", 
+        "pronunciation": "千", 
+        "trans": [
+            "千", 
+            "编号：276", 
+            "组号：240", 
+            "部件名称：千（qiān）", 
+            "例字：纤迁乖插"
+        ]
+    }, 
+    {
+        "name": "Vh", 
+        "notation": "䒑", 
+        "split": "䒑", 
+        "pronunciation": "前字头", 
+        "trans": [
+            "䒑", 
+            "编号：277", 
+            "组号：241", 
+            "部件名称：前（qián）字头", 
+            "例字：前兹慈"
+        ]
+    }, 
+    {
+        "name": "HJg", 
+        "notation": "戋", 
+        "split": "一戈", 
+        "pronunciation": "钱字边", 
+        "trans": [
+            "戋", 
+            "编号：278", 
+            "组号：242", 
+            "部件名称：钱（qián）字边", 
+            "例字：残盏溅"
+        ]
+    }, 
+    {
+        "name": "Eq", 
+        "notation": "欠", 
+        "split": "欠", 
+        "pronunciation": "欠", 
+        "trans": [
+            "欠", 
+            "编号：279", 
+            "组号：243", 
+            "部件名称：欠（qiàn）", 
+            "例字：吹软掀资"
+        ]
+    }, 
+    {
+        "name": "J", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "乔字底", 
+        "trans": [
+            "", 
+            "编号：280", 
+            "组号：244", 
+            "部件名称：乔（qiáo）字底", 
+            "例字：价界乔养"
+        ]
+    }, 
+    {
+        "name": "Dh", 
+        "notation": "且", 
+        "split": "且", 
+        "pronunciation": "且", 
+        "trans": [
+            "且", 
+            "编号：281", 
+            "组号：245", 
+            "部件名称：且（qiě）", 
+            "例字：助祖叠悬"
+        ]
+    }, 
+    {
+        "name": "C", 
+        "notation": "龶", 
+        "split": "", 
+        "pronunciation": "青字头", 
+        "trans": [
+            "龶", 
+            "编号：282", 
+            "组号：246", 
+            "部件名称：青（qīng）字头", 
+            "例字：表毒青责"
+        ]
+    }, 
+    {
+        "name": "XFgy", 
+        "notation": "𢀖", 
+        "split": "ス工", 
+        "pronunciation": "轻字边", 
+        "trans": [
+            "𢀖", 
+            "编号：283", 
+            "组号：247", 
+            "部件名称：轻（qīng）字边", 
+            "例字：劲轻茎"
+        ]
+    }, 
+    {
+        "name": "JHi", 
+        "notation": "丘", 
+        "split": "一", 
+        "pronunciation": "丘", 
+        "trans": [
+            "丘", 
+            "编号：284", 
+            "组号：248", 
+            "部件名称：丘（qiū）", 
+            "例字：蚯岳"
+        ]
+    }, 
+    {
+        "name": "HS", 
+        "notation": "求", 
+        "split": "一氺丶", 
+        "pronunciation": "求", 
+        "trans": [
+            "求", 
+            "编号：285", 
+            "组号：249", 
+            "部件名称：求（qiú）", 
+            "例字：救球"
+        ]
+    }, 
+    {
+        "name": "Hkv", 
+        "notation": "匚", 
+        "split": "匚", 
+        "pronunciation": "区字框", 
+        "trans": [
+            "匚", 
+            "编号：286", 
+            "组号：250", 
+            "部件名称：区（qū）字框", 
+            "例字：汇区匹筐"
+        ]
+    }, 
+    {
+        "name": "Ia", 
+        "notation": "曲", 
+        "split": "曲", 
+        "pronunciation": "曲", 
+        "trans": [
+            "曲", 
+            "编号：287", 
+            "组号：251", 
+            "部件名称：曲（qǔ）", 
+            "例字：曲"
+        ]
+    }, 
+    {
+        "name": "TG", 
+        "notation": "去", 
+        "split": "土厶", 
+        "pronunciation": "去", 
+        "trans": [
+            "去", 
+            "编号：288", 
+            "组号：252", 
+            "部件名称：去（qù）", 
+            "例字：法丢脚磕"
+        ]
+    }, 
+    {
+        "name": "Kq", 
+        "notation": "犬", 
+        "split": "犬", 
+        "pronunciation": "犬", 
+        "trans": [
+            "犬", 
+            "编号：289", 
+            "组号：253", 
+            "部件名称：犬（quǎn）", 
+            "例字：状臭莽获"
+        ]
+    }, 
+    {
+        "name": "Kq", 
+        "notation": "犭", 
+        "split": "犬", 
+        "pronunciation": "反犬旁", 
+        "trans": [
+            "犭", 
+            "编号：290", 
+            "组号：253", 
+            "部件名称：反犬旁（páng）", 
+            "例字：狗狮逛"
+        ]
+    }, 
+    {
+        "name": "ATu", 
+        "notation": "冉", 
+        "split": "冂土", 
+        "pronunciation": "冉", 
+        "trans": [
+            "冉", 
+            "编号：291", 
+            "组号：254", 
+            "部件名称：冉（rǎn）", 
+            "例字：冉"
+        ]
+    }, 
+    {
+        "name": "Rn", 
+        "notation": "人", 
+        "split": "人", 
+        "pronunciation": "人", 
+        "trans": [
+            "人", 
+            "编号：292", 
+            "组号：255", 
+            "部件名称：人（rén）", 
+            "例字：从合囚坐"
+        ]
+    }, 
+    {
+        "name": "Rn", 
+        "notation": "亻", 
+        "split": "人", 
+        "pronunciation": "单立人", 
+        "trans": [
+            "亻", 
+            "编号：293", 
+            "组号：255", 
+            "部件名称：单立人（rén）", 
+            "例字：体堡夜鞭"
+        ]
+    }, 
+    {
+        "name": "Rer", 
+        "notation": "儿", 
+        "split": "儿", 
+        "pronunciation": "儿白", 
+        "trans": [
+            "儿", 
+            "编号：294", 
+            "组号：255", 
+            "部件名称：儿（ér）白", 
+            "例字：允克匹貌"
+        ]
+    }, 
+    {
+        "name": "R", 
+        "notation": "⺈", 
+        "split": "⺈", 
+        "pronunciation": "负心字头", 
+        "trans": [
+            "⺈", 
+            "编号：295", 
+            "组号：255", 
+            "部件名称：负（fù）心字头", 
+            "例字：负危急陷"
+        ]
+    }, 
+    {
+        "name": "Q", 
+        "notation": "𠂉", 
+        "split": "", 
+        "pronunciation": "卧人", 
+        "trans": [
+            "𠂉", 
+            "编号：296", 
+            "组号：255", 
+            "部件名称：卧人（rén）", 
+            "例字：乞每族履"
+        ]
+    }, 
+    {
+        "name": "Grv", 
+        "notation": "壬", 
+        "split": "壬", 
+        "pronunciation": "壬", 
+        "trans": [
+            "壬", 
+            "编号：297", 
+            "组号：256", 
+            "部件名称：壬（rén）", 
+            "例字：任凭淫"
+        ]
+    }, 
+    {
+        "name": "JDd", 
+        "notation": "刃", 
+        "split": "刀丶", 
+        "pronunciation": "刃", 
+        "trans": [
+            "刃", 
+            "编号：298", 
+            "组号：257", 
+            "部件名称：刃（rèn）", 
+            "例字：纫忍涩"
+        ]
+    }, 
+    {
+        "name": "Bo", 
+        "notation": "日", 
+        "split": "日", 
+        "pronunciation": "日", 
+        "trans": [
+            "日", 
+            "编号：299", 
+            "组号：258", 
+            "部件名称：日（rì）", 
+            "例字：晒旧旦宣"
+        ]
+    }, 
+    {
+        "name": "Bov", 
+        "notation": "曰", 
+        "split": "曰", 
+        "pronunciation": "日", 
+        "trans": [
+            "曰", 
+            "编号：300", 
+            "组号：258", 
+            "部件名称：日（rì）", 
+            "例字：曰"
+        ]
+    }, 
+    {
+        "name": "Ru", 
+        "notation": "入", 
+        "split": "入", 
+        "pronunciation": "人心", 
+        "trans": [
+            "入", 
+            "编号：301", 
+            "组号：259", 
+            "部件名称：人（rén）心", 
+            "例字：人"
+        ]
+    }, 
+    {
+        "name": "Hv", 
+        "notation": "三", 
+        "split": "三", 
+        "pronunciation": "三", 
+        "trans": [
+            "三", 
+            "编号：302", 
+            "组号：260", 
+            "部件名称：三（sān）", 
+            "例字：兰叁"
+        ]
+    }, 
+    {
+        "name": "RVC", 
+        "notation": "伞", 
+        "split": "人丷十", 
+        "pronunciation": "伞", 
+        "trans": [
+            "伞", 
+            "编号：303", 
+            "组号：261", 
+            "部件名称：伞（sǎn）", 
+            "例字：伞"
+        ]
+    }, 
+    {
+        "name": "TVbu", 
+        "notation": "", 
+        "split": "土丷", 
+        "pronunciation": "桑字头", 
+        "trans": [
+            "", 
+            "编号：304", 
+            "组号：262", 
+            "部件名称：丧（sāng）字头", 
+            "例字：丧墙"
+        ]
+    }, 
+    {
+        "name": "RKb", 
+        "notation": "色", 
+        "split": "⺈巴", 
+        "pronunciation": "色", 
+        "trans": [
+            "色", 
+            "编号：305", 
+            "组号：263", 
+            "部件名称：色（sè）", 
+            "例字：绝艳"
+        ]
+    }, 
+    {
+        "name": "Ts", 
+        "notation": "山", 
+        "split": "山", 
+        "pronunciation": "山", 
+        "trans": [
+            "山", 
+            "编号：306", 
+            "组号：264", 
+            "部件名称：山（shān）", 
+            "例字：岭仙岁岔"
+        ]
+    }, 
+    {
+        "name": "Y", 
+        "notation": "彡", 
+        "split": "彡", 
+        "pronunciation": "彡", 
+        "trans": [
+            "彡", 
+            "编号：307", 
+            "组号：265", 
+            "部件名称：彡(", 
+            "例字：衫参彪颜"
+        ]
+    }, 
+    {
+        "name": "IAv", 
+        "notation": "", 
+        "split": "冂", 
+        "pronunciation": "商字头", 
+        "trans": [
+            "", 
+            "编号：308", 
+            "组号：266", 
+            "部件名称：商（shāng）字头", 
+            "例字：商滴摘"
+        ]
+    }, 
+    {
+        "name": "QH", 
+        "notation": "上", 
+        "split": "⺊一", 
+        "pronunciation": "上", 
+        "trans": [
+            "上", 
+            "编号：309", 
+            "组号：267", 
+            "部件名称：上（shàng）", 
+            "例字：让卡叔戚"
+        ]
+    }, 
+    {
+        "name": "PDk", 
+        "notation": "勺", 
+        "split": "勹丶", 
+        "pronunciation": "勺", 
+        "trans": [
+            "勺", 
+            "编号：310", 
+            "组号：268", 
+            "部件名称：勺（sháo）", 
+            "例字：的钓芍药"
+        ]
+    }, 
+    {
+        "name": "WP", 
+        "notation": "少", 
+        "split": "小丿", 
+        "pronunciation": "少", 
+        "trans": [
+            "少", 
+            "编号：311", 
+            "组号：269", 
+            "部件名称：少（shǎo）", 
+            "例字：沙省渺"
+        ]
+    }, 
+    {
+        "name": "Eo", 
+        "notation": "舌", 
+        "split": "舌", 
+        "pronunciation": "舌", 
+        "trans": [
+            "舌", 
+            "编号：312", 
+            "组号：270", 
+            "部件名称：舌（shé）", 
+            "例字：乱话适阔"
+        ]
+    }, 
+    {
+        "name": "BS", 
+        "notation": "申", 
+        "split": "日丨", 
+        "pronunciation": "申", 
+        "trans": [
+            "申", 
+            "编号：313", 
+            "组号：271", 
+            "部件名称：申（shēn）", 
+            "例字：畅神审婶"
+        ]
+    }, 
+    {
+        "name": "Es", 
+        "notation": "身", 
+        "split": "身", 
+        "pronunciation": "身", 
+        "trans": [
+            "身", 
+            "编号：314", 
+            "组号：272", 
+            "部件名称：身（shēn）", 
+            "例字：躲谢"
+        ]
+    }, 
+    {
+        "name": "PC", 
+        "notation": "升", 
+        "split": "丿廾", 
+        "pronunciation": "升", 
+        "trans": [
+            "升", 
+            "编号：315", 
+            "组号：273", 
+            "部件名称：升（shēng）", 
+            "例字：升"
+        ]
+    }, 
+    {
+        "name": "Cp", 
+        "notation": "生", 
+        "split": "生", 
+        "pronunciation": "生", 
+        "trans": [
+            "生", 
+            "编号：316", 
+            "组号：274", 
+            "部件名称：生（shēng）", 
+            "例字：甥性星窿"
+        ]
+    }, 
+    {
+        "name": "Esi", 
+        "notation": "尸", 
+        "split": "尸", 
+        "pronunciation": "尸", 
+        "trans": [
+            "尸", 
+            "编号：317", 
+            "组号：275", 
+            "部件名称：尸（shī）", 
+            "例字：居卢殿霹"
+        ]
+    }, 
+    {
+        "name": "PN", 
+        "notation": "失", 
+        "split": "丿夫", 
+        "pronunciation": "失", 
+        "trans": [
+            "失", 
+            "编号：318", 
+            "组号：276", 
+            "部件名称：失（shī）", 
+            "例字：铁迭"
+        ]
+    }, 
+    {
+        "name": "Ci", 
+        "notation": "十", 
+        "split": "十", 
+        "pronunciation": "#?", 
+        "trans": [
+            "十", 
+            "编号：319", 
+            "组号：277", 
+            "部件名称：#?", 
+            "例字：什古早质"
+        ]
+    }, 
+    {
+        "name": "To", 
+        "notation": "石", 
+        "split": "石", 
+        "pronunciation": "石", 
+        "trans": [
+            "石", 
+            "编号：320", 
+            "组号：278", 
+            "部件名称：石（shí）", 
+            "例字：砖拓泵岩"
+        ]
+    }, 
+    {
+        "name": "Us", 
+        "notation": "食", 
+        "split": "食", 
+        "pronunciation": "食", 
+        "trans": [
+            "食", 
+            "编号：321", 
+            "组号：279", 
+            "部件名称：食（shí）", 
+            "例字：食餐"
+        ]
+    }, 
+    {
+        "name": "Us", 
+        "notation": "饣", 
+        "split": "食", 
+        "pronunciation": "食旁", 
+        "trans": [
+            "饣", 
+            "编号：322", 
+            "组号：279", 
+            "部件名称：食（shí）旁", 
+            "例字：饱饿"
+        ]
+    }, 
+    {
+        "name": "OX", 
+        "notation": "史", 
+        "split": "口", 
+        "pronunciation": "史", 
+        "trans": [
+            "史", 
+            "编号：323", 
+            "组号：280", 
+            "部件名称：史（shǐ）", 
+            "例字：驶"
+        ]
+    }, 
+    {
+        "name": "Jsi", 
+        "notation": "矢", 
+        "split": "矢", 
+        "pronunciation": "矢", 
+        "trans": [
+            "矢", 
+            "编号：324", 
+            "组号：281", 
+            "部件名称：矢（shǐ）", 
+            "例字：知医族疑"
+        ]
+    }, 
+    {
+        "name": "Ksi", 
+        "notation": "豕", 
+        "split": "豕", 
+        "pronunciation": "豕", 
+        "trans": [
+            "豕", 
+            "编号：325", 
+            "组号：282", 
+            "部件名称：豕（shǐ）", 
+            "例字：家逐檬隧"
+        ]
+    }, 
+    {
+        "name": "Ksi", 
+        "notation": "𧰨", 
+        "split": "", 
+        "pronunciation": "豕省", 
+        "trans": [
+            "𧰨", 
+            "编号：326", 
+            "组号：282", 
+            "部件名称：豕（shǐ）省", 
+            "例字：毅缘"
+        ]
+    }, 
+    {
+        "name": "Ti", 
+        "notation": "士", 
+        "split": "士", 
+        "pronunciation": "士", 
+        "trans": [
+            "士", 
+            "编号：327", 
+            "组号：283", 
+            "部件名称：士（shì）", 
+            "例字：壮吉声桔"
+        ]
+    }, 
+    {
+        "name": "Ns", 
+        "notation": "氏", 
+        "split": "氏", 
+        "pronunciation": "氏", 
+        "trans": [
+            "氏", 
+            "编号：328", 
+            "组号：284", 
+            "部件名称：氏（shì）", 
+            "例字：纸昏婚底"
+        ]
+    }, 
+    {
+        "name": "Qs", 
+        "notation": "示", 
+        "split": "示", 
+        "pronunciation": "示", 
+        "trans": [
+            "示", 
+            "编号：329", 
+            "组号：285", 
+            "部件名称：示（shì）", 
+            "例字：标宗赊慰"
+        ]
+    }, 
+    {
+        "name": "Qsi", 
+        "notation": "礻", 
+        "split": "示", 
+        "pronunciation": "示旁", 
+        "trans": [
+            "礻", 
+            "编号：330", 
+            "组号：285", 
+            "部件名称：示（shì）旁", 
+            "例字：礼视"
+        ]
+    }, 
+    {
+        "name": "CZ", 
+        "notation": "世", 
+        "split": "廿㇗", 
+        "pronunciation": "世", 
+        "trans": [
+            "世", 
+            "编号：331", 
+            "组号：286", 
+            "部件名称：世（shì）", 
+            "例字：泄屉蝶"
+        ]
+    }, 
+    {
+        "name": "HO", 
+        "notation": "事", 
+        "split": "一口", 
+        "pronunciation": "事", 
+        "trans": [
+            "事", 
+            "编号：332", 
+            "组号：287", 
+            "部件名称：事（shì）", 
+            "例字：事"
+        ]
+    }, 
+    {
+        "name": "Fs", 
+        "notation": "手", 
+        "split": "手", 
+        "pronunciation": "手", 
+        "trans": [
+            "手", 
+            "编号：333", 
+            "组号：288", 
+            "部件名称：手（shǒu）", 
+            "例字：掰拿攀撑"
+        ]
+    }, 
+    {
+        "name": "Fs", 
+        "notation": "扌", 
+        "split": "手", 
+        "pronunciation": "提手", 
+        "trans": [
+            "扌", 
+            "编号：334", 
+            "组号：288", 
+            "部件名称：提手（shǒu）", 
+            "例字：打拗哲箍"
+        ]
+    }, 
+    {
+        "name": "VEi", 
+        "notation": "首", 
+        "split": "䒑自", 
+        "pronunciation": "首", 
+        "trans": [
+            "首", 
+            "编号：335", 
+            "组号：289", 
+            "部件名称：首（shǒu）", 
+            "例字：道"
+        ]
+    }, 
+    {
+        "name": "Jxv", 
+        "notation": "殳", 
+        "split": "殳", 
+        "pronunciation": "书、设字边", 
+        "trans": [
+            "殳", 
+            "编号：336", 
+            "组号：290", 
+            "部件名称：殳（shū）、设（shè）字边", 
+            "例字：般疫锻臀"
+        ]
+    }, 
+    {
+        "name": "ZZ", 
+        "notation": "书", 
+        "split": "ヿヿ丨丶", 
+        "pronunciation": "书", 
+        "trans": [
+            "书", 
+            "编号：337", 
+            "组号：291", 
+            "部件名称：书（shū）", 
+            "例字：书"
+        ]
+    }, 
+    {
+        "name": "Ksu", 
+        "notation": "鼠", 
+        "split": "鼠", 
+        "pronunciation": "鼠[", 
+        "trans": [
+            "鼠", 
+            "编号：338", 
+            "组号：292", 
+            "部件名称：鼠（shǔ）[", 
+            "例字：鼠"
+        ]
+    }, 
+    {
+        "name": "S", 
+        "notation": "丨", 
+        "split": "丨", 
+        "pronunciation": "竖", 
+        "trans": [
+            "丨", 
+            "编号：339", 
+            "组号：293", 
+            "部件名称：竖（shù）", 
+            "例字：旧引在渊"
+        ]
+    }, 
+    {
+        "name": "Z", 
+        "notation": "㇗", 
+        "split": "㇗", 
+        "pronunciation": "竖折", 
+        "trans": [
+            "㇗", 
+            "编号：340", 
+            "组号：294", 
+            "部件名称：竖折", 
+            "例字：甚陋喝"
+        ]
+    }, 
+    {
+        "name": "Z", 
+        "notation": "乚", 
+        "split": "乚", 
+        "pronunciation": "竖弯钩", 
+        "trans": [
+            "乚", 
+            "编号：341", 
+            "组号：294", 
+            "部件名称：竖弯钩（gōu）", 
+            "例字：孔礼扎吼"
+        ]
+    }, 
+    {
+        "name": "MD", 
+        "notation": "术", 
+        "split": "木丶", 
+        "pronunciation": "术", 
+        "trans": [
+            "术", 
+            "编号：342", 
+            "组号：295", 
+            "部件名称：术（shù）", 
+            "例字：秫述"
+        ]
+    }, 
+    {
+        "name": "MOu", 
+        "notation": "束", 
+        "split": "木口", 
+        "pronunciation": "東", 
+        "trans": [
+            "束", 
+            "编号：343", 
+            "组号：296", 
+            "部件名称：東(", 
+            "例字：赖嫩速整"
+        ]
+    }, 
+    {
+        "name": "OHi", 
+        "notation": "", 
+        "split": "口一", 
+        "pronunciation": "衰字腰", 
+        "trans": [
+            "", 
+            "编号：344", 
+            "组号：297", 
+            "部件名称：衰（shuāi）字腰", 
+            "例字：衰"
+        ]
+    }, 
+    {
+        "name": "PZv", 
+        "notation": "甩", 
+        "split": "用乚", 
+        "pronunciation": "甩", 
+        "trans": [
+            "甩", 
+            "编号：345", 
+            "组号：298", 
+            "部件名称：甩（shuǎi）", 
+            "例字：甩"
+        ]
+    }, 
+    {
+        "name": "SSbb", 
+        "notation": "", 
+        "split": "冫", 
+        "pronunciation": "率字腰", 
+        "trans": [
+            "", 
+            "编号：346", 
+            "组号：299", 
+            "部件名称：率（shuài）字腰", 
+            "例字：脊率函犀"
+        ]
+    }, 
+    {
+        "name": "Te", 
+        "notation": "阝", 
+        "split": "阝", 
+        "pronunciation": "双耳'", 
+        "trans": [
+            "阝", 
+            "编号：347", 
+            "组号：300", 
+            "部件名称：双耳（ěr）'", 
+            "例字：队邦椭坠"
+        ]
+    }, 
+    {
+        "name": "Lci", 
+        "notation": "彳", 
+        "split": "彳", 
+        "pronunciation": "双立人", 
+        "trans": [
+            "彳", 
+            "编号：348", 
+            "组号：301", 
+            "部件名称：双立人（rén）", 
+            "例字：往彻惩覆"
+        ]
+    }, 
+    {
+        "name": "Sv", 
+        "notation": "氺", 
+        "split": "水", 
+        "pronunciation": "水", 
+        "trans": [
+            "氺", 
+            "编号：349", 
+            "组号：302", 
+            "部件名称：水（shuǐ）", 
+            "例字：冰泉尿踏"
+        ]
+    }, 
+    {
+        "name": "Sv", 
+        "notation": "氵", 
+        "split": "水", 
+        "pronunciation": "三点水", 
+        "trans": [
+            "氵", 
+            "编号：350", 
+            "组号：302", 
+            "部件名称：三点水（shuǐ）", 
+            "例字：河衍阔粱"
+        ]
+    }, 
+    {
+        "name": "Sv", 
+        "notation": "水", 
+        "split": "水", 
+        "pronunciation": "水底", 
+        "trans": [
+            "水", 
+            "编号：351", 
+            "组号：302", 
+            "部件名称：水（shuǐ）底", 
+            "例字：暴录泰膝"
+        ]
+    }, 
+    {
+        "name": "Sv", 
+        "notation": "", 
+        "split": "水", 
+        "pronunciation": "益字头", 
+        "trans": [
+            "", 
+            "编号：352", 
+            "组号：302", 
+            "部件名称：益（yì）字头", 
+            "例字：益隘"
+        ]
+    }, 
+    {
+        "name": "Gsi", 
+        "notation": "厶", 
+        "split": "厶", 
+        "pronunciation": "厶、私字边", 
+        "trans": [
+            "厶", 
+            "编号：353", 
+            "组号：303", 
+            "部件名称：厶(、私(字边", 
+            "例字：私台宏流"
+        ]
+    }, 
+    {
+        "name": "ZH", 
+        "notation": "司", 
+        "split": "一口", 
+        "pronunciation": "司", 
+        "trans": [
+            "司", 
+            "编号：354", 
+            "组号：304", 
+            "部件名称：司（sī）", 
+            "例字：词饲"
+        ]
+    }, 
+    {
+        "name": "YY", 
+        "notation": "丝", 
+        "split": "纟纟", 
+        "pronunciation": "丝", 
+        "trans": [
+            "丝", 
+            "编号：355", 
+            "组号：305", 
+            "部件名称：丝（sī）", 
+            "例字：丝"
+        ]
+    }, 
+    {
+        "name": "As", 
+        "notation": "四", 
+        "split": "四", 
+        "pronunciation": "四", 
+        "trans": [
+            "四", 
+            "编号：356", 
+            "组号：306", 
+            "部件名称：四（sì）", 
+            "例字：四"
+        ]
+    }, 
+    {
+        "name": "Yc", 
+        "notation": "⻒", 
+        "split": "镸", 
+        "pronunciation": "肆字旁", 
+        "trans": [
+            "⻒", 
+            "编号：357", 
+            "组号：307", 
+            "部件名称：肆（sì）字旁", 
+            "例字：肆套鬓"
+        ]
+    }, 
+    {
+        "name": "USj", 
+        "notation": "", 
+        "split": "臼丨", 
+        "pronunciation": "叟字头", 
+        "trans": [
+            "", 
+            "编号：358", 
+            "组号：308", 
+            "部件名称：叟（sǒu）字头", 
+            "例字：嫂瘦"
+        ]
+    }, 
+    {
+        "name": "XJV", 
+        "notation": "肃", 
+        "split": "肀八", 
+        "pronunciation": "肃", 
+        "trans": [
+            "肃", 
+            "编号：359", 
+            "组号：309", 
+            "部件名称：肃（sù）", 
+            "例字：啸箫"
+        ]
+    }, 
+    {
+        "name": "ND", 
+        "notation": "太", 
+        "split": "大丶", 
+        "pronunciation": "太", 
+        "trans": [
+            "太", 
+            "编号：360", 
+            "组号：310", 
+            "部件名称：太（tài）", 
+            "例字：汰态"
+        ]
+    }, 
+    {
+        "name": "Xv", 
+        "notation": "肀", 
+        "split": "聿", 
+        "pronunciation": "唐字心", 
+        "trans": [
+            "肀", 
+            "编号：361", 
+            "组号：311", 
+            "部件名称：唐（táng）字心", 
+            "例字：唐糖"
+        ]
+    }, 
+    {
+        "name": "HN", 
+        "notation": "天", 
+        "split": "一大", 
+        "pronunciation": "天", 
+        "trans": [
+            "天", 
+            "编号：362", 
+            "组号：312", 
+            "部件名称：天（tiān）", 
+            "例字：吞关奏舔"
+        ]
+    }, 
+    {
+        "name": "Ga", 
+        "notation": "田", 
+        "split": "田", 
+        "pronunciation": "田", 
+        "trans": [
+            "田", 
+            "编号：363", 
+            "组号：313", 
+            "部件名称：田（tián）", 
+            "例字：佃奋画衡"
+        ]
+    }, 
+    {
+        "name": "A", 
+        "notation": "冂", 
+        "split": "冂", 
+        "pronunciation": "同字框", 
+        "trans": [
+            "冂", 
+            "编号：364", 
+            "组号：314", 
+            "部件名称：同（tóng）字框", 
+            "例字：同刚尚橘"
+        ]
+    }, 
+    {
+        "name": "SN", 
+        "notation": "头", 
+        "split": "゛大", 
+        "pronunciation": "头", 
+        "trans": [
+            "头", 
+            "编号：365", 
+            "组号：315", 
+            "部件名称：头（tóu）", 
+            "例字：买实读牍"
+        ]
+    }, 
+    {
+        "name": "A", 
+        "notation": "冖", 
+        "split": "冖", 
+        "pronunciation": "秃宝盖", 
+        "trans": [
+            "冖", 
+            "编号：366", 
+            "组号：316", 
+            "部件名称：秃宝盖（tūbǎogài）", 
+            "例字：写罕劳晕"
+        ]
+    }, 
+    {
+        "name": "VTU", 
+        "notation": "凸", 
+        "split": "丨一丨㇎一", 
+        "pronunciation": "凸", 
+        "trans": [
+            "凸", 
+            "编号：367", 
+            "组号：317", 
+            "部件名称：凸（tū）", 
+            "例字：凸"
+        ]
+    }, 
+    {
+        "name": "Tu", 
+        "notation": "土", 
+        "split": "土", 
+        "pronunciation": "土如", 
+        "trans": [
+            "土", 
+            "编号：368", 
+            "组号：318", 
+            "部件名称：土（tǔ）如", 
+            "例字：地社幸庄"
+        ]
+    }, 
+    {
+        "name": "HCi", 
+        "notation": "屯", 
+        "split": "一", 
+        "pronunciation": "屯", 
+        "trans": [
+            "屯", 
+            "编号：369", 
+            "组号：319", 
+            "部件名称：屯（tún）", 
+            "例字：顿吨囤"
+        ]
+    }, 
+    {
+        "name": "PHz", 
+        "notation": "乇", 
+        "split": "丿七", 
+        "pronunciation": "乇、托字边", 
+        "trans": [
+            "乇", 
+            "编号：370", 
+            "组号：320", 
+            "部件名称：乇(、托(字边", 
+            "例字：托宅"
+        ]
+    }, 
+    {
+        "name": "Uw", 
+        "notation": "瓦", 
+        "split": "瓦", 
+        "pronunciation": "瓦", 
+        "trans": [
+            "瓦", 
+            "编号：371", 
+            "组号：321", 
+            "部件名称：瓦（wǎ）", 
+            "例字：瓶瓮"
+        ]
+    }, 
+    {
+        "name": "Pdv", 
+        "notation": "丸", 
+        "split": "丸", 
+        "pronunciation": "丸", 
+        "trans": [
+            "丸", 
+            "编号：372", 
+            "组号：322", 
+            "部件名称：丸（wán）", 
+            "例字：执挚"
+        ]
+    }, 
+    {
+        "name": "HJ", 
+        "notation": "万", 
+        "split": "一", 
+        "pronunciation": "万", 
+        "trans": [
+            "万", 
+            "编号：373", 
+            "组号：323", 
+            "部件名称：万（wàn）", 
+            "例字：厉迈励"
+        ]
+    }, 
+    {
+        "name": "Iz", 
+        "notation": "亡", 
+        "split": "亡", 
+        "pronunciation": "亡", 
+        "trans": [
+            "亡", 
+            "编号：374", 
+            "组号：324", 
+            "部件名称：亡（wáng）", 
+            "例字：氓忙妄芒"
+        ]
+    }, 
+    {
+        "name": "Gw", 
+        "notation": "王", 
+        "split": "王", 
+        "pronunciation": "王", 
+        "trans": [
+            "王", 
+            "编号：375", 
+            "组号：325", 
+            "部件名称：王（wáng）", 
+            "例字：枉望琴噩"
+        ]
+    }, 
+    {
+        "name": "Akv", 
+        "notation": "囗", 
+        "split": "囗", 
+        "pronunciation": "☐、围字框", 
+        "trans": [
+            "囗", 
+            "编号：376", 
+            "组号：326", 
+            "部件名称：☐(、围(字框", 
+            "例字：围回烟鄙"
+        ]
+    }, 
+    {
+        "name": "Yw", 
+        "notation": "韦", 
+        "split": "韦", 
+        "pronunciation": "韦", 
+        "trans": [
+            "韦", 
+            "编号：377", 
+            "组号：327", 
+            "部件名称：韦（wéi）", 
+            "例字：韧伟苇围"
+        ]
+    }, 
+    {
+        "name": "ZHi", 
+        "notation": "卫", 
+        "split": "卩一", 
+        "pronunciation": "卫", 
+        "trans": [
+            "卫", 
+            "编号：378", 
+            "组号：328", 
+            "部件名称：卫（wèi）", 
+            "例字：卫"
+        ]
+    }, 
+    {
+        "name": "Yi", 
+        "notation": "", 
+        "split": "衣", 
+        "pronunciation": "畏字底", 
+        "trans": [
+            "", 
+            "编号：379", 
+            "组号：329", 
+            "部件名称：畏（wèi）字底", 
+            "例字：丧畏偎展"
+        ]
+    }, 
+    {
+        "name": "DF", 
+        "notation": "为", 
+        "split": "丶力丶", 
+        "pronunciation": "谓", 
+        "trans": [
+            "为", 
+            "编号：380", 
+            "组号：330", 
+            "部件名称：为（wèi）", 
+            "例字：伪"
+        ]
+    }, 
+    {
+        "name": "Mw", 
+        "notation": "未", 
+        "split": "未", 
+        "pronunciation": "未", 
+        "trans": [
+            "未", 
+            "编号：381", 
+            "组号：331", 
+            "部件名称：未（wèi）", 
+            "例字：妹朱株"
+        ]
+    }, 
+    {
+        "name": "Ix", 
+        "notation": "文", 
+        "split": "文", 
+        "pronunciation": "文", 
+        "trans": [
+            "文", 
+            "编号：382", 
+            "组号：332", 
+            "部件名称：文（wén）", 
+            "例字：蚊吝这班"
+        ]
+    }, 
+    {
+        "name": "PF", 
+        "notation": "我", 
+        "split": "丿扌", 
+        "pronunciation": "我", 
+        "trans": [
+            "我", 
+            "编号：383", 
+            "组号：333", 
+            "部件名称：我（wǒ）", 
+            "例字：鹅俄"
+        ]
+    }, 
+    {
+        "name": "Kw", 
+        "notation": "乌", 
+        "split": "乌", 
+        "pronunciation": "乌", 
+        "trans": [
+            "乌", 
+            "编号：384", 
+            "组号：334", 
+            "部件名称：乌（wū）", 
+            "例字：呜坞"
+        ]
+    }, 
+    {
+        "name": "HH", 
+        "notation": "无", 
+        "split": "一尢", 
+        "pronunciation": "无", 
+        "trans": [
+            "无", 
+            "编号：385", 
+            "组号：335", 
+            "部件名称：无（wú）", 
+            "例字：抚芜"
+        ]
+    }, 
+    {
+        "name": "Hu", 
+        "notation": "五", 
+        "split": "五", 
+        "pronunciation": "五[", 
+        "trans": [
+            "五", 
+            "编号：386", 
+            "组号：336", 
+            "部件名称：五（wǔ）[", 
+            "例字：伍语衙"
+        ]
+    }, 
+    {
+        "name": "QCi", 
+        "notation": "午", 
+        "split": "十", 
+        "pronunciation": "午", 
+        "trans": [
+            "午", 
+            "编号：387", 
+            "组号：337", 
+            "部件名称：午（wǔ）", 
+            "例字：许"
+        ]
+    }, 
+    {
+        "name": "QCHi", 
+        "notation": "", 
+        "split": "卌一", 
+        "pronunciation": "舞[字头", 
+        "trans": [
+            "", 
+            "编号：388", 
+            "组号：338", 
+            "部件名称：舞（wǔ）[字头", 
+            "例字：舞"
+        ]
+    }, 
+    {
+        "name": "HRe", 
+        "notation": "兀", 
+        "split": "一儿", 
+        "pronunciation": "兀", 
+        "trans": [
+            "兀", 
+            "编号：389", 
+            "组号：339", 
+            "部件名称：兀（wù）", 
+            "例字：元光翘"
+        ]
+    }, 
+    {
+        "name": "PYk", 
+        "notation": "勿", 
+        "split": "勹", 
+        "pronunciation": "勿", 
+        "trans": [
+            "勿", 
+            "编号：390", 
+            "组号：340", 
+            "部件名称：勿（wù）", 
+            "例字：物忽易踢"
+        ]
+    }, 
+    {
+        "name": "Jpv", 
+        "notation": "戊", 
+        "split": "戊", 
+        "pronunciation": "戊", 
+        "trans": [
+            "戊", 
+            "编号：391", 
+            "组号：341", 
+            "部件名称：戊（wù）", 
+            "例字：成茂威感"
+        ]
+    }, 
+    {
+        "name": "Dxi", 
+        "notation": "夕", 
+        "split": "夕", 
+        "pronunciation": "夕[", 
+        "trans": [
+            "夕", 
+            "编号：392", 
+            "组号：342", 
+            "部件名称：夕（xī）[", 
+            "例字：外名鸳舞"
+        ]
+    }, 
+    {
+        "name": "Dv", 
+        "notation": "", 
+        "split": "月", 
+        "pronunciation": "夜下角", 
+        "trans": [
+            "", 
+            "编号：393", 
+            "组号：342", 
+            "部件名称：夜（yè）下角", 
+            "例字：夜液"
+        ]
+    }, 
+    {
+        "name": "CHi", 
+        "notation": "龷", 
+        "split": "艹一", 
+        "pronunciation": "昔字头", 
+        "trans": [
+            "龷", 
+            "编号：394", 
+            "组号：343", 
+            "部件名称：昔（xī）字头", 
+            "例字：昔巷展暴"
+        ]
+    }, 
+    {
+        "name": "Ax", 
+        "notation": "西", 
+        "split": "西", 
+        "pronunciation": "西", 
+        "trans": [
+            "西", 
+            "编号：395", 
+            "组号：344", 
+            "部件名称：西（xī）", 
+            "例字：洒晒牺"
+        ]
+    }, 
+    {
+        "name": "Ax", 
+        "notation": "覀", 
+        "split": "覀", 
+        "pronunciation": "要字头", 
+        "trans": [
+            "覀", 
+            "编号：396", 
+            "组号：344", 
+            "部件名称：要（yào）字头", 
+            "例字：票谭腰"
+        ]
+    }, 
+    {
+        "name": "Ev", 
+        "notation": "习", 
+        "split": "习", 
+        "pronunciation": "习", 
+        "trans": [
+            "习", 
+            "编号：397", 
+            "组号：345", 
+            "部件名称：习（xí）", 
+            "例字：羽翻翠"
+        ]
+    }, 
+    {
+        "name": "Hd", 
+        "notation": "丁", 
+        "split": "丁", 
+        "pronunciation": "夏字头", 
+        "trans": [
+            "丁", 
+            "编号：398", 
+            "组号：346", 
+            "部件名称：夏（xià）字头", 
+            "例字：夏嘎厦"
+        ]
+    }, 
+    {
+        "name": "HQ", 
+        "notation": "下", 
+        "split": "一卜", 
+        "pronunciation": "下", 
+        "trans": [
+            "下", 
+            "编号：399", 
+            "组号：347", 
+            "部件名称：下（xià）", 
+            "例字：虾吓"
+        ]
+    }, 
+    {
+        "name": "Yxv", 
+        "notation": "乡", 
+        "split": "乡", 
+        "pronunciation": "乡", 
+        "trans": [
+            "乡", 
+            "编号：400", 
+            "组号：348", 
+            "部件名称：乡（xiāng）", 
+            "例字：乡"
+        ]
+    }, 
+    {
+        "name": "PA", 
+        "notation": "向", 
+        "split": "丿冂口", 
+        "pronunciation": "向", 
+        "trans": [
+            "向", 
+            "编号：401", 
+            "组号：349", 
+            "部件名称：向（xiàng）", 
+            "例字：晌响"
+        ]
+    }, 
+    {
+        "name": "Kx", 
+        "notation": "象", 
+        "split": "象", 
+        "pronunciation": "象", 
+        "trans": [
+            "象", 
+            "编号：402", 
+            "组号：350", 
+            "部件名称：象（xiàng）", 
+            "例字：像豫"
+        ]
+    }, 
+    {
+        "name": "Wi", 
+        "notation": "小", 
+        "split": "小", 
+        "pronunciation": "小", 
+        "trans": [
+            "小", 
+            "编号：403", 
+            "组号：351", 
+            "部件名称：小（xiǎo）", 
+            "例字：尖雀原戚"
+        ]
+    }, 
+    {
+        "name": "Wi", 
+        "notation": "⺌", 
+        "split": "小", 
+        "pronunciation": "尚字头", 
+        "trans": [
+            "⺌", 
+            "编号：404", 
+            "组号：351", 
+            "部件名称：尚（shàng）字头", 
+            "例字：光尚尝膛"
+        ]
+    }, 
+    {
+        "name": "QHLh", 
+        "notation": "", 
+        "split": "一止", 
+        "pronunciation": "卸字旁", 
+        "trans": [
+            "", 
+            "编号：405", 
+            "组号：352", 
+            "部件名称：卸（xiè）字旁", 
+            "例字：卸御"
+        ]
+    }, 
+    {
+        "name": "Qi", 
+        "notation": "心", 
+        "split": "心", 
+        "pronunciation": "心", 
+        "trans": [
+            "心", 
+            "编号：406", 
+            "组号：353", 
+            "部件名称：心（xīn）", 
+            "例字：悲闷媳瘾"
+        ]
+    }, 
+    {
+        "name": "Qi", 
+        "notation": "⺗", 
+        "split": "心", 
+        "pronunciation": "恭字底", 
+        "trans": [
+            "⺗", 
+            "编号：407", 
+            "组号：353", 
+            "部件名称：恭（gōng）字底", 
+            "例字：恭慕添"
+        ]
+    }, 
+    {
+        "name": "Qi", 
+        "notation": "忄", 
+        "split": "心", 
+        "pronunciation": "竖心", 
+        "trans": [
+            "忄", 
+            "编号：408", 
+            "组号：353", 
+            "部件名称：竖心（xīn）", 
+            "例字：惭懂性"
+        ]
+    }, 
+    {
+        "name": "Ux", 
+        "notation": "辛", 
+        "split": "辛", 
+        "pronunciation": "辛", 
+        "trans": [
+            "辛", 
+            "编号：409", 
+            "组号：354", 
+            "部件名称：辛（xīn）", 
+            "例字：辟辜臂"
+        ]
+    }, 
+    {
+        "name": "Exi", 
+        "notation": "囟", 
+        "split": "囟", 
+        "pronunciation": "囟", 
+        "trans": [
+            "囟", 
+            "编号：410", 
+            "组号：355", 
+            "部件名称：囟（xìn）", 
+            "例字：傻瑙"
+        ]
+    }, 
+    {
+        "name": "JHip", 
+        "notation": "戌", 
+        "split": "戊一", 
+        "pronunciation": "戌", 
+        "trans": [
+            "戌", 
+            "编号：411", 
+            "组号：356", 
+            "部件名称：戌（xū）", 
+            "例字：戌"
+        ]
+    }, 
+    {
+        "name": "I", 
+        "notation": "亠", 
+        "split": "亠", 
+        "pronunciation": "玄字头", 
+        "trans": [
+            "亠", 
+            "编号：412", 
+            "组号：357", 
+            "部件名称：玄（xuán）字头", 
+            "例字：亢亩充液"
+        ]
+    }, 
+    {
+        "name": "S", 
+        "notation": "⺍", 
+        "split": "ツ", 
+        "pronunciation": "学字头", 
+        "trans": [
+            "⺍", 
+            "编号：413", 
+            "组号：358", 
+            "部件名称：学（xué）字头", 
+            "例字：学应敛检"
+        ]
+    }, 
+    {
+        "name": "Avv", 
+        "notation": "穴", 
+        "split": "穴", 
+        "pronunciation": "穴", 
+        "trans": [
+            "穴", 
+            "编号：414", 
+            "组号：359", 
+            "部件名称：穴（xué）", 
+            "例字：空窥榨"
+        ]
+    }, 
+    {
+        "name": "Xji", 
+        "notation": "𫜹", 
+        "split": "彐", 
+        "pronunciation": "雪字底", 
+        "trans": [
+            "𫜹", 
+            "编号：415", 
+            "组号：360", 
+            "部件名称：雪（xuě）字底", 
+            "例字：归寻雪急"
+        ]
+    }, 
+    {
+        "name": "Wv", 
+        "notation": "云", 
+        "split": "云", 
+        "pronunciation": "虐字底", 
+        "trans": [
+            "云", 
+            "编号：416", 
+            "组号：360", 
+            "部件名称：虐（nüè）字底", 
+            "例字：疟虐"
+        ]
+    }, 
+    {
+        "name": "Exv", 
+        "notation": "血", 
+        "split": "血", 
+        "pronunciation": "血", 
+        "trans": [
+            "血", 
+            "编号：417", 
+            "组号：361", 
+            "部件名称：血（xuè）", 
+            "例字：衅恤"
+        ]
+    }, 
+    {
+        "name": "PBw", 
+        "notation": "熏", 
+        "split": "千黑", 
+        "pronunciation": "熏", 
+        "trans": [
+            "熏", 
+            "编号：418", 
+            "组号：362", 
+            "部件名称：熏（xūn）", 
+            "例字：熏"
+        ]
+    }, 
+    {
+        "name": "ZCi", 
+        "notation": "卂", 
+        "split": "⺄十", 
+        "pronunciation": "讯字边", 
+        "trans": [
+            "卂", 
+            "编号：419", 
+            "组号：363", 
+            "部件名称：讯（xùn）字边", 
+            "例字：讯迅"
+        ]
+    }, 
+    {
+        "name": "VS", 
+        "notation": "丫", 
+        "split": "丷丨", 
+        "pronunciation": "丫", 
+        "trans": [
+            "丫", 
+            "编号：420", 
+            "组号：364", 
+            "部件名称：丫（yā）", 
+            "例字：丫"
+        ]
+    }, 
+    {
+        "name": "Eya", 
+        "notation": "牙", 
+        "split": "牙", 
+        "pronunciation": "牙", 
+        "trans": [
+            "牙", 
+            "编号：421", 
+            "组号：365", 
+            "部件名称：牙（yá）", 
+            "例字：邪雅讶芽"
+        ]
+    }, 
+    {
+        "name": "HWh", 
+        "notation": "亚", 
+        "split": "一业", 
+        "pronunciation": "亚", 
+        "trans": [
+            "亚", 
+            "编号：422", 
+            "组号：366", 
+            "部件名称：亚（yà）", 
+            "例字：哑晋普"
+        ]
+    }, 
+    {
+        "name": "HZWu", 
+        "notation": "", 
+        "split": "一ㄅ灬", 
+        "pronunciation": "焉字底", 
+        "trans": [
+            "", 
+            "编号：423", 
+            "组号：367", 
+            "部件名称：焉（yān）字底", 
+            "例字：焉蔫"
+        ]
+    }, 
+    {
+        "name": "PLh", 
+        "notation": "", 
+        "split": "丿止", 
+        "pronunciation": "延字心", 
+        "trans": [
+            "", 
+            "编号：424", 
+            "组号：368", 
+            "部件名称：延（yán）字心", 
+            "例字：延诞"
+        ]
+    }, 
+    {
+        "name": "HWT", 
+        "notation": "严", 
+        "split": "一厂", 
+        "pronunciation": "严", 
+        "trans": [
+            "严", 
+            "编号：425", 
+            "组号：369", 
+            "部件名称：严（yán）", 
+            "例字：严"
+        ]
+    }, 
+    {
+        "name": "Ii", 
+        "notation": "言", 
+        "split": "言", 
+        "pronunciation": "言", 
+        "trans": [
+            "言", 
+            "编号：426", 
+            "组号：370", 
+            "部件名称：言（yán）", 
+            "例字：信警檐"
+        ]
+    }, 
+    {
+        "name": "Ii", 
+        "notation": "讠", 
+        "split": "言", 
+        "pronunciation": "言旁", 
+        "trans": [
+            "讠", 
+            "编号：427", 
+            "组号：370", 
+            "部件名称：言（yán）旁", 
+            "例字：话谴辩罚"
+        ]
+    }, 
+    {
+        "name": "ANr", 
+        "notation": "央", 
+        "split": "冂大", 
+        "pronunciation": "央", 
+        "trans": [
+            "央", 
+            "编号：428", 
+            "组号：371", 
+            "部件名称：央（yāng）", 
+            "例字：秧鸯英"
+        ]
+    }, 
+    {
+        "name": "ZY", 
+        "notation": "𠃓", 
+        "split": "ㄋ", 
+        "pronunciation": "杨字边", 
+        "trans": [
+            "𠃓", 
+            "编号：429", 
+            "组号：372", 
+            "部件名称：杨（yáng）字边", 
+            "例字：场烫荡"
+        ]
+    }, 
+    {
+        "name": "Ky", 
+        "notation": "羊", 
+        "split": "羊", 
+        "pronunciation": "羊", 
+        "trans": [
+            "羊", 
+            "编号：430", 
+            "组号：373", 
+            "部件名称：羊（yáng）", 
+            "例字：群羚氧癣"
+        ]
+    }, 
+    {
+        "name": "Ky", 
+        "notation": "⺷", 
+        "split": "⺷", 
+        "pronunciation": "美字头", 
+        "trans": [
+            "⺷", 
+            "编号：431", 
+            "组号：373", 
+            "部件名称：美（měi）字头", 
+            "例字：盖羔美漾"
+        ]
+    }, 
+    {
+        "name": "KDy", 
+        "notation": "", 
+        "split": "⺶㇏", 
+        "pronunciation": "养字头", 
+        "trans": [
+            "", 
+            "编号：432", 
+            "组号：373", 
+            "部件名称：养（yǎng）字头", 
+            "例字：养"
+        ]
+    }, 
+    {
+        "name": "Yaov", 
+        "notation": "幺", 
+        "split": "幺", 
+        "pronunciation": "幺、幼字旁", 
+        "trans": [
+            "幺", 
+            "编号：433", 
+            "组号：374", 
+            "部件名称：幺（yāo）、幼（yòu）字旁", 
+            "例字：幼玄幽率"
+        ]
+    }, 
+    {
+        "name": "PNr", 
+        "notation": "夭", 
+        "split": "丿大", 
+        "pronunciation": "夭", 
+        "trans": [
+            "夭", 
+            "编号：434", 
+            "组号：375", 
+            "部件名称：夭（yāo）", 
+            "例字：袄乔笑桥"
+        ]
+    }, 
+    {
+        "name": "Jge", 
+        "notation": "", 
+        "split": "戈", 
+        "pronunciation": "尧字头", 
+        "trans": [
+            "", 
+            "编号：435", 
+            "组号：376", 
+            "部件名称：尧（yáo）字头", 
+            "例字：浇翘"
+        ]
+    }, 
+    {
+        "name": "Ye", 
+        "notation": "也", 
+        "split": "也", 
+        "pronunciation": "也", 
+        "trans": [
+            "也", 
+            "编号：436", 
+            "组号：377", 
+            "部件名称：也（yě）", 
+            "例字：地施"
+        ]
+    }, 
+    {
+        "name": "Wh", 
+        "notation": "业", 
+        "split": "业", 
+        "pronunciation": "业", 
+        "trans": [
+            "业", 
+            "编号：437", 
+            "组号：378", 
+            "部件名称：业（yè）", 
+            "例字：显虚凿"
+        ]
+    }, 
+    {
+        "name": "Eye", 
+        "notation": "页", 
+        "split": "页", 
+        "pronunciation": "页", 
+        "trans": [
+            "页", 
+            "编号：438", 
+            "组号：379", 
+            "部件名称：页（yè）", 
+            "例字：项濒嚣"
+        ]
+    }, 
+    {
+        "name": "BZP", 
+        "notation": "曳", 
+        "split": "曰㇂丿", 
+        "pronunciation": "曳、拽字边", 
+        "trans": [
+            "曳", 
+            "编号：439", 
+            "组号：380", 
+            "部件名称：曳（yè）、拽（zhuài）字边", 
+            "例字：拽"
+        ]
+    }, 
+    {
+        "name": "Yi", 
+        "notation": "衣", 
+        "split": "衣", 
+        "pronunciation": "衣", 
+        "trans": [
+            "衣", 
+            "编号：440", 
+            "组号：381", 
+            "部件名称：衣（yī）", 
+            "例字：依哀嚷裁"
+        ]
+    }, 
+    {
+        "name": "Yi", 
+        "notation": "𧘇", 
+        "split": "𧘇", 
+        "pronunciation": "衣省", 
+        "trans": [
+            "𧘇", 
+            "编号：441", 
+            "组号：381", 
+            "部件名称：衣（yī）省", 
+            "例字：表袁猿"
+        ]
+    }, 
+    {
+        "name": "Yiv", 
+        "notation": "衤", 
+        "split": "衤", 
+        "pronunciation": "衣旁", 
+        "trans": [
+            "衤", 
+            "编号：442", 
+            "组号：381", 
+            "部件名称：衣（yī）旁", 
+            "例字：被襟褪"
+        ]
+    }, 
+    {
+        "name": "Kji", 
+        "notation": "彑", 
+        "split": "彑", 
+        "pronunciation": "彝字头", 
+        "trans": [
+            "彑", 
+            "编号：443", 
+            "组号：382", 
+            "部件名称：彝（yí）字头", 
+            "例字：缘彝"
+        ]
+    }, 
+    {
+        "name": "NJg", 
+        "notation": "夷", 
+        "split": "大弓", 
+        "pronunciation": "夷", 
+        "trans": [
+            "夷", 
+            "编号：444", 
+            "组号：383", 
+            "部件名称：夷（yí）", 
+            "例字：姨胰"
+        ]
+    }, 
+    {
+        "name": "Nc", 
+        "notation": "𦣞", 
+        "split": "臣", 
+        "pronunciation": "颐字旁", 
+        "trans": [
+            "𦣞", 
+            "编号：445", 
+            "组号：384", 
+            "部件名称：颐（yí）字旁", 
+            "例字：熙"
+        ]
+    }, 
+    {
+        "name": "Xyi", 
+        "notation": "乂", 
+        "split": "乂", 
+        "pronunciation": "又、艾字底", 
+        "trans": [
+            "乂", 
+            "编号：446", 
+            "组号：385", 
+            "部件名称：又（yòu）、艾（ài）字底", 
+            "例字：艾区驳樊"
+        ]
+    }, 
+    {
+        "name": "Jyi", 
+        "notation": "弋", 
+        "split": "弋", 
+        "pronunciation": "弋、代字边", 
+        "trans": [
+            "弋", 
+            "编号：447", 
+            "组号：386", 
+            "部件名称：弋（yì）、代（dài）字边", 
+            "例字：代式腻"
+        ]
+    }, 
+    {
+        "name": "DX", 
+        "notation": "义", 
+        "split": "丶乂", 
+        "pronunciation": "义", 
+        "trans": [
+            "义", 
+            "编号：448", 
+            "组号：387", 
+            "部件名称：义（yì）", 
+            "例字：仪蚁"
+        ]
+    }, 
+    {
+        "name": "IWu", 
+        "notation": "亦", 
+        "split": "亠", 
+        "pronunciation": "亦", 
+        "trans": [
+            "亦", 
+            "编号：449", 
+            "组号：388", 
+            "部件名称：亦（yì）", 
+            "例字：变奕迹"
+        ]
+    }, 
+    {
+        "name": "Es", 
+        "notation": "㐆", 
+        "split": "身", 
+        "pronunciation": "殷字旁", 
+        "trans": [
+            "㐆", 
+            "编号：450", 
+            "组号：389", 
+            "部件名称：殷（yīn）字旁", 
+            "例字：殷"
+        ]
+    }, 
+    {
+        "name": "ARe", 
+        "notation": "冘", 
+        "split": "冖儿", 
+        "pronunciation": "鬼、枕字边", 
+        "trans": [
+            "冘", 
+            "编号：451", 
+            "组号：390", 
+            "部件名称：宄（guǐ）、枕（zhěn）字边", 
+            "例字：忱耽沈"
+        ]
+    }, 
+    {
+        "name": "XPj", 
+        "notation": "尹", 
+        "split": "丿", 
+        "pronunciation": "尹", 
+        "trans": [
+            "尹", 
+            "编号：452", 
+            "组号：391", 
+            "部件名称：尹（yǐn）", 
+            "例字：伊君笋群"
+        ]
+    }, 
+    {
+        "name": "TXP", 
+        "notation": "庸", 
+        "split": "广肀", 
+        "pronunciation": "庸", 
+        "trans": [
+            "庸", 
+            "编号：453", 
+            "组号：392", 
+            "部件名称：庸（yōng）", 
+            "例字：庸"
+        ]
+    }, 
+    {
+        "name": "Zd", 
+        "notation": "龴", 
+        "split": "龴", 
+        "pronunciation": "勇字头", 
+        "trans": [
+            "龴", 
+            "编号：454", 
+            "组号：393", 
+            "部件名称：勇（yǒng）字头", 
+            "例字：捅疑勇痛"
+        ]
+    }, 
+    {
+        "name": "DS", 
+        "notation": "永", 
+        "split": "丶水", 
+        "pronunciation": "永", 
+        "trans": [
+            "永", 
+            "编号：455", 
+            "组号：394", 
+            "部件名称：永（yǒng）", 
+            "例字：泳漾"
+        ]
+    }, 
+    {
+        "name": "Pv", 
+        "notation": "用", 
+        "split": "用", 
+        "pronunciation": "用", 
+        "trans": [
+            "用", 
+            "编号：456", 
+            "组号：395", 
+            "部件名称：用（yòng）", 
+            "例字：拥诵勇通"
+        ]
+    }, 
+    {
+        "name": "Hy", 
+        "notation": "尤", 
+        "split": "尢", 
+        "pronunciation": "尤", 
+        "trans": [
+            "尤", 
+            "编号：457", 
+            "组号：396", 
+            "部件名称：尤（yóu）", 
+            "例字：犹稽"
+        ]
+    }, 
+    {
+        "name": "Gy", 
+        "notation": "由", 
+        "split": "由", 
+        "pronunciation": "由", 
+        "trans": [
+            "由", 
+            "编号：458", 
+            "组号：397", 
+            "部件名称：由（yóu）", 
+            "例字：邮届庙演"
+        ]
+    }, 
+    {
+        "name": "Uy", 
+        "notation": "酉", 
+        "split": "酉", 
+        "pronunciation": "酉", 
+        "trans": [
+            "酉", 
+            "编号：459", 
+            "组号：398", 
+            "部件名称：酉（yǒu）", 
+            "例字：醒酒酱尊"
+        ]
+    }, 
+    {
+        "name": "Xy", 
+        "notation": "又", 
+        "split": "又", 
+        "pronunciation": "又", 
+        "trans": [
+            "又", 
+            "编号：460", 
+            "组号：399", 
+            "部件名称：又（yòu）", 
+            "例字：邓叹受怪"
+        ]
+    }, 
+    {
+        "name": "HF", 
+        "notation": "于", 
+        "split": "一", 
+        "pronunciation": "于", 
+        "trans": [
+            "于", 
+            "编号：461", 
+            "组号：400", 
+            "部件名称：于（yú）", 
+            "例字：吁宇迂"
+        ]
+    }, 
+    {
+        "name": "Kv", 
+        "notation": "鱼", 
+        "split": "鱼", 
+        "pronunciation": "鱼", 
+        "trans": [
+            "鱼", 
+            "编号：462", 
+            "组号：401", 
+            "部件名称：鱼（yú）", 
+            "例字：鲤渔鲁鳖"
+        ]
+    }, 
+    {
+        "name": "GLa", 
+        "notation": "禺", 
+        "split": "田⽱", 
+        "pronunciation": "愚、愚字头", 
+        "trans": [
+            "禺", 
+            "编号：463", 
+            "组号：402", 
+            "部件名称：禺（yú）、愚（yú）字头", 
+            "例字：隅愚寓遇"
+        ]
+    }, 
+    {
+        "name": "HZ", 
+        "notation": "与", 
+        "split": "一ㄅ一", 
+        "pronunciation": "与", 
+        "trans": [
+            "与", 
+            "编号：464", 
+            "组号：403", 
+            "部件名称：与（yǔ）", 
+            "例字：屿写泻"
+        ]
+    }, 
+    {
+        "name": "Zv", 
+        "notation": "予", 
+        "split": "予", 
+        "pronunciation": "予", 
+        "trans": [
+            "予", 
+            "编号：465", 
+            "组号：404", 
+            "部件名称：予（yǔ）", 
+            "例字：预舒序墅"
+        ]
+    }, 
+    {
+        "name": "Ws", 
+        "notation": "雨", 
+        "split": "雨", 
+        "pronunciation": "雨", 
+        "trans": [
+            "雨", 
+            "编号：466", 
+            "组号：405", 
+            "部件名称：雨（yǔ）", 
+            "例字：需霜蠕"
+        ]
+    }, 
+    {
+        "name": "PO", 
+        "notation": "禹", 
+        "split": "丿口⽱", 
+        "pronunciation": "禹", 
+        "trans": [
+            "禹", 
+            "编号：467", 
+            "组号：406", 
+            "部件名称：禹（yǔ）", 
+            "例字：属嘱"
+        ]
+    }, 
+    {
+        "name": "Gv", 
+        "notation": "玉", 
+        "split": "玉", 
+        "pronunciation": "玉", 
+        "trans": [
+            "玉", 
+            "编号：468", 
+            "组号：407", 
+            "部件名称：玉（yù）", 
+            "例字：宝璧国"
+        ]
+    }, 
+    {
+        "name": "Gw", 
+        "notation": "⺩", 
+        "split": "王", 
+        "pronunciation": "斜玉", 
+        "trans": [
+            "⺩", 
+            "编号：469", 
+            "组号：407", 
+            "部件名称：斜玉（yù）", 
+            "例字：玻班"
+        ]
+    }, 
+    {
+        "name": "Xv", 
+        "notation": "聿", 
+        "split": "聿", 
+        "pronunciation": "聿、律字边", 
+        "trans": [
+            "聿", 
+            "编号：470", 
+            "组号：408", 
+            "部件名称：聿（yù）、律（lǜ）字边", 
+            "例字：律肆建"
+        ]
+    }, 
+    {
+        "name": "Dv", 
+        "notation": "月", 
+        "split": "月", 
+        "pronunciation": "月、肉月", 
+        "trans": [
+            "月", 
+            "编号：471", 
+            "组号：409", 
+            "部件名称：月（yuè）、肉月（ròuyuè）", 
+            "例字：期明胆服"
+        ]
+    }, 
+    {
+        "name": "Err", 
+        "notation": "肉", 
+        "split": "肉", 
+        "pronunciation": "肉", 
+        "trans": [
+            "肉", 
+            "编号：472", 
+            "组号：409", 
+            "部件名称：肉（ròu）", 
+            "例字：腐瘸"
+        ]
+    }, 
+    {
+        "name": "Dv", 
+        "notation": "⺝", 
+        "split": "月", 
+        "pronunciation": "青字底", 
+        "trans": [
+            "⺝", 
+            "编号：473", 
+            "组号：409", 
+            "部件名称：青（qīng）字底", 
+            "例字：青肩前婿"
+        ]
+    }, 
+    {
+        "name": "D", 
+        "notation": "", 
+        "split": "", 
+        "pronunciation": "然左角", 
+        "trans": [
+            "", 
+            "编号：474", 
+            "组号：409", 
+            "部件名称：然（rán）左角", 
+            "例字：祭察燃"
+        ]
+    }, 
+    {
+        "name": "JZg", 
+        "notation": "戉", 
+        "split": "戈レ", 
+        "pronunciation": "戊、越字心", 
+        "trans": [
+            "戉", 
+            "编号：475", 
+            "组号：410", 
+            "部件名称：戊（wù）、越（yuè）字心", 
+            "例字：越"
+        ]
+    }, 
+    {
+        "name": "Wv", 
+        "notation": "云", 
+        "split": "云", 
+        "pronunciation": "云", 
+        "trans": [
+            "云", 
+            "编号：476", 
+            "组号：411", 
+            "部件名称：云（yún）", 
+            "例字：魂耘会运"
+        ]
+    }, 
+    {
+        "name": "HA", 
+        "notation": "再", 
+        "split": "一冂土", 
+        "pronunciation": "再", 
+        "trans": [
+            "再", 
+            "编号：477", 
+            "组号：412", 
+            "部件名称：再（zài）", 
+            "例字：再"
+        ]
+    }, 
+    {
+        "name": "QQv", 
+        "notation": "乍", 
+        "split": "", 
+        "pronunciation": "乍", 
+        "trans": [
+            "乍", 
+            "编号：478", 
+            "组号：413", 
+            "部件名称：乍（zhà）", 
+            "例字：昨怎窄"
+        ]
+    }, 
+    {
+        "name": "HXi", 
+        "notation": "丈", 
+        "split": "一", 
+        "pronunciation": "丈", 
+        "trans": [
+            "丈", 
+            "编号：479", 
+            "组号：414", 
+            "部件名称：丈（zhàng）", 
+            "例字：仗杖"
+        ]
+    }, 
+    {
+        "name": "Xzv", 
+        "notation": "爪", 
+        "split": "爪", 
+        "pronunciation": "找", 
+        "trans": [
+            "爪", 
+            "编号：480", 
+            "组号：415", 
+            "部件名称：爪（zhǎo）", 
+            "例字：抓爬"
+        ]
+    }, 
+    {
+        "name": "Xji", 
+        "notation": "", 
+        "split": "彐", 
+        "pronunciation": "印字旁", 
+        "trans": [
+            "", 
+            "编号：481", 
+            "组号：415", 
+            "部件名称：印（yìn）字旁", 
+            "例字：印舆"
+        ]
+    }, 
+    {
+        "name": "Xz", 
+        "notation": "爫", 
+        "split": "爪", 
+        "pronunciation": "爪头", 
+        "trans": [
+            "爫", 
+            "编号：482", 
+            "组号：415", 
+            "部件名称：爪（zhǎo）头", 
+            "例字：采浮摇爵"
+        ]
+    }, 
+    {
+        "name": "RSSb", 
+        "notation": "兆", 
+        "split": "儿冫", 
+        "pronunciation": "兆", 
+        "trans": [
+            "兆", 
+            "编号：483", 
+            "组号：416", 
+            "部件名称：兆（zhào）", 
+            "例字：跳逃"
+        ]
+    }, 
+    {
+        "name": "RX", 
+        "notation": "争", 
+        "split": "⺈", 
+        "pronunciation": "争", 
+        "trans": [
+            "争", 
+            "编号：484", 
+            "组号：417", 
+            "部件名称：争（zhēng）", 
+            "例字：净静筝"
+        ]
+    }, 
+    {
+        "name": "HL", 
+        "notation": "正", 
+        "split": "一止", 
+        "pronunciation": "正", 
+        "trans": [
+            "正", 
+            "编号：485", 
+            "组号：418", 
+            "部件名称：正（zhèng）", 
+            "例字：政证症焉"
+        ]
+    }, 
+    {
+        "name": "Li", 
+        "notation": "之", 
+        "split": "之", 
+        "pronunciation": "之", 
+        "trans": [
+            "之", 
+            "编号：486", 
+            "组号：419", 
+            "部件名称：之（zhī）", 
+            "例字：芝乏泛"
+        ]
+    }, 
+    {
+        "name": "CEH", 
+        "notation": "直", 
+        "split": "十目一", 
+        "pronunciation": "直", 
+        "trans": [
+            "直", 
+            "编号：487", 
+            "组号：420", 
+            "部件名称：直（zhí）", 
+            "例字：值置矗"
+        ]
+    }, 
+    {
+        "name": "Lh", 
+        "notation": "止", 
+        "split": "止", 
+        "pronunciation": "止", 
+        "trans": [
+            "止", 
+            "编号：488", 
+            "组号：421", 
+            "部件名称：止（zhǐ）", 
+            "例字：址步企斌"
+        ]
+    }, 
+    {
+        "name": "L", 
+        "notation": "㐄", 
+        "split": "㐄", 
+        "pronunciation": "降下角", 
+        "trans": [
+            "㐄", 
+            "编号：489", 
+            "组号：421", 
+            "部件名称：降（jiàng）下角", 
+            "例字：降舞鳞瞬"
+        ]
+    }, 
+    {
+        "name": "Lh", 
+        "notation": "龰", 
+        "split": "止", 
+        "pronunciation": "足字底", 
+        "trans": [
+            "龰", 
+            "编号：490", 
+            "组号：421", 
+            "部件名称：足（zú）字底", 
+            "例字：走足堤徙"
+        ]
+    }, 
+    {
+        "name": "Lh", 
+        "notation": "𣥂", 
+        "split": "止", 
+        "pronunciation": "步字底", 
+        "trans": [
+            "𣥂", 
+            "编号：491", 
+            "组号：421", 
+            "部件名称：步（bù）字底", 
+            "例字：步频涉濒"
+        ]
+    }, 
+    {
+        "name": "HTu", 
+        "notation": "至", 
+        "split": "土", 
+        "pronunciation": "至", 
+        "trans": [
+            "至", 
+            "编号：492", 
+            "组号：422", 
+            "部件名称：至（zhì）", 
+            "例字：致侄室"
+        ]
+    }, 
+    {
+        "name": "KYju", 
+        "notation": "", 
+        "split": "牛巾", 
+        "pronunciation": "制字旁", 
+        "trans": [
+            "", 
+            "编号：493", 
+            "组号：423", 
+            "部件名称：制（zhì）字旁", 
+            "例字：制"
+        ]
+    }, 
+    {
+        "name": "Kzi", 
+        "notation": "豸", 
+        "split": "豸", 
+        "pronunciation": "志、豹字旁", 
+        "trans": [
+            "豸", 
+            "编号：494", 
+            "组号：424", 
+            "部件名称：豸（zhì）、豹（bào）字旁", 
+            "例字：豹藐"
+        ]
+    }, 
+    {
+        "name": "OS", 
+        "notation": "中", 
+        "split": "口丨", 
+        "pronunciation": "中", 
+        "trans": [
+            "中", 
+            "编号：495", 
+            "组号：425", 
+            "部件名称：中（zhōng）", 
+            "例字：冲忠衷遗"
+        ]
+    }, 
+    {
+        "name": "PGT", 
+        "notation": "重", 
+        "split": "千田土", 
+        "pronunciation": "重", 
+        "trans": [
+            "重", 
+            "编号：496", 
+            "组号：426", 
+            "部件名称：重（chóng）", 
+            "例字：董懂"
+        ]
+    }, 
+    {
+        "name": "A", 
+        "notation": "⺆", 
+        "split": "冂", 
+        "pronunciation": "周字框", 
+        "trans": [
+            "⺆", 
+            "编号：497", 
+            "组号：427", 
+            "部件名称：周（zhōu）字框", 
+            "例字：周雕绸稠"
+        ]
+    }, 
+    {
+        "name": "Lzv", 
+        "notation": "舟", 
+        "split": "舟", 
+        "pronunciation": "舟", 
+        "trans": [
+            "舟", 
+            "编号：498", 
+            "组号：428", 
+            "部件名称：舟（zhōu）", 
+            "例字：船盘搬"
+        ]
+    }, 
+    {
+        "name": "SS", 
+        "notation": "州", 
+        "split": "川", 
+        "pronunciation": "州", 
+        "trans": [
+            "州", 
+            "编号：499", 
+            "组号：429", 
+            "部件名称：州（zhōu）", 
+            "例字：酬洲"
+        ]
+    }, 
+    {
+        "name": "PMw", 
+        "notation": "朱", 
+        "split": "丿未", 
+        "pronunciation": "朱", 
+        "trans": [
+            "朱", 
+            "编号：500", 
+            "组号：430", 
+            "部件名称：朱（zhū）", 
+            "例字：珠株"
+        ]
+    }, 
+    {
+        "name": "Uzu", 
+        "notation": "竹", 
+        "split": "竹", 
+        "pronunciation": "竹", 
+        "trans": [
+            "竹", 
+            "编号：501", 
+            "组号：431", 
+            "部件名称：竹（zhú）", 
+            "例字：竹"
+        ]
+    }, 
+    {
+        "name": "Uzu", 
+        "notation": "⺮", 
+        "split": "⺮", 
+        "pronunciation": "竹头", 
+        "trans": [
+            "⺮", 
+            "编号：502", 
+            "组号：431", 
+            "部件名称：竹（zhú）头", 
+            "例字：笔等笑筑"
+        ]
+    }, 
+    {
+        "name": "DG", 
+        "notation": "主", 
+        "split": "丶王", 
+        "pronunciation": "主", 
+        "trans": [
+            "主", 
+            "编号：503", 
+            "组号：432", 
+            "部件名称：主（zhǔ）", 
+            "例字：往拄"
+        ]
+    }, 
+    {
+        "name": "VZ", 
+        "notation": "专", 
+        "split": "二乛丶", 
+        "pronunciation": "专", 
+        "trans": [
+            "专", 
+            "编号：504", 
+            "组号：433", 
+            "部件名称：专（zhuān）", 
+            "例字：传转"
+        ]
+    }, 
+    {
+        "name": "Td", 
+        "notation": "𠂤", 
+        "split": "", 
+        "pronunciation": "追字心", 
+        "trans": [
+            "𠂤", 
+            "编号：505", 
+            "组号：434", 
+            "部件名称：追（zhuī）字心", 
+            "例字：追埠薛孽"
+        ]
+    }, 
+    {
+        "name": "Td", 
+        "notation": "㠯", 
+        "split": "㠯", 
+        "pronunciation": "官字底", 
+        "trans": [
+            "㠯", 
+            "编号：506", 
+            "组号：434", 
+            "部件名称：官（guān）字底", 
+            "例字：官管棺遣"
+        ]
+    }, 
+    {
+        "name": "J", 
+        "notation": "", 
+        "split": "リ", 
+        "pronunciation": "师字旁", 
+        "trans": [
+            "", 
+            "编号：507", 
+            "组号：434", 
+            "部件名称：师（shī）字旁", 
+            "例字：归帅狮"
+        ]
+    }, 
+    {
+        "name": "Kzv", 
+        "notation": "隹", 
+        "split": "隹", 
+        "pronunciation": "锥、锥字边", 
+        "trans": [
+            "隹", 
+            "编号：508", 
+            "组号：435", 
+            "部件名称：隹（zhuī）、锥（zhuī）字边", 
+            "例字：准集雀罐"
+        ]
+    }, 
+    {
+        "name": "KDs", 
+        "notation": "豖", 
+        "split": "豕丶", 
+        "pronunciation": "啄字边", 
+        "trans": [
+            "豖", 
+            "编号：509", 
+            "组号：436", 
+            "部件名称：啄（zhuó）字边", 
+            "例字：啄琢"
+        ]
+    }, 
+    {
+        "name": "Nz", 
+        "notation": "子", 
+        "split": "子", 
+        "pronunciation": "子", 
+        "trans": [
+            "子", 
+            "编号：510", 
+            "组号：437", 
+            "部件名称：子（zǐ）", 
+            "例字：孔籽字郭"
+        ]
+    }, 
+    {
+        "name": "JQbg", 
+        "notation": "𠂔", 
+        "split": "弓", 
+        "pronunciation": "姊字边", 
+        "trans": [
+            "𠂔", 
+            "编号：511", 
+            "组号：438", 
+            "部件名称：姊（zǐ）字边", 
+            "例字：姊"
+        ]
+    }, 
+    {
+        "name": "Ei", 
+        "notation": "自", 
+        "split": "自", 
+        "pronunciation": "自", 
+        "trans": [
+            "自", 
+            "编号：512", 
+            "组号：439", 
+            "部件名称：自（zì）", 
+            "例字：咱息瘪"
+        ]
+    }, 
+    {
+        "name": "Ld", 
+        "notation": "辶", 
+        "split": "辶", 
+        "pronunciation": "走之", 
+        "trans": [
+            "辶", 
+            "编号：513", 
+            "组号：440", 
+            "部件名称：走之（zhī）", 
+            "例字：送谜"
+        ]
+    }, 
+    {
+        "name": "F", 
+        "notation": "𠂇", 
+        "split": "", 
+        "pronunciation": "左字框", 
+        "trans": [
+            "𠂇", 
+            "编号：514", 
+            "组号：441", 
+            "部件名称：左（zuǒ）字框", 
+            "例字：左雄爱贼"
+        ]
+    }
+]
