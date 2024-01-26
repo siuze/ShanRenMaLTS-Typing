@@ -270,9 +270,7 @@ const ResultScreen = () => {
               {`${currentDictInfo.name} ${
                 isReviewMode
                   ? '错题复习'
-                  : '第' + (currentChapter + 1) + '章 ' + currentDictInfo.chapterName
-                  ? currentDictInfo.chapterName[currentChapter]
-                  : ''
+                  : '第' + (currentChapter + 1) + '章 ' + (currentDictInfo.chapterName ? currentDictInfo.chapterName[currentChapter] : '')
               }`}
             </div>
             <button className="absolute right-7 top-5" onClick={exitButtonHandler}>
