@@ -1,0 +1,3424 @@
+[
+	{
+		"name": "B",
+		"notation": "白",
+		"split": "白",
+		"pronunciation": "白",
+		"trans": [
+			"主码B（日）还包含与【色彩】有关的字根",
+			"记忆方法：白的普通话拼音是【“B”ái】。或“日”--长得像-->“白”-->色彩"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "B",
+		"notation": "黑",
+		"split": "黑",
+		"pronunciation": "黑",
+		"trans": [
+			"主码B（日）还包含与【色彩】有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "B",
+		"notation": "黄",
+		"split": "黄",
+		"pronunciation": "黄",
+		"trans": [
+			"主码B（日）还包含与【色彩】有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "D",
+		"notation": "夕",
+		"split": "夕",
+		"pronunciation": "夕",
+		"trans": [
+			"主码D（月）还包含与【月】字形相近的字根",
+			"甲金文中「月」和「夕」本來都以月形表示，后世才分化。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "D",
+		"notation": "丹",
+		"split": "丹",
+		"pronunciation": "丹",
+		"trans": [
+			"主码D（月）还包含与【月】字形相近的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "D",
+		"notation": "且",
+		"split": "且",
+		"pronunciation": "且",
+		"trans": [
+			"主码D（月）还包含与【月】字形相近的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "刀",
+		"split": "刀",
+		"pronunciation": "刀",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "斤",
+		"split": "斤",
+		"pronunciation": "斤",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"甲金文中「斤」象曲柄斧，本义是伐木用的斧头。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "干",
+		"split": "干",
+		"pronunciation": "干",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"干，象带有羽饰的盾形。例词：化干戈为玉帛"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "弓",
+		"split": "弓",
+		"pronunciation": "弓",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "矢",
+		"split": "矢",
+		"pronunciation": "矢",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"shǐ，象镝、栝、羽之形，箭。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "殳",
+		"split": "殳",
+		"pronunciation": "书",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"shū，甲金文「殳」會手持捶擊工具之意，本義是一種古兵器，以竹或木製成，頂端有棱。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "矛",
+		"split": "矛",
+		"pronunciation": "矛",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "戈",
+		"split": "戈",
+		"pronunciation": "哥",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "弋",
+		"split": "弋",
+		"pronunciation": "意",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"yì，象下端尖的木棒，引申义有系有绳子的短箭、猎取等"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "戊",
+		"split": "戊",
+		"pronunciation": "雾",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"wù，甲金文象斧钺一类兵器之形，本义是斧。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "J",
+		"notation": "",
+		"split": "",
+		"pronunciation": "枪",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"同「戕qiānɡ」，从「戈」，「爿」声，残害、杀害。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "M",
+		"notation": "未",
+		"split": "未",
+		"pronunciation": "未",
+		"trans": [
+			"主码M（木）还包含与【木】字形相近的字根【未】"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "S",
+		"notation": "冫",
+		"split": "冫",
+		"pronunciation": "冰",
+		"trans": [
+			"主码S（水）还包含与水有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "S",
+		"notation": "川",
+		"split": "川",
+		"pronunciation": "川",
+		"trans": [
+			"主码S（水）还包含与水有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "光",
+		"split": "光",
+		"pronunciation": "光",
+		"trans": [
+			"主码W（火）还包含与自然物质，自然现象有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "气",
+		"split": "气",
+		"pronunciation": "气",
+		"trans": [
+			"主码W（火）还包含与自然物质，自然现象有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "风／風",
+		"split": "风",
+		"pronunciation": "风",
+		"trans": [
+			"主码W（火）还包含与自然物质，自然现象有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "雨",
+		"split": "雨",
+		"pronunciation": "雨",
+		"trans": [
+			"主码W（火）还包含与自然物质，自然现象有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "云",
+		"split": "云",
+		"pronunciation": "云",
+		"trans": [
+			"主码W（火）还包含与自然物质，自然现象有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "小",
+		"split": "小",
+		"pronunciation": "小",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根（火也是这样的结构，还可以像V一样通过W字母自身也有三分对称结构进行记忆）"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "不",
+		"split": "不",
+		"pronunciation": "不",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "尚",
+		"split": "尚",
+		"pronunciation": "尚",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "W",
+		"notation": "业",
+		"split": "业",
+		"pronunciation": "业",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "石",
+		"split": "石",
+		"pronunciation": "石",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "山",
+		"split": "山",
+		"pronunciation": "山",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "谷",
+		"split": "谷",
+		"pronunciation": "谷",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根",
+			"这里取【山谷】的含义，与【稻谷（穀）】不同"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "厂",
+		"split": "厂",
+		"pronunciation": "敞",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根",
+			"厂，本义为山崖，读hăn。今作为「廠」chǎng的简化字。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "广",
+		"split": "广",
+		"pronunciation": "广",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根",
+			"广，本义为依山崖建造的房屋，读yăn。今作为「廣」guǎng的简化字。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "阜",
+		"split": "阜",
+		"pronunciation": "复",
+		"trans": [
+			"主码T（土）主要包括与地域相关的字根",
+			"甲骨文象阶梯。一说象高高的土山，其山坡有梯级。故“阜”可指梯级、山阜、高地。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "邑",
+		"split": "邑",
+		"pronunciation": "意",
+		"trans": [
+			"主码T（土）主要包括与地域相关的字根",
+			"甲金文“邑”字从“囗”（夏商城墙多呈方形）从“卩”（跪坐之人），本义指人聚居的地方。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "阝",
+		"split": "阝",
+		"pronunciation": "双耳旁、左耳刀、右耳刀",
+		"trans": [
+			"主码T（土）主要包括与地域相关的字根",
+			"做偏旁时，在左为「阜」的变体，读音fù，多表地势、升降的意思；在右为「邑」的变体，读音yì，多表都城、封疆的意思。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "",
+		"split": "",
+		"pronunciation": "堆",
+		"trans": [
+			"主码T（土）主要包括与地域相关的字根",
+			"duī，象小土山，「堆」的本字。"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "T",
+		"notation": "士",
+		"split": "士",
+		"pronunciation": "士",
+		"trans": [
+			"主码T（土）还包含与“土”字形相近的字根“士”"
+		],
+		"chapterId": 0
+	},
+	{
+		"name": "K",
+		"notation": "牛",
+		"split": "牛",
+		"pronunciation": "牛",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "羊",
+		"split": "羊",
+		"pronunciation": "羊",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "犬",
+		"split": "犬",
+		"pronunciation": "犬",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "马／馬",
+		"split": "马",
+		"pronunciation": "马",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "鱼／魚",
+		"split": "鱼",
+		"pronunciation": "鱼",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "龙／龍",
+		"split": "龙",
+		"pronunciation": "龙",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "虎",
+		"split": "虎",
+		"pronunciation": "虎",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "鹿",
+		"split": "鹿",
+		"pronunciation": "鹿",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "象",
+		"split": "象",
+		"pronunciation": "象",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "兔",
+		"split": "兔",
+		"pronunciation": "兔",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "鼠",
+		"split": "鼠",
+		"pronunciation": "鼠",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "巴",
+		"split": "巴",
+		"pronunciation": "巴",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"象形，像口部巨大的蛇。本义就是巴蛇，是古代传说中的一种可吞吃大象的巨蛇。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "龟／龜",
+		"split": "龟",
+		"pronunciation": "龟",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "隹",
+		"split": "隹",
+		"pronunciation": "追",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"zhuī，甲金文象鸟形，本义是鸟儿。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "乌／烏",
+		"split": "乌",
+		"pronunciation": "乌",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "鸟／鳥",
+		"split": "鸟",
+		"pronunciation": "鸟",
+		"trans": [
+			"主码K（虫）还包含各种动物字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "黾／黽",
+		"split": "黾",
+		"pronunciation": "黾",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"黽měnɡ，象形，像巨首、大腹、四足之蛙。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "亥",
+		"split": "亥",
+		"pronunciation": "亥",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"一说象猪，古与“豕”同字。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "豕",
+		"split": "豕",
+		"pronunciation": "豕",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"shǐ，甲骨文多象侧视的竖立猪形"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "彑 ",
+		"split": "彑 ",
+		"pronunciation": "寄",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"jì，象猪头之形。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "K",
+		"notation": "豸",
+		"split": "豸",
+		"pronunciation": "志",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"zhì，甲骨文与小篆形近，象张口之猛兽。又指无足之虫，或泛指虫类。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "C",
+		"notation": "生",
+		"split": "生",
+		"pronunciation": "生",
+		"trans": [
+			"主码C（艹）还包含其他与艹字源、字形相关的字根",
+			"生，会意字，像草木从地面长出之形，本义指（草木）生长"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "C",
+		"notation": "丰",
+		"split": "丰",
+		"pronunciation": "丰",
+		"trans": [
+			"主码C（艹）还包含其他与艹字源、字形相关的字根",
+			"丰，会意字，像植物根茎丰满肥大，草木茂盛之意"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "C",
+		"notation": "十",
+		"split": "十",
+		"pronunciation": "十",
+		"trans": [
+			"主码C（艹）还包括具有十字纵横结构的各种字根。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "C",
+		"notation": "井",
+		"split": "井",
+		"pronunciation": "井",
+		"trans": [
+			"主码C（艹）还包括具有十字纵横结构的各种字根。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "R",
+		"notation": "儿",
+		"split": "儿",
+		"pronunciation": "儿",
+		"trans": [
+			"主码R（人）还包含其他与人字源、字形相关的字根",
+			"兒，象人之形。下部构件同「人」。今为兒的简化字。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "R",
+		"notation": "入",
+		"split": "入",
+		"pronunciation": "入",
+		"trans": [
+			"主码R（人）还包含其他与人字源、字形相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "耳",
+		"split": "耳",
+		"pronunciation": "耳",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "目",
+		"split": "目",
+		"pronunciation": "目",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "见／見",
+		"split": "见",
+		"pronunciation": "见",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"由「目」引申得到「见（見）」"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "自",
+		"split": "自",
+		"pronunciation": "自",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"自身",
+			"「自」古文象鼻之形，鼻的本字。引申为从、己等意。",
+			"「自」和「目」字形也相近"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "鼻",
+		"split": "鼻",
+		"pronunciation": "鼻",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "页／頁",
+		"split": "页",
+		"pronunciation": "页",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"页（頁），从𦣻（首）从儿（人），人头之意。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "面",
+		"split": "面",
+		"pronunciation": "面",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"古文从𦣻，代表头部正面，外框「囗」表示「面」的范围。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "舌",
+		"split": "舌",
+		"pronunciation": "舌",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "皮",
+		"split": "皮",
+		"pronunciation": "皮",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "毛",
+		"split": "毛",
+		"pronunciation": "毛",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "羽",
+		"split": "羽",
+		"pronunciation": "羽",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "牙",
+		"split": "牙",
+		"pronunciation": "牙",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "齿／齒",
+		"split": "齿",
+		"pronunciation": "齿",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "尸",
+		"split": "尸",
+		"pronunciation": "尸",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "骨",
+		"split": "骨",
+		"pronunciation": "骨",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "歹",
+		"split": "歹",
+		"pronunciation": "歹",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"歹（𣦵），从半「冎」，表示剔去肉后的残骨，此本义读è。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "血",
+		"split": "血",
+		"pronunciation": "血",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "肉",
+		"split": "肉",
+		"pronunciation": "肉",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "囟",
+		"split": "囟",
+		"pronunciation": "囟",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "角",
+		"split": "角",
+		"pronunciation": "角",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "老",
+		"split": "老",
+		"pronunciation": "老",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"老，象老人长髮、弓背、拄杖之形。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "卵",
+		"split": "卵",
+		"pronunciation": "卵",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "疒",
+		"split": "疒",
+		"pronunciation": "病字旁",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"疒nè，古文象人躺在病床（爿）上。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "髟",
+		"split": "髟",
+		"pronunciation": "彪",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"髟biāo，象人披长髮之形，长髮下垂的样子。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "而",
+		"split": "而",
+		"pronunciation": "而",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"象颊下胡须之形，上部或加一短画作饰笔，本义为颊毛。后借用作连词，所以另造“耏”、“髵”字保存本义。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "欠",
+		"split": "欠",
+		"pronunciation": "欠",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"古文象人张口呼气之形，打呵欠。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "角",
+		"split": "角",
+		"pronunciation": "角",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "E",
+		"notation": "飞",
+		"split": "飞",
+		"pronunciation": "飞",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "F",
+		"notation": "工",
+		"split": "工",
+		"pronunciation": "工",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "F",
+		"notation": "力",
+		"split": "力",
+		"pronunciation": "力",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "F",
+		"notation": "寸",
+		"split": "寸",
+		"pronunciation": "寸",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根",
+			"中医诊脉部位名，又叫“寸口” 手掌后桡骨高处下为寸"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "F",
+		"notation": "才",
+		"split": "才",
+		"pronunciation": "才",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根",
+			"和提手旁「扌」以及「寸」字形相似"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "Q",
+		"notation": "示",
+		"split": "示",
+		"pronunciation": "示",
+		"trans": [
+			"主码Q（手）还包含与鬼神信仰行为相关的字根",
+			"象神主之形，引申为天垂征象，示人以祸福，又引申为给人看。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "Q",
+		"notation": "鬼",
+		"split": "鬼",
+		"pronunciation": "鬼",
+		"trans": [
+			"主码Q（手）还包含与鬼神信仰行为相关的字根"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "Q",
+		"notation": "卜",
+		"split": "卜",
+		"pronunciation": "卜",
+		"trans": [
+			"主码Q（手）还包含与鬼神信仰行为相关的字根",
+			"象卜兆之痕纹。古人烧龟甲、牛骨以问卜鬼神。"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "Q",
+		"notation": "非",
+		"split": "非",
+		"pronunciation": "非",
+		"trans": [
+			"主码Q（手）还包含与鬼神信仰行为相关的字根",
+			"从【卜】字扩展来的对称字形"
+		],
+		"chapterId": 1
+	},
+	{
+		"name": "N",
+		"notation": "母",
+		"split": "母",
+		"pronunciation": "母",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "女",
+		"split": "女",
+		"pronunciation": "女",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "子",
+		"split": "子",
+		"pronunciation": "子",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根",
+			"注意：「儿」是在主码R下，不是在N下"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "夫",
+		"split": "夫",
+		"pronunciation": "夫",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "大",
+		"split": "大",
+		"pronunciation": "大",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "臣",
+		"split": "臣",
+		"pronunciation": "臣",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "N",
+		"notation": "氏",
+		"split": "氏",
+		"pronunciation": "氏",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "文",
+		"split": "文",
+		"pronunciation": "文",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "册",
+		"split": "册",
+		"pronunciation": "册",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "音",
+		"split": "音",
+		"pronunciation": "音",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "曲",
+		"split": "曲",
+		"pronunciation": "曲",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "壴",
+		"split": "壴",
+		"pronunciation": "住",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根",
+			"壴zhù，象鼓之形，鼓的本字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "龠",
+		"split": "龠",
+		"pronunciation": "越",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根",
+			"龠yüè，象一种用竹管编成的乐器。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "I",
+		"notation": "亠",
+		"split": "亠",
+		"pronunciation": "点横",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "高",
+		"split": "高",
+		"pronunciation": "高",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "立",
+		"split": "立",
+		"pronunciation": "立",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "六",
+		"split": "六",
+		"pronunciation": "六",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "方",
+		"split": "方",
+		"pronunciation": "方",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "齐",
+		"split": "齐",
+		"pronunciation": "齐",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "I",
+		"notation": "亡",
+		"split": "亡",
+		"pronunciation": "亡",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Y",
+		"notation": "麻",
+		"split": "麻",
+		"pronunciation": "麻",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "巾",
+		"split": "巾",
+		"pronunciation": "巾",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "韦／韋",
+		"split": "韦",
+		"pronunciation": "韦",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"韦（韋），甲金文從「囗」從二至四「止」，「囗」表示城邑，象眾人圍城之形，是「圍」的初文。後借來表示皮革，現多用為姓氏。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "革",
+		"split": "革",
+		"pronunciation": "革",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "㡀",
+		"split": "㡀",
+		"pronunciation": "㡀",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"象衣裳破旧之形。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "糸",
+		"split": "糸",
+		"pronunciation": "丝",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"mì，象几缕细丝绞在一起的形状。亦有「絲sī」省作糸。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "幺",
+		"split": "幺",
+		"pronunciation": "腰",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"yāo，象一束小丝。表示「细小」的意思。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "彡",
+		"split": "彡",
+		"pronunciation": "三撇",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"shān，象须毛或画饰的花纹。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "长",
+		"split": "长",
+		"pronunciation": "长",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"长（長），偏旁时作「镸」。象人长发而拄杖，今人多从「长发」入手，以为长久之长。然此字构形与老字同作拄杖形，其本义也有可能是年长或长老。",
+			"注意，山人码最初编排的时候对于字义含有“长发，长须”类特征的字根分类可能不够明晰（也可能有另外的考虑），【髟、老耂、而】在E，但是【镸】【彡】归类到Y下"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "乡",
+		"split": "乡",
+		"pronunciation": "乡",
+		"trans": [
+			"主码Y（衣）还包含与“幺”、“彡”字形相近的的字根“乡”"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "Y",
+		"notation": "也",
+		"split": "也",
+		"pronunciation": "也",
+		"trans": [
+			"主码Y（衣）还包含与字根“也”，通过普通话拼音【“Y”ě】进行记忆。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "禾",
+		"split": "禾",
+		"pronunciation": "禾",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "竹",
+		"split": "竹",
+		"pronunciation": "竹",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "米",
+		"split": "米",
+		"pronunciation": "米",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "麦",
+		"split": "麦",
+		"pronunciation": "麦",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "瓜",
+		"split": "瓜",
+		"pronunciation": "瓜",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "韭",
+		"split": "韭",
+		"pronunciation": "韭",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "豆",
+		"split": "豆",
+		"pronunciation": "豆",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "卤",
+		"split": "卤",
+		"pronunciation": "卤",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "香",
+		"split": "香",
+		"pronunciation": "香",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "甘",
+		"split": "甘",
+		"pronunciation": "甘",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "辛",
+		"split": "辛",
+		"pronunciation": "辛",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "酉",
+		"split": "酉",
+		"pronunciation": "酉",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"yǒu，象盛酒的容器，也代表酒，「酒」的本字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "皿",
+		"split": "皿",
+		"pronunciation": "皿",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "臼",
+		"split": "臼",
+		"pronunciation": "旧",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"象臼器之形，中间下凹的舂米器具。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "鬲",
+		"split": "鬲",
+		"pronunciation": "利",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"lì，象鬲之形，古代一种鼎状炊器。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "鼎",
+		"split": "鼎",
+		"pronunciation": "顶",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"象鼎之形，古代炊器，也作为铭记功绩的礼器。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "缶",
+		"split": "缶",
+		"pronunciation": "否",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"fǒu，象盛酒浆的瓦器，大腹小口，有盖。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "鬯",
+		"split": "鬯",
+		"pronunciation": "畅",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"chàng，象酒器中盛有黑黍与香草酿制的香酒，香酒之意。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "瓦",
+		"split": "瓦",
+		"pronunciation": "瓦",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"象屋瓦一片一片相叠之形。引申为陶制器物的总称。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "凵",
+		"split": "凵",
+		"pronunciation": "凶字框",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"qū，象古时一种盛饭的器具。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "斗",
+		"split": "斗",
+		"pronunciation": "斗",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"象勺形，古代酒器。又为量器，也作量词，十升为一斗。今又为鬥的简化字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "两",
+		"split": "两",
+		"pronunciation": "两",
+		"trans": [
+			"主码U（食）还包含通过量器含义或扩展而来的单位【两】"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "耒",
+		"split": "耒",
+		"pronunciation": "磊",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"耒lěi，象耒之形，古代耕具。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "匕",
+		"split": "匕",
+		"pronunciation": "比",
+		"trans": [
+			"主码U（食）还包含与饮食容器、食物农作相关的字根",
+			"bǐ，象古时一种取食的器具，形状像汤勺。今指匕首。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "U",
+		"notation": "北",
+		"split": "北",
+		"pronunciation": "北",
+		"trans": [
+			"主码U（食）还包含字形像“匕”对称扩展的“北”"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "宀",
+		"split": "宀",
+		"pronunciation": "宝盖头",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"宀mián，象房屋之形。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "冖",
+		"split": "冖",
+		"pronunciation": "秃宝盖",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"冖mì，象覆盖物之形，「冪」的本字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "冂",
+		"split": "冂",
+		"pronunciation": "同字框",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"冂jǐong，象门扃（门闩、门环）之形，扃的本字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "囗",
+		"split": "囗",
+		"pronunciation": "方框",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"wéi，古同「围」字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "穴",
+		"split": "穴",
+		"pronunciation": "穴",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"穴，从「宀」、「八」，象嵌空之形，土室之意。引申为洞穴等意。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "㓁",
+		"split": "㓁",
+		"pronunciation": "网",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"㓁wǎng，「网」的变体。象网状覆盖之形。字形与「穴」相近"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "罒",
+		"split": "罒",
+		"pronunciation": "四字头",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"罒wǎng，「网」的变体。象网状覆盖之形。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "四",
+		"split": "四",
+		"pronunciation": "四",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"与“罒”字形接近"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "西",
+		"split": "西",
+		"pronunciation": "西",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"与“四”字形接近"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "户",
+		"split": "户",
+		"pronunciation": "户",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"户，象单扇门形。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "囱",
+		"split": "囱",
+		"pronunciation": "窗",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"chuāng，象窗形，「窗」的本字。另读cōng指烟囱。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "A",
+		"notation": "片",
+		"split": "片",
+		"pronunciation": "片",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"片piàn，象劈木而成的木片。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "止",
+		"split": "止",
+		"pronunciation": "止",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"「止」的甲骨文及金文皆為獨體象形字，象人的腳掌。今天通用的「止」字，是隸變後的結果。在隸變以前的古文字中，解腳掌的「止」其實有左右之分，也有朝上朝下之別，故實可包括「止」、「𣥂」、「夊」、「㐄」這四種基本形態，分別指向上或前的左腳，向上或前的右腳，向下或向後的左腳，和向下或向後的右腳，此外還有一些變形。透過四者的混合使用，許多有空間導向的字都可以形成，如「步」、「夅」、「陟」、「降」、「韋」、「舛」、「出」、「各」等。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "之",
+		"split": "之",
+		"pronunciation": "之",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"会意，从「止」，从「一」（代表某地），「止」形向前，表示人离此地往他处而去。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "走",
+		"split": "走",
+		"pronunciation": "走",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "足",
+		"split": "足",
+		"pronunciation": "足",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "舛",
+		"split": "舛",
+		"pronunciation": "舛",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"舛，从二“止”，且方向相反，象两足各走各路，乃引申出违背、横逆等义。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "舟",
+		"split": "舟",
+		"pronunciation": "舟",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "车",
+		"split": "车",
+		"pronunciation": "车",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "禸",
+		"split": "禸",
+		"pronunciation": "柔",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"róu，象兽足蹂地状。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "癶",
+		"split": "癶",
+		"pronunciation": "登字头",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"癶bō，象两足分张之形。亦有行走之意。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "辶",
+		"split": "辶",
+		"pronunciation": "走之",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"辶，同「辵」chuò，会意，从「彳」，从「止」。甲骨文像四面通达的道路之形。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "廴",
+		"split": "廴",
+		"pronunciation": "建之",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"廴yǐn，会意，从「彳」，末画延长，以会长行之意。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "疋",
+		"split": "疋",
+		"pronunciation": "书",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"疋shū，甲金文象足，從大腿到腳板，本義是足。甲金文「足」、「疋」同字。戰國文字開始分化，把「足」字上部寫成「口」形，「疋」字上部寫成圓形或「マ」形。疋另音pǐ，同「匹」字。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "夂",
+		"split": "夂",
+		"pronunciation": "折文",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"夊suī，象倒「止」形，本义为行走迟缓。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "L",
+		"notation": "了",
+		"split": "了",
+		"pronunciation": "了",
+		"trans": [
+			"主码L（行）还包含字根“了”，通过普通话拼音【“L”ē】进行记忆"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "田",
+		"split": "田",
+		"pronunciation": "田",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "由",
+		"split": "由",
+		"pronunciation": "由",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"与「田」字形相近"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "甲",
+		"split": "甲",
+		"pronunciation": "甲",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"与「田」字形相近"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "玉",
+		"split": "玉",
+		"pronunciation": "玉",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "王",
+		"split": "王",
+		"pronunciation": "王",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"「王」与「玉」字形相近因而归类于此。「玉」作为偏旁时省略一点作「」"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "壬",
+		"split": "壬",
+		"pronunciation": "壬",
+		"trans": [
+			"与「玉」、「王」字形相近因而归类于此。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "G",
+		"notation": "厶",
+		"split": "厶",
+		"pronunciation": "私",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"「厶」為「私」的初文。这里取自私牟利或私产的含义归类到G主码下。"
+		],
+		"chapterId": 2
+	},
+	{
+		"name": "H",
+		"notation": "三",
+		"split": "三",
+		"pronunciation": "三",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "五",
+		"split": "五",
+		"pronunciation": "五",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "七",
+		"split": "七",
+		"pronunciation": "七",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "丁",
+		"split": "丁",
+		"pronunciation": "丁",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "可",
+		"split": "可",
+		"pronunciation": "可",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "辰",
+		"split": "辰",
+		"pronunciation": "辰",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "尤",
+		"split": "尤",
+		"pronunciation": "尤",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "甫",
+		"split": "甫",
+		"pronunciation": "甫",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "𠫔",
+		"split": "𠫔",
+		"pronunciation": "公",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"「𠫔」同「肱」，「至」的上部。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "旡",
+		"split": "旡",
+		"pronunciation": "既",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"甲骨文象人回首张口之形，意为饮食气逆哽塞；或同「既jì」"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "H",
+		"notation": "匚",
+		"split": "匚",
+		"pronunciation": "三框",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"fāng，甲金文象一種盛東西的方形器物，是「筐」的初文。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "几",
+		"split": "几",
+		"pronunciation": "挤",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "凡",
+		"split": "凡",
+		"pronunciation": "凡",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "九",
+		"split": "九",
+		"pronunciation": "九",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "千",
+		"split": "千",
+		"pronunciation": "千",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "勹",
+		"split": "勹",
+		"pronunciation": "包字头",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根",
+			"bāo，象人曲形有所包裹，包的本字。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "句",
+		"split": "句",
+		"pronunciation": "句",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "及",
+		"split": "及",
+		"pronunciation": "及",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "P",
+		"notation": "用",
+		"split": "用",
+		"pronunciation": "用",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "乙",
+		"split": "乙",
+		"pronunciation": "乙",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "己",
+		"split": "己",
+		"pronunciation": "己",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "已",
+		"split": "已",
+		"pronunciation": "已",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "巳",
+		"split": "巳",
+		"pronunciation": "巳",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "艮",
+		"split": "艮",
+		"pronunciation": "艮",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "予",
+		"split": "予",
+		"pronunciation": "予",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "乃",
+		"split": "乃",
+		"pronunciation": "乃",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "卩",
+		"split": "卩",
+		"pronunciation": "节",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根",
+			"jié，象跪坐之人形。后被用作「符节」之「节」。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "丩",
+		"split": "丩",
+		"pronunciation": "纠",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根",
+			"象形，像二物像缠绕之形。「纠」的本字。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "龴",
+		"split": "龴",
+		"pronunciation": "勇字头",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Z",
+		"notation": "コ",
+		"split": "コ",
+		"pronunciation": "横折、横",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "V",
+		"notation": "二",
+		"split": "二",
+		"pronunciation": "二",
+		"trans": [
+			"主码V（八）包括少量具有左右两侧对称结构的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "V",
+		"notation": "䒑",
+		"split": "䒑",
+		"pronunciation": "草",
+		"trans": [
+			"主码V（八）包括少量具有左右两侧对称结构的字根",
+			"䒑，「艸」（草）的变体。因其上部有倒八「丷」的二分之形而单独归于本类。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "又",
+		"split": "又",
+		"pronunciation": "又",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "支",
+		"split": "支",
+		"pronunciation": "支",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"从「手」（下部）持半「竹」（上部，半「竹」后讹为「十」形），去竹之枝的意思。「枝」的本字。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "攵",
+		"split": "攵",
+		"pronunciation": "反文",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"攴pū，从「又」，上象棍棒（化为「卜」形），击打之意。「扑」的本字。攵，「攴」的变体"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "爪",
+		"split": "爪",
+		"pronunciation": "爪",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "釆",
+		"split": "釆",
+		"pronunciation": "番字头",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"象兽爪分别之形，辨别之意，「辨」的古字。注意不同于「采」。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "彐",
+		"split": "彐",
+		"pronunciation": "横山",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"jì，「又」的变体。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "X",
+		"notation": "聿",
+		"split": "聿",
+		"pronunciation": "玉",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"yǜ，象手持筆之形，「筆」的本字。"
+		],
+		"chapterId": 3
+	},
+	{
+		"name": "Q",
+		"notation": "非",
+		"split": "非",
+		"pronunciation": "非",
+		"trans": [
+			"主码Q（手）还包含与鬼神信仰行为相关的字根",
+			"从【卜】字扩展来的对称字形"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "W",
+		"notation": "小",
+		"split": "小",
+		"pronunciation": "小",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根（火也是这样的结构，还可以像V一样通过W字母自身也有三分对称结构进行记忆）"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "W",
+		"notation": "不",
+		"split": "不",
+		"pronunciation": "不",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "W",
+		"notation": "尚",
+		"split": "尚",
+		"pronunciation": "尚",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "W",
+		"notation": "业",
+		"split": "业",
+		"pronunciation": "业",
+		"trans": [
+			"主码W（火）还包括少量具有左中右三分对称结构的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "自",
+		"split": "自",
+		"pronunciation": "自",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"自身",
+			"「自」古文象鼻之形，鼻的本字。引申为从、己等意。",
+			"「自」和「目」字形也相近"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "页／頁",
+		"split": "页",
+		"pronunciation": "页",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"页（頁），从𦣻（首）从儿（人），人头之意。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "歹",
+		"split": "歹",
+		"pronunciation": "歹",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"歹（𣦵），从半「冎」，表示剔去肉后的残骨，此本义读è。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "老",
+		"split": "老",
+		"pronunciation": "老",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"老，象老人长髮、弓背、拄杖之形。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "而",
+		"split": "而",
+		"pronunciation": "而",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"象颊下胡须之形，上部或加一短画作饰笔，本义为颊毛。后借用作连词，所以另造“耏”、“髵”字保存本义。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "欠",
+		"split": "欠",
+		"pronunciation": "欠",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"古文象人张口呼气之形，打呵欠。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "飞",
+		"split": "飞",
+		"pronunciation": "飞",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "E",
+		"notation": "见／見",
+		"split": "见",
+		"pronunciation": "见",
+		"trans": [
+			"主码E（身）还包含一些生物形体特征相关的字根",
+			"由「目」引申得到「见（見）」"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "R",
+		"notation": "儿",
+		"split": "儿",
+		"pronunciation": "儿",
+		"trans": [
+			"主码R（人）还包含其他与人字源、字形相关的字根",
+			"兒，象人之形。下部构件同「人」。今为兒的简化字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "T",
+		"notation": "谷",
+		"split": "谷",
+		"pronunciation": "谷",
+		"trans": [
+			"主码T（土）还包含与地质地貌有关的字根",
+			"这里取【山谷】的含义，与【稻谷（穀）】不同"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "T",
+		"notation": "阝",
+		"split": "阝",
+		"pronunciation": "双耳旁、左耳刀、右耳刀",
+		"trans": [
+			"主码T（土）主要包括与地域相关的字根",
+			"做偏旁时，在左为「阜」的变体，读音fù，多表地势、升降的意思；在右为「邑」的变体，读音yì，多表都城、封疆的意思。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "麻",
+		"split": "麻",
+		"pronunciation": "麻",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "韦／韋",
+		"split": "韦",
+		"pronunciation": "韦",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"韦（韋），甲金文從「囗」從二至四「止」，「囗」表示城邑，象眾人圍城之形，是「圍」的初文。後借來表示皮革，現多用為姓氏。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "幺",
+		"split": "幺",
+		"pronunciation": "腰",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"yāo，象一束小丝。表示「细小」的意思。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "彡",
+		"split": "彡",
+		"pronunciation": "三撇",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"shān，象须毛或画饰的花纹。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "长",
+		"split": "长",
+		"pronunciation": "长",
+		"trans": [
+			"主码Y（衣）还包含与衣料、纹饰相关的字根",
+			"长（長），偏旁时作「镸」。象人长发而拄杖，今人多从「长发」入手，以为长久之长。然此字构形与老字同作拄杖形，其本义也有可能是年长或长老。",
+			"注意，山人码最初编排的时候对于字义含有“长发，长须”类特征的字根分类可能不够明晰（也可能有另外的考虑），【髟、老耂、而】在E，但是【镸】【彡】归类到Y下"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "乡",
+		"split": "乡",
+		"pronunciation": "乡",
+		"trans": [
+			"主码Y（衣）还包含与“幺”、“彡”字形相近的的字根“乡”"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Y",
+		"notation": "也",
+		"split": "也",
+		"pronunciation": "也",
+		"trans": [
+			"主码Y（衣）还包含与字根“也”，通过普通话拼音【“Y”ě】进行记忆。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "U",
+		"notation": "两",
+		"split": "两",
+		"pronunciation": "两",
+		"trans": [
+			"主码U（食）还包含通过量器含义或扩展而来的单位【两】"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "U",
+		"notation": "北",
+		"split": "北",
+		"pronunciation": "北",
+		"trans": [
+			"主码U（食）还包含字形像“匕”对称扩展的“北”"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "册",
+		"split": "册",
+		"pronunciation": "册",
+		"trans": [
+			"主码N（言）还包含语言、音曲相关的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "高",
+		"split": "高",
+		"pronunciation": "高",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "立",
+		"split": "立",
+		"pronunciation": "立",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "六",
+		"split": "六",
+		"pronunciation": "六",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "方",
+		"split": "方",
+		"pronunciation": "方",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "齐",
+		"split": "齐",
+		"pronunciation": "齐",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "I",
+		"notation": "亡",
+		"split": "亡",
+		"pronunciation": "亡",
+		"trans": [
+			"主码I（言）还包括大量与「言」具有相同最上部件「亠」的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "几",
+		"split": "几",
+		"pronunciation": "挤",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "凡",
+		"split": "凡",
+		"pronunciation": "凡",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "九",
+		"split": "九",
+		"pronunciation": "九",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "千",
+		"split": "千",
+		"pronunciation": "千",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "勹",
+		"split": "勹",
+		"pronunciation": "包字头",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根",
+			"bāo，象人曲形有所包裹，包的本字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "及",
+		"split": "及",
+		"pronunciation": "及",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "P",
+		"notation": "用",
+		"split": "用",
+		"pronunciation": "用",
+		"trans": [
+			"主码P（丿）主要包括书写笔画以撇起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "A",
+		"notation": "罒",
+		"split": "罒",
+		"pronunciation": "四字头",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"罒wǎng，「网」的变体。象网状覆盖之形。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "A",
+		"notation": "四",
+		"split": "四",
+		"pronunciation": "四",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"与“罒”字形接近"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "A",
+		"notation": "西",
+		"split": "西",
+		"pronunciation": "西",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"与“四”字形接近"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "A",
+		"notation": "片",
+		"split": "片",
+		"pronunciation": "片",
+		"trans": [
+			"主码A（门）还包含与房屋建筑相关的字根、字形",
+			"片piàn，象劈木而成的木片。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "D",
+		"notation": "丹",
+		"split": "丹",
+		"pronunciation": "丹",
+		"trans": [
+			"主码D（月）还包含与【月】字形相近的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "D",
+		"notation": "且",
+		"split": "且",
+		"pronunciation": "且",
+		"trans": [
+			"主码D（月）还包含与【月】字形相近的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "F",
+		"notation": "寸",
+		"split": "寸",
+		"pronunciation": "寸",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根",
+			"中医诊脉部位名，又叫“寸口” 手掌后桡骨高处下为寸"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "F",
+		"notation": "才",
+		"split": "才",
+		"pronunciation": "才",
+		"trans": [
+			"主码F（手）还包含体力劳动以及与手相关或字形相近的字根",
+			"和提手旁「扌」以及「寸」字形相似"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "G",
+		"notation": "厶",
+		"split": "厶",
+		"pronunciation": "私",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"「厶」為「私」的初文。这里取自私牟利或私产的含义归类到G主码下。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "G",
+		"notation": "由",
+		"split": "由",
+		"pronunciation": "由",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"与「田」字形相近"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "G",
+		"notation": "甲",
+		"split": "甲",
+		"pronunciation": "甲",
+		"trans": [
+			"主码G（行）还包含与财产有关的字根及其相近的字形",
+			"与「田」字形相近"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "三",
+		"split": "三",
+		"pronunciation": "三",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "五",
+		"split": "五",
+		"pronunciation": "五",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "七",
+		"split": "七",
+		"pronunciation": "七",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "辰",
+		"split": "辰",
+		"pronunciation": "辰",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "尤",
+		"split": "尤",
+		"pronunciation": "尤",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "甫",
+		"split": "甫",
+		"pronunciation": "甫",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "𠫔",
+		"split": "𠫔",
+		"pronunciation": "公",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"「𠫔」同「肱」，「至」的上部。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "旡",
+		"split": "旡",
+		"pronunciation": "既",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"甲骨文象人回首张口之形，意为饮食气逆哽塞；或同「既jì」"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "H",
+		"notation": "匚",
+		"split": "匚",
+		"pronunciation": "三框",
+		"trans": [
+			"主码H（㇐）包括书写笔画以横起笔的字根",
+			"fāng，甲金文象一種盛東西的方形器物，是「筐」的初文。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "斤",
+		"split": "斤",
+		"pronunciation": "斤",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"甲金文中「斤」象曲柄斧，本义是伐木用的斧头。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "干",
+		"split": "干",
+		"pronunciation": "干",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"干，象带有羽饰的盾形。例词：化干戈为玉帛"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "弋",
+		"split": "弋",
+		"pronunciation": "意",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"yì，象下端尖的木棒，引申义有系有绳子的短箭、猎取等"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "戊",
+		"split": "戊",
+		"pronunciation": "雾",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"wù，甲金文象斧钺一类兵器之形，本义是斧。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "",
+		"split": "",
+		"pronunciation": "枪",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"同「戕qiānɡ」，从「戈」，「爿」声，残害、杀害。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "矢",
+		"split": "矢",
+		"pronunciation": "矢",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"shǐ，象镝、栝、羽之形，箭。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "J",
+		"notation": "殳",
+		"split": "殳",
+		"pronunciation": "书",
+		"trans": [
+			"主码J（金）还包含与金属兵器、利器相关的字根",
+			"shū，甲金文「殳」會手持捶擊工具之意，本義是一種古兵器，以竹或木製成，頂端有棱。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "巴",
+		"split": "巴",
+		"pronunciation": "巴",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"象形，像口部巨大的蛇。本义就是巴蛇，是古代传说中的一种可吞吃大象的巨蛇。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "隹",
+		"split": "隹",
+		"pronunciation": "追",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"zhuī，甲金文象鸟形，本义是鸟儿。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "黾／黽",
+		"split": "黾",
+		"pronunciation": "黾",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"黽měnɡ，象形，像巨首、大腹、四足之蛙。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "亥",
+		"split": "亥",
+		"pronunciation": "亥",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"一说象猪，古与“豕”同字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "豕",
+		"split": "豕",
+		"pronunciation": "豕",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"shǐ，甲骨文多象侧视的竖立猪形"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "彑 ",
+		"split": "彑 ",
+		"pronunciation": "寄",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"jì，象猪头之形。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "K",
+		"notation": "豸",
+		"split": "豸",
+		"pronunciation": "志",
+		"trans": [
+			"主码K（虫）还包含各种动物字根",
+			"zhì，甲骨文与小篆形近，象张口之猛兽。又指无足之虫，或泛指虫类。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "舛",
+		"split": "舛",
+		"pronunciation": "舛",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"舛，从二“止”，且方向相反，象两足各走各路，乃引申出违背、横逆等义。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "止",
+		"split": "止",
+		"pronunciation": "止",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"「止」的甲骨文及金文皆為獨體象形字，象人的腳掌。今天通用的「止」字，是隸變後的結果。在隸變以前的古文字中，解腳掌的「止」其實有左右之分，也有朝上朝下之別，故實可包括「止」、「𣥂」、「夊」、「㐄」這四種基本形態，分別指向上或前的左腳，向上或前的右腳，向下或向後的左腳，和向下或向後的右腳，此外還有一些變形。透過四者的混合使用，許多有空間導向的字都可以形成，如「步」、「夅」、「陟」、「降」、「韋」、「舛」、「出」、「各」等。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "之",
+		"split": "之",
+		"pronunciation": "之",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"会意，从「止」，从「一」（代表某地），「止」形向前，表示人离此地往他处而去。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "禸",
+		"split": "禸",
+		"pronunciation": "柔",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"róu，象兽足蹂地状。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "癶",
+		"split": "癶",
+		"pronunciation": "登字头",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"癶bō，象两足分张之形。亦有行走之意。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "疋",
+		"split": "疋",
+		"pronunciation": "书",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"疋shū，甲金文象足，從大腿到腳板，本義是足。甲金文「足」、「疋」同字。戰國文字開始分化，把「足」字上部寫成「口」形，「疋」字上部寫成圓形或「マ」形。疋另音pǐ，同「匹」字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "夂",
+		"split": "夂",
+		"pronunciation": "折文",
+		"trans": [
+			"主码L（行）还包含与行走、出行相关的字根、字形",
+			"夊suī，象倒「止」形，本义为行走迟缓。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "L",
+		"notation": "了",
+		"split": "了",
+		"pronunciation": "了",
+		"trans": [
+			"主码L（行）还包含字根“了”，通过普通话拼音【“L”ē】进行记忆"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Z",
+		"notation": "艮",
+		"split": "艮",
+		"pronunciation": "艮",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Z",
+		"notation": "予",
+		"split": "予",
+		"pronunciation": "予",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Z",
+		"notation": "乃",
+		"split": "乃",
+		"pronunciation": "乃",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "Z",
+		"notation": "卩",
+		"split": "卩",
+		"pronunciation": "节",
+		"trans": [
+			"主码Z（㇆）主要包括书写笔画以弯折起笔的字根",
+			"jié，象跪坐之人形。后被用作「符节」之「节」。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation": "支",
+		"split": "支",
+		"pronunciation": "支",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"从「手」（下部）持半「竹」（上部，半「竹」后讹为「十」形），去竹之枝的意思。「枝」的本字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation": "攵",
+		"split": "攵",
+		"pronunciation": "反文",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"攴pū，从「又」，上象棍棒（化为「卜」形），击打之意。「扑」的本字。攵，「攴」的变体"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation": "釆",
+		"split": "釆",
+		"pronunciation": "番字头",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"象兽爪分别之形，辨别之意，「辨」的古字。注意不同于「采」。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation": "彐",
+		"split": "彐",
+		"pronunciation": "横山",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"jì，「又」的变体。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "X",
+		"notation": "聿",
+		"split": "聿",
+		"pronunciation": "玉",
+		"trans": [
+			"主码X（乂）主要包括与手爪相关的和具有类似【乂】交叉字形的字根",
+			"yǜ，象手持筆之形，「筆」的本字。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "C",
+		"notation": "生",
+		"split": "生",
+		"pronunciation": "生",
+		"trans": [
+			"主码C（艹）还包含其他与艹字源、字形相关的字根",
+			"生，会意字，像草木从地面长出之形，本义指（草木）生长"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "C",
+		"notation": "丰",
+		"split": "丰",
+		"pronunciation": "丰",
+		"trans": [
+			"主码C（艹）还包含其他与艹字源、字形相关的字根",
+			"丰，会意字，像植物根茎丰满肥大，草木茂盛之意"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "C",
+		"notation": "井",
+		"split": "井",
+		"pronunciation": "井",
+		"trans": [
+			"主码C（艹）还包括具有十字纵横结构的各种字根。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "V",
+		"notation": "䒑",
+		"split": "䒑",
+		"pronunciation": "草",
+		"trans": [
+			"主码V（八）包括少量具有左右两侧对称结构的字根",
+			"䒑，「艸」（草）的变体。因其上部有倒八「丷」的二分之形而单独归于本类。"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "N",
+		"notation": "大",
+		"split": "大",
+		"pronunciation": "大",
+		"trans": [
+			"主码N（民）还包含各种人伦、社会身份相关的字根"
+		],
+		"chapterId": 4
+	},
+	{
+		"name": "M",
+		"notation": "未",
+		"split": "未",
+		"pronunciation": "未",
+		"trans": [
+			"主码M（木）还包含与【木】字形相近的字根【未】"
+		],
+		"chapterId": 4
+	}
+]
