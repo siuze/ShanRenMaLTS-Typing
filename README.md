@@ -1,8 +1,4 @@
-<div align=center>
-<a href="https://siuze.github.io/ShanRenMaLTS-Typing/" target="_blank">
-<img  src="src/assets/banner.png"/>
-</a>
-</div>
+![Social Preview](https://github.com/siuze/ShanRenMaLTS-Typing/assets/54578647/85d83552-2537-4b4a-8b64-569b97860e68)
 
 <h1 align="center">
   <a href="https://siuze.github.io/ShanRenMaLTS-Typing/" target="_blank">山人码LTS · 悟道</a>
